@@ -5,14 +5,16 @@ import FastestLapsSim from "./FastestLapsSim";
 import {Box, FormControl, Grid, InputLabel, MenuItem, Select, Typography} from "@mui/material";
 import CardWithBlueTitle from "./CardWithBlueTitle";
 import LapTable from "./LapTable";
+import DualSpeedGraph from "./DualSpeedGraph";
 
 const circuits = ['Bahrain Grand Prix', 'Saudi Arabian Grand Prix', 'Australian Grand Prix', 'Azerbaijan Grand Prix', 'Miami Grand Prix', 'Monaco Grand Prix', 'Spanish Grand Prix', 'Canadian Grand Prix', 'Austrian Grand Prix', 'British Grand Prix', 'Hungarian Grand Prix', 'Belgian Grand Prix', 'Dutch Grand Prix', 'Italian Grand Prix', 'Singapore Grand Prix', 'Japanese Grand Prix', 'Qatar Grand Prix', 'United States Grand Prix', 'Mexico City Grand Prix', 'São Paulo Grand Prix', 'Las Vegas Grand Prix', 'Abu Dhabi Grand Prix']
 export default function FastestLapPage() {
     const [eventData, setEventData] = useState([]);
     const [fastestLapData, setFastestLapData] = useState([]);
     const [eventNames, setEventNames] = useState([]);
-    const[selectedEvent, setSelectedEvent] = useState('');
-    const[lapTimes, setLapTimes] = useState([]);
+    const [selectedEvent, setSelectedEvent] = useState('');
+    const [lapTimes, setLapTimes] = useState([]);
+    const [lapSpeeds, setLapSpeeds] = useState([]);
 
     useEffect(() => {
         const fetchData = async () => {
@@ -42,18 +44,18 @@ export default function FastestLapPage() {
         if (selectedEventDetails) {
             setFastestLapData(selectedEventDetails.fastestLapData);
             setLapTimes(selectedEventDetails.lapTimes);
+            setLapSpeeds(selectedEventDetails.lapsSpeed)
         }
     }, [selectedEvent]);
-
 
 
     return (<Box sx={{p: 4, height: '100vh'}}>
         <Grid spacing={4} container sx={{height: '100%'}}>
             <Grid item xs={6}>
-                <CardWithBlueTitle text="Fastest Lap Visualizer">
-                    <Box sx={{pb: 2}}>
+                <CardWithBlueTitle text="Fastest Lap Visualizer" customBg={'black'}>
+
                         {fastestLapData && <FastestLapsSim data={fastestLapData}/>}
-                    </Box>
+
                 </CardWithBlueTitle>
             </Grid>
             <Grid item xs={6} container direction="column" spacing={4}>
@@ -77,9 +79,8 @@ export default function FastestLapPage() {
                 </Grid>
                 <Grid item sx={{flexGrow: 1}}>
                     <CardWithBlueTitle text="Fastest Lap Comparison">
-                        <Box sx={{pb: 2}}>
-                            {lapTimes && <LapTable data={lapTimes}></LapTable>}
-                        </Box>
+                        {lapTimes && <LapTable data={lapTimes}></LapTable>}
+                        {lapSpeeds && <DualSpeedGraph data={lapSpeeds}/>}
                     </CardWithBlueTitle>
                 </Grid>
             </Grid>

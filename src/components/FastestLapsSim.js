@@ -20,7 +20,7 @@ const FastestLapsSim = ({data}) => {
 
     return (<Canvas
         gl={{alpha: true, antialias: true}}
-        style={{width: '100%', height: '100vh'}}
+        style={{height: '1000px'}}
         camera={{
             position: [modelCenter[1], 15, modelCenter[0]], fov: 50
         }}

@@ -1,28 +1,36 @@
 // Table component for displaying lap times
 import React from "react";
-import {Box, Card, FormControl, Grid, InputLabel, MenuItem, Paper, Select, Typography} from "@mui/material";
-import * as PropTypes from "prop-types";
+import {
+    Box, Card, CardMedia, Divider, Typography, useTheme
+} from "@mui/material";
 
-function LapTimeTableRow({time, driver}) {
+function LapTimeTableRow({time, driver, imageSource}) {
+    const theme = useTheme();
+    const primaryColor = theme.palette.primary.main;
     return <Box
-        sx={{display: "flex", flexDirection: "row", justifyContent: "space-between", alignItems: "center"}}>
-        <Typography variant="h5" sx={{p: 2}}>
+        sx={{p: 1, display: "flex", flexDirection: "row", justifyContent: "space-between", alignItems: "center"}}>
+        <CardMedia component={'img'} image={imageSource} alt={'Driver image'} sx={{ width: 151 }}></CardMedia>
+        <Typography variant="h5" sx={{p:3,fontWeight: 'bold', color:primaryColor }}>
             {driver}
         </Typography>
-        <Typography variant="h5" sx={{p: 2}}>
-            {time}
+        <Typography variant="h5" sx={{p:3,fontWeight: 'bold'}}>
+            {time ?? 'N/A'}
         </Typography>
     </Box>;
 }
 
-LapTimeTableRow.propTypes = {per: PropTypes.any};
 const LapTable = ({data}) => {
-    return (<Paper elevation={4}>
-        <Box sx={{display: 'flex', flexDirection: 'column', height: '100%'}}>
+    return (<Box sx={{p: 3,}}>
+            <Card>
+                <Box sx={{display: 'flex', flexDirection: 'column', height: '100%'}}>
+                    <LapTimeTableRow time={data.PER} driver="Perez" imageSource={'images/PER.png'}/>
+                    <Divider/>
+                    <LapTimeTableRow time={data.VER} driver="Verstappen" imageSource={'images/VER.png'}/>
+                </Box>
+            </Card>
+        </Box>
 
-            <LapTimeTableRow time={data.PER} driver="Perez"/>
-            <LapTimeTableRow time={data.PER} driver="Perez"/>        </Box>
-    </Paper>);
+    );
 };
 
 export default LapTable;
