@@ -1,0 +1,6897 @@
+{
+  "event": "Azerbaijan Grand Prix",
+  "year": 2023,
+  "fastestLap": {
+    "driver": "VER"
+  },
+  "lapTimes": {
+    "VER": "100.391",
+    "PER": "100.495"
+  },
+  "lapsSpeed": [
+    {
+      "VerDistance": 10.735000000000001,
+      "VerSpeed": 339,
+      "PerDistance": 16.381944444444443,
+      "PerSpeed": 337
+    },
+    {
+      "VerDistance": 37.17944444444445,
+      "VerSpeed": 340,
+      "PerDistance": 31.310277777777777,
+      "PerSpeed": 338
+    },
+    {
+      "VerDistance": 56.068333333333335,
+      "VerSpeed": 340,
+      "PerDistance": 46.332499999999996,
+      "PerSpeed": 338
+    },
+    {
+      "VerDistance": 75.01277777777779,
+      "VerSpeed": 341,
+      "PerDistance": 76.46583333333332,
+      "PerSpeed": 339
+    },
+    {
+      "VerDistance": 90.16833333333334,
+      "VerSpeed": 341,
+      "PerDistance": 95.35472222222222,
+      "PerSpeed": 340
+    },
+    {
+      "VerDistance": 124.36305555555555,
+      "VerSpeed": 341,
+      "PerDistance": 110.46583333333332,
+      "PerSpeed": 340
+    },
+    {
+      "VerDistance": 139.42388888888888,
+      "VerSpeed": 341,
+      "PerDistance": 125.57694444444445,
+      "PerSpeed": 340
+    },
+    {
+      "VerDistance": 158.42388888888888,
+      "VerSpeed": 342,
+      "PerDistance": 140.68805555555556,
+      "PerSpeed": 340
+    },
+    {
+      "VerDistance": 178.70805555555557,
+      "VerSpeed": 303,
+      "PerDistance": 173.48805555555558,
+      "PerSpeed": 328
+    },
+    {
+      "VerDistance": 191.5080555555556,
+      "VerSpeed": 288,
+      "PerDistance": 203.18805555555556,
+      "PerSpeed": 297
+    },
+    {
+      "VerDistance": 207.83972222222224,
+      "VerSpeed": 246,
+      "PerDistance": 219.9213888888889,
+      "PerSpeed": 251
+    },
+    {
+      "VerDistance": 218.1952777777778,
+      "VerSpeed": 233,
+      "PerDistance": 236.4102777777778,
+      "PerSpeed": 212
+    },
+    {
+      "VerDistance": 229.69527777777776,
+      "VerSpeed": 207,
+      "PerDistance": 252.49916666666667,
+      "PerSpeed": 181
+    },
+    {
+      "VerDistance": 240.5286111111111,
+      "VerSpeed": 195,
+      "PerDistance": 261.3880555555556,
+      "PerSpeed": 160
+    },
+    {
+      "VerDistance": 254.9286111111111,
+      "VerSpeed": 162,
+      "PerDistance": 272.74361111111114,
+      "PerSpeed": 146
+    },
+    {
+      "VerDistance": 264.59527777777777,
+      "VerSpeed": 145,
+      "PerDistance": 281.9436111111111,
+      "PerSpeed": 138
+    },
+    {
+      "VerDistance": 274.0619444444444,
+      "VerSpeed": 142,
+      "PerDistance": 289.2213888888889,
+      "PerSpeed": 131
+    },
+    {
+      "VerDistance": 288.50638888888886,
+      "VerSpeed": 130,
+      "PerDistance": 294.86583333333334,
+      "PerSpeed": 127
+    },
+    {
+      "VerDistance": 302.17305555555555,
+      "VerSpeed": 123,
+      "PerDistance": 301.7547222222222,
+      "PerSpeed": 124
+    },
+    {
+      "VerDistance": 315.17305555555555,
+      "VerSpeed": 130,
+      "PerDistance": 311.5547222222222,
+      "PerSpeed": 126
+    },
+    {
+      "VerDistance": 325.9063888888889,
+      "VerSpeed": 138,
+      "PerDistance": 321.74361111111114,
+      "PerSpeed": 131
+    },
+    {
+      "VerDistance": 345.33972222222224,
+      "VerSpeed": 159,
+      "PerDistance": 329.3547222222223,
+      "PerSpeed": 137
+    },
+    {
+      "VerDistance": 354.7286111111111,
+      "VerSpeed": 169,
+      "PerDistance": 339.42138888888894,
+      "PerSpeed": 151
+    },
+    {
+      "VerDistance": 370.9063888888889,
+      "VerSpeed": 182,
+      "PerDistance": 349.88805555555564,
+      "PerSpeed": 157
+    },
+    {
+      "VerDistance": 383.83972222222224,
+      "VerSpeed": 194,
+      "PerDistance": 363.4991666666668,
+      "PerSpeed": 175
+    },
+    {
+      "VerDistance": 399.47305555555556,
+      "VerSpeed": 201,
+      "PerDistance": 371.6325000000001,
+      "PerSpeed": 183
+    },
+    {
+      "VerDistance": 413.60638888888883,
+      "VerSpeed": 212,
+      "PerDistance": 379.99555555555565,
+      "PerSpeed": 187
+    },
+    {
+      "VerDistance": 428.1397222222222,
+      "VerSpeed": 218,
+      "PerDistance": 390.7747222222223,
+      "PerSpeed": 195
+    },
+    {
+      "VerDistance": 443.3361111111111,
+      "VerSpeed": 227,
+      "PerDistance": 406.79694444444453,
+      "PerSpeed": 206
+    },
+    {
+      "VerDistance": 461.3161111111111,
+      "VerSpeed": 232,
+      "PerDistance": 418.5747222222223,
+      "PerSpeed": 212
+    },
+    {
+      "VerDistance": 479.51611111111106,
+      "VerSpeed": 234,
+      "PerDistance": 430.741388888889,
+      "PerSpeed": 219
+    },
+    {
+      "VerDistance": 490.36055555555555,
+      "VerSpeed": 244,
+      "PerDistance": 440.56361111111124,
+      "PerSpeed": 221
+    },
+    {
+      "VerDistance": 504.13833333333326,
+      "VerSpeed": 248,
+      "PerDistance": 463.6275000000001,
+      "PerSpeed": 230
+    },
+    {
+      "VerDistance": 523.9716666666666,
+      "VerSpeed": 255,
+      "PerDistance": 474.0950000000001,
+      "PerSpeed": 237
+    },
+    {
+      "VerDistance": 551.6566666666666,
+      "VerSpeed": 226,
+      "PerDistance": 487.53944444444454,
+      "PerSpeed": 242
+    },
+    {
+      "VerDistance": 560.7108333333333,
+      "VerSpeed": 205,
+      "PerDistance": 504.07472222222236,
+      "PerSpeed": 247
+    },
+    {
+      "VerDistance": 571.488611111111,
+      "VerSpeed": 194,
+      "PerDistance": 515.2302777777779,
+      "PerSpeed": 251
+    },
+    {
+      "VerDistance": 580.7108333333332,
+      "VerSpeed": 166,
+      "PerDistance": 532.0266666666668,
+      "PerSpeed": 253
+    },
+    {
+      "VerDistance": 590.6441666666666,
+      "VerSpeed": 149,
+      "PerDistance": 543.2711111111112,
+      "PerSpeed": 253
+    },
+    {
+      "VerDistance": 596.6441666666666,
+      "VerSpeed": 135,
+      "PerDistance": 556.6044444444444,
+      "PerSpeed": 240
+    },
+    {
+      "VerDistance": 607.8441666666666,
+      "VerSpeed": 126,
+      "PerDistance": 569.9377777777778,
+      "PerSpeed": 240
+    },
+    {
+      "VerDistance": 614.1774999999999,
+      "VerSpeed": 114,
+      "PerDistance": 584.96,
+      "PerSpeed": 169
+    },
+    {
+      "VerDistance": 623.5997222222221,
+      "VerSpeed": 106,
+      "PerDistance": 594.8266666666667,
+      "PerSpeed": 148
+    },
+    {
+      "VerDistance": 630.4663888888888,
+      "VerSpeed": 103,
+      "PerDistance": 603.4933333333333,
+      "PerSpeed": 130
+    },
+    {
+      "VerDistance": 639.7108333333332,
+      "VerSpeed": 104,
+      "PerDistance": 616.2711111111112,
+      "PerSpeed": 115
+    },
+    {
+      "VerDistance": 644.3330555555555,
+      "VerSpeed": 104,
+      "PerDistance": 628.2711111111112,
+      "PerSpeed": 108
+    },
+    {
+      "VerDistance": 649.1330555555554,
+      "VerSpeed": 108,
+      "PerDistance": 638.5711111111111,
+      "PerSpeed": 103
+    },
+    {
+      "VerDistance": 654.1108333333332,
+      "VerSpeed": 112,
+      "PerDistance": 646.5822222222223,
+      "PerSpeed": 103
+    },
+    {
+      "VerDistance": 665.2219444444443,
+      "VerSpeed": 125,
+      "PerDistance": 660.5155555555556,
+      "PerSpeed": 114
+    },
+    {
+      "VerDistance": 670.9552777777775,
+      "VerSpeed": 129,
+      "PerDistance": 667.4044444444445,
+      "PerSpeed": 124
+    },
+    {
+      "VerDistance": 678.6219444444442,
+      "VerSpeed": 138,
+      "PerDistance": 679.848888888889,
+      "PerSpeed": 140
+    },
+    {
+      "VerDistance": 685.0219444444442,
+      "VerSpeed": 144,
+      "PerDistance": 689.9822222222223,
+      "PerSpeed": 152
+    },
+    {
+      "VerDistance": 699.6886111111108,
+      "VerSpeed": 165,
+      "PerDistance": 702.9711111111111,
+      "PerSpeed": 167
+    },
+    {
+      "VerDistance": 711.3552777777775,
+      "VerSpeed": 175,
+      "PerDistance": 714.7044444444444,
+      "PerSpeed": 176
+    },
+    {
+      "VerDistance": 725.9774999999996,
+      "VerSpeed": 188,
+      "PerDistance": 727.3711111111111,
+      "PerSpeed": 190
+    },
+    {
+      "VerDistance": 741.5330555555552,
+      "VerSpeed": 200,
+      "PerDistance": 740.6261111111111,
+      "PerSpeed": 198
+    },
+    {
+      "VerDistance": 755.1330555555552,
+      "VerSpeed": 204,
+      "PerDistance": 756.901111111111,
+      "PerSpeed": 210
+    },
+    {
+      "VerDistance": 774.9280555555551,
+      "VerSpeed": 222,
+      "PerDistance": 774.0122222222222,
+      "PerSpeed": 220
+    },
+    {
+      "VerDistance": 787.5313888888885,
+      "VerSpeed": 228,
+      "PerDistance": 783.9677777777778,
+      "PerSpeed": 224
+    },
+    {
+      "VerDistance": 805.7313888888885,
+      "VerSpeed": 234,
+      "PerDistance": 796.5788888888889,
+      "PerSpeed": 227
+    },
+    {
+      "VerDistance": 818.7313888888885,
+      "VerSpeed": 234,
+      "PerDistance": 815.1677777777777,
+      "PerSpeed": 239
+    },
+    {
+      "VerDistance": 832.2988888888885,
+      "VerSpeed": 243,
+      "PerDistance": 846.0377777777777,
+      "PerSpeed": 252
+    },
+    {
+      "VerDistance": 849.1655555555552,
+      "VerSpeed": 253,
+      "PerDistance": 857.2561111111111,
+      "PerSpeed": 254
+    },
+    {
+      "VerDistance": 869.3155555555552,
+      "VerSpeed": 260,
+      "PerDistance": 871.6449999999999,
+      "PerSpeed": 259
+    },
+    {
+      "VerDistance": 883.9822222222218,
+      "VerSpeed": 264,
+      "PerDistance": 886.256111111111,
+      "PerSpeed": 263
+    },
+    {
+      "VerDistance": 895.8488888888886,
+      "VerSpeed": 267,
+      "PerDistance": 904.1894444444443,
+      "PerSpeed": 269
+    },
+    {
+      "VerDistance": 917.0822222222217,
+      "VerSpeed": 273,
+      "PerDistance": 916.2338888888888,
+      "PerSpeed": 271
+    },
+    {
+      "VerDistance": 932.415555555555,
+      "VerSpeed": 276,
+      "PerDistance": 940.8561111111111,
+      "PerSpeed": 277
+    },
+    {
+      "VerDistance": 954.3488888888884,
+      "VerSpeed": 282,
+      "PerDistance": 956.4116666666666,
+      "PerSpeed": 280
+    },
+    {
+      "VerDistance": 970.1822222222216,
+      "VerSpeed": 285,
+      "PerDistance": 981.9227777777778,
+      "PerSpeed": 287
+    },
+    {
+      "VerDistance": 989.2488888888885,
+      "VerSpeed": 286,
+      "PerDistance": 1001.2561111111113,
+      "PerSpeed": 290
+    },
+    {
+      "VerDistance": 1005.4155555555551,
+      "VerSpeed": 291,
+      "PerDistance": 1027.3894444444447,
+      "PerSpeed": 294
+    },
+    {
+      "VerDistance": 1025.0822222222216,
+      "VerSpeed": 295,
+      "PerDistance": 1040.5450000000003,
+      "PerSpeed": 296
+    },
+    {
+      "VerDistance": 1044.8822222222218,
+      "VerSpeed": 297,
+      "PerDistance": 1053.7894444444444,
+      "PerSpeed": 298
+    },
+    {
+      "VerDistance": 1061.5488888888883,
+      "VerSpeed": 300,
+      "PerDistance": 1067.1227777777776,
+      "PerSpeed": 300
+    },
+    {
+      "VerDistance": 1074.9711111111105,
+      "VerSpeed": 302,
+      "PerDistance": 1094.145,
+      "PerSpeed": 304
+    },
+    {
+      "VerDistance": 1088.3933333333327,
+      "VerSpeed": 302,
+      "PerDistance": 1107.7005555555556,
+      "PerSpeed": 305
+    },
+    {
+      "VerDistance": 1115.5044444444438,
+      "VerSpeed": 305,
+      "PerDistance": 1124.811666666667,
+      "PerSpeed": 308
+    },
+    {
+      "VerDistance": 1139.5377777777774,
+      "VerSpeed": 309,
+      "PerDistance": 1138.545,
+      "PerSpeed": 309
+    },
+    {
+      "VerDistance": 1188.5377777777771,
+      "VerSpeed": 315,
+      "PerDistance": 1166.3672222222224,
+      "PerSpeed": 313
+    },
+    {
+      "VerDistance": 1216.626666666666,
+      "VerSpeed": 316,
+      "PerDistance": 1187.3005555555558,
+      "PerSpeed": 314
+    },
+    {
+      "VerDistance": 1241.4377777777772,
+      "VerSpeed": 319,
+      "PerDistance": 1211.9561111111113,
+      "PerSpeed": 317
+    },
+    {
+      "VerDistance": 1259.2711111111105,
+      "VerSpeed": 321,
+      "PerDistance": 1236.845,
+      "PerSpeed": 320
+    },
+    {
+      "VerDistance": 1287.9822222222217,
+      "VerSpeed": 323,
+      "PerDistance": 1258.2450000000001,
+      "PerSpeed": 321
+    },
+    {
+      "VerDistance": 1309.5822222222216,
+      "VerSpeed": 324,
+      "PerDistance": 1287.0458333333333,
+      "PerSpeed": 323
+    },
+    {
+      "VerDistance": 1327.5822222222216,
+      "VerSpeed": 324,
+      "PerDistance": 1304.9558333333334,
+      "PerSpeed": 324
+    },
+    {
+      "VerDistance": 1342.0711111111104,
+      "VerSpeed": 326,
+      "PerDistance": 1330.233611111111,
+      "PerSpeed": 325
+    },
+    {
+      "VerDistance": 1378.606666666666,
+      "VerSpeed": 328,
+      "PerDistance": 1348.3447222222223,
+      "PerSpeed": 326
+    },
+    {
+      "VerDistance": 1391.6733333333325,
+      "VerSpeed": 294,
+      "PerDistance": 1366.5463888888887,
+      "PerSpeed": 326
+    },
+    {
+      "VerDistance": 1409.206666666666,
+      "VerSpeed": 263,
+      "PerDistance": 1388.0130555555556,
+      "PerSpeed": 322
+    },
+    {
+      "VerDistance": 1424.8080555555548,
+      "VerSpeed": 235,
+      "PerDistance": 1411.1080555555557,
+      "PerSpeed": 298
+    },
+    {
+      "VerDistance": 1440.9858333333327,
+      "VerSpeed": 208,
+      "PerDistance": 1425.0525,
+      "PerSpeed": 251
+    },
+    {
+      "VerDistance": 1452.0524999999996,
+      "VerSpeed": 166,
+      "PerDistance": 1434.9191666666666,
+      "PerSpeed": 222
+    },
+    {
+      "VerDistance": 1463.5636111111105,
+      "VerSpeed": 148,
+      "PerDistance": 1449.1525,
+      "PerSpeed": 183
+    },
+    {
+      "VerDistance": 1473.7524999999994,
+      "VerSpeed": 131,
+      "PerDistance": 1458.0413888888888,
+      "PerSpeed": 160
+    },
+    {
+      "VerDistance": 1485.1524999999995,
+      "VerSpeed": 114,
+      "PerDistance": 1469.163611111111,
+      "PerSpeed": 143
+    },
+    {
+      "VerDistance": 1491.208055555555,
+      "VerSpeed": 109,
+      "PerDistance": 1476.441388888889,
+      "PerSpeed": 131
+    },
+    {
+      "VerDistance": 1501.5080555555548,
+      "VerSpeed": 103,
+      "PerDistance": 1484.2413888888889,
+      "PerSpeed": 117
+    },
+    {
+      "VerDistance": 1507.1747222222216,
+      "VerSpeed": 102,
+      "PerDistance": 1490.4636111111113,
+      "PerSpeed": 112
+    },
+    {
+      "VerDistance": 1512.8969444444438,
+      "VerSpeed": 103,
+      "PerDistance": 1497.730277777778,
+      "PerSpeed": 109
+    },
+    {
+      "VerDistance": 1517.6524999999992,
+      "VerSpeed": 107,
+      "PerDistance": 1504.5969444444445,
+      "PerSpeed": 103
+    },
+    {
+      "VerDistance": 1529.5524999999993,
+      "VerSpeed": 119,
+      "PerDistance": 1510.2636111111112,
+      "PerSpeed": 102
+    },
+    {
+      "VerDistance": 1541.2858333333327,
+      "VerSpeed": 132,
+      "PerDistance": 1514.7969444444445,
+      "PerSpeed": 102
+    },
+    {
+      "VerDistance": 1553.1858333333328,
+      "VerSpeed": 153,
+      "PerDistance": 1519.3302777777778,
+      "PerSpeed": 102
+    },
+    {
+      "VerDistance": 1567.9413888888882,
+      "VerSpeed": 166,
+      "PerDistance": 1529.1080555555554,
+      "PerSpeed": 110
+    },
+    {
+      "VerDistance": 1579.2747222222215,
+      "VerSpeed": 170,
+      "PerDistance": 1538.5969444444443,
+      "PerSpeed": 122
+    },
+    {
+      "VerDistance": 1589.441388888888,
+      "VerSpeed": 183,
+      "PerDistance": 1561.9302777777775,
+      "PerSpeed": 150
+    },
+    {
+      "VerDistance": 1600.052499999999,
+      "VerSpeed": 191,
+      "PerDistance": 1576.774722222222,
+      "PerSpeed": 167
+    },
+    {
+      "VerDistance": 1617.830277777777,
+      "VerSpeed": 200,
+      "PerDistance": 1590.4636111111108,
+      "PerSpeed": 176
+    },
+    {
+      "VerDistance": 1629.330277777777,
+      "VerSpeed": 207,
+      "PerDistance": 1600.685833333333,
+      "PerSpeed": 184
+    },
+    {
+      "VerDistance": 1638.7969444444436,
+      "VerSpeed": 213,
+      "PerDistance": 1618.285833333333,
+      "PerSpeed": 198
+    },
+    {
+      "VerDistance": 1648.322777777777,
+      "VerSpeed": 213,
+      "PerDistance": 1631.885833333333,
+      "PerSpeed": 204
+    },
+    {
+      "VerDistance": 1657.4211111111103,
+      "VerSpeed": 206,
+      "PerDistance": 1643.5524999999996,
+      "PerSpeed": 210
+    },
+    {
+      "VerDistance": 1672.887777777777,
+      "VerSpeed": 174,
+      "PerDistance": 1653.1524999999995,
+      "PerSpeed": 216
+    },
+    {
+      "VerDistance": 1679.8644444444437,
+      "VerSpeed": 156,
+      "PerDistance": 1673.5366666666662,
+      "PerSpeed": 183
+    },
+    {
+      "VerDistance": 1691.5088888888881,
+      "VerSpeed": 131,
+      "PerDistance": 1681.0922222222218,
+      "PerSpeed": 170
+    },
+    {
+      "VerDistance": 1702.7088888888882,
+      "VerSpeed": 112,
+      "PerDistance": 1690.5588888888885,
+      "PerSpeed": 142
+    },
+    {
+      "VerDistance": 1711.8358333333326,
+      "VerSpeed": 103,
+      "PerDistance": 1699.1230555555553,
+      "PerSpeed": 129
+    },
+    {
+      "VerDistance": 1717.391388888888,
+      "VerSpeed": 100,
+      "PerDistance": 1707.9119444444443,
+      "PerSpeed": 113
+    },
+    {
+      "VerDistance": 1725.8358333333324,
+      "VerSpeed": 95,
+      "PerDistance": 1715.0452777777775,
+      "PerSpeed": 107
+    },
+    {
+      "VerDistance": 1734.5469444444436,
+      "VerSpeed": 98,
+      "PerDistance": 1722.8230555555554,
+      "PerSpeed": 100
+    },
+    {
+      "VerDistance": 1741.5469444444436,
+      "VerSpeed": 105,
+      "PerDistance": 1730.289722222222,
+      "PerSpeed": 96
+    },
+    {
+      "VerDistance": 1746.3469444444436,
+      "VerSpeed": 108,
+      "PerDistance": 1739.989722222222,
+      "PerSpeed": 97
+    },
+    {
+      "VerDistance": 1757.5469444444436,
+      "VerSpeed": 126,
+      "PerDistance": 1745.5452777777775,
+      "PerSpeed": 100
+    },
+    {
+      "VerDistance": 1768.280277777777,
+      "VerSpeed": 138,
+      "PerDistance": 1757.1452777777774,
+      "PerSpeed": 116
+    },
+    {
+      "VerDistance": 1774.9024999999992,
+      "VerSpeed": 149,
+      "PerDistance": 1764.0897222222218,
+      "PerSpeed": 125
+    },
+    {
+      "VerDistance": 1787.658055555555,
+      "VerSpeed": 164,
+      "PerDistance": 1771.6452777777772,
+      "PerSpeed": 136
+    },
+    {
+      "VerDistance": 1803.3913888888883,
+      "VerSpeed": 177,
+      "PerDistance": 1778.223055555555,
+      "PerSpeed": 148
+    },
+    {
+      "VerDistance": 1813.7247222222218,
+      "VerSpeed": 186,
+      "PerDistance": 1794.0230555555552,
+      "PerSpeed": 158
+    },
+    {
+      "VerDistance": 1824.4469444444437,
+      "VerSpeed": 193,
+      "PerDistance": 1809.6674999999996,
+      "PerSpeed": 176
+    },
+    {
+      "VerDistance": 1840.3136111111105,
+      "VerSpeed": 204,
+      "PerDistance": 1824.3674999999996,
+      "PerSpeed": 189
+    },
+    {
+      "VerDistance": 1849.5136111111103,
+      "VerSpeed": 207,
+      "PerDistance": 1842.0563888888885,
+      "PerSpeed": 199
+    },
+    {
+      "VerDistance": 1863.980277777777,
+      "VerSpeed": 217,
+      "PerDistance": 1855.9897222222219,
+      "PerSpeed": 209
+    },
+    {
+      "VerDistance": 1886.480277777777,
+      "VerSpeed": 225,
+      "PerDistance": 1867.934166666666,
+      "PerSpeed": 215
+    },
+    {
+      "VerDistance": 1902.0136111111105,
+      "VerSpeed": 233,
+      "PerDistance": 1880.211944444444,
+      "PerSpeed": 221
+    },
+    {
+      "VerDistance": 1917.8802777777773,
+      "VerSpeed": 238,
+      "PerDistance": 1900.3897222222217,
+      "PerSpeed": 227
+    },
+    {
+      "VerDistance": 1934.1469444444438,
+      "VerSpeed": 244,
+      "PerDistance": 1913.2230555555552,
+      "PerSpeed": 231
+    },
+    {
+      "VerDistance": 1945.0802777777774,
+      "VerSpeed": 246,
+      "PerDistance": 1923.8008333333328,
+      "PerSpeed": 238
+    },
+    {
+      "VerDistance": 1974.1127777777776,
+      "VerSpeed": 237,
+      "PerDistance": 1934.5788888888885,
+      "PerSpeed": 241
+    },
+    {
+      "VerDistance": 1984.0502777777776,
+      "VerSpeed": 225,
+      "PerDistance": 1945.3997222222217,
+      "PerSpeed": 245
+    },
+    {
+      "VerDistance": 1996.6127777777776,
+      "VerSpeed": 225,
+      "PerDistance": 1967.7108333333329,
+      "PerSpeed": 251
+    },
+    {
+      "VerDistance": 2008.1461111111107,
+      "VerSpeed": 173,
+      "PerDistance": 1978.980833333333,
+      "PerSpeed": 252
+    },
+    {
+      "VerDistance": 2020.5905555555553,
+      "VerSpeed": 160,
+      "PerDistance": 1999.2474999999997,
+      "PerSpeed": 228
+    },
+    {
+      "VerDistance": 2028.7016666666666,
+      "VerSpeed": 146,
+      "PerDistance": 2016.7474999999997,
+      "PerSpeed": 175
+    },
+    {
+      "VerDistance": 2034.6641666666665,
+      "VerSpeed": 135,
+      "PerDistance": 2029.7733333333329,
+      "PerSpeed": 147
+    },
+    {
+      "VerDistance": 2043.0641666666666,
+      "VerSpeed": 126,
+      "PerDistance": 2037.2733333333329,
+      "PerSpeed": 135
+    },
+    {
+      "VerDistance": 2048.4419444444443,
+      "VerSpeed": 121,
+      "PerDistance": 2048.206666666666,
+      "PerSpeed": 123
+    },
+    {
+      "VerDistance": 2056.2419444444445,
+      "VerSpeed": 117,
+      "PerDistance": 2058.428888888888,
+      "PerSpeed": 115
+    },
+    {
+      "VerDistance": 2063.4419444444447,
+      "VerSpeed": 108,
+      "PerDistance": 2065.895555555555,
+      "PerSpeed": 112
+    },
+    {
+      "VerDistance": 2069.164166666667,
+      "VerSpeed": 103,
+      "PerDistance": 2070.6511111111104,
+      "PerSpeed": 107
+    },
+    {
+      "VerDistance": 2075.964166666667,
+      "VerSpeed": 102,
+      "PerDistance": 2079.984444444444,
+      "PerSpeed": 105
+    },
+    {
+      "VerDistance": 2081.741944444445,
+      "VerSpeed": 104,
+      "PerDistance": 2088.4622222222215,
+      "PerSpeed": 109
+    },
+    {
+      "VerDistance": 2091.430833333334,
+      "VerSpeed": 109,
+      "PerDistance": 2093.35111111111,
+      "PerSpeed": 110
+    },
+    {
+      "VerDistance": 2097.2086111111116,
+      "VerSpeed": 104,
+      "PerDistance": 2101.362222222221,
+      "PerSpeed": 103
+    },
+    {
+      "VerDistance": 2105.564166666667,
+      "VerSpeed": 94,
+      "PerDistance": 2109.45111111111,
+      "PerSpeed": 91
+    },
+    {
+      "VerDistance": 2113.830833333334,
+      "VerSpeed": 93,
+      "PerDistance": 2114.45111111111,
+      "PerSpeed": 90
+    },
+    {
+      "VerDistance": 2121.375277777778,
+      "VerSpeed": 97,
+      "PerDistance": 2119.3955555555544,
+      "PerSpeed": 89
+    },
+    {
+      "VerDistance": 2125.7308333333335,
+      "VerSpeed": 98,
+      "PerDistance": 2126.55111111111,
+      "PerSpeed": 92
+    },
+    {
+      "VerDistance": 2135.2419444444445,
+      "VerSpeed": 107,
+      "PerDistance": 2130.906666666666,
+      "PerSpeed": 98
+    },
+    {
+      "VerDistance": 2141.686388888889,
+      "VerSpeed": 116,
+      "PerDistance": 2137.8399999999992,
+      "PerSpeed": 104
+    },
+    {
+      "VerDistance": 2148.630833333333,
+      "VerSpeed": 125,
+      "PerDistance": 2150.3399999999992,
+      "PerSpeed": 125
+    },
+    {
+      "VerDistance": 2155.9641666666666,
+      "VerSpeed": 132,
+      "PerDistance": 2159.4733333333324,
+      "PerSpeed": 137
+    },
+    {
+      "VerDistance": 2170.1416666666664,
+      "VerSpeed": 159,
+      "PerDistance": 2169.7399999999993,
+      "PerSpeed": 154
+    },
+    {
+      "VerDistance": 2185.4713888888887,
+      "VerSpeed": 173,
+      "PerDistance": 2180.606666666666,
+      "PerSpeed": 163
+    },
+    {
+      "VerDistance": 2202.004722222222,
+      "VerSpeed": 186,
+      "PerDistance": 2188.295555555555,
+      "PerSpeed": 173
+    },
+    {
+      "VerDistance": 2217.404722222222,
+      "VerSpeed": 198,
+      "PerDistance": 2211.448055555555,
+      "PerSpeed": 189
+    },
+    {
+      "VerDistance": 2230.8605555555555,
+      "VerSpeed": 201,
+      "PerDistance": 2220.1488888888885,
+      "PerSpeed": 197
+    },
+    {
+      "VerDistance": 2242.5827777777777,
+      "VerSpeed": 211,
+      "PerDistance": 2231.5388888888883,
+      "PerSpeed": 204
+    },
+    {
+      "VerDistance": 2262.1383333333333,
+      "VerSpeed": 220,
+      "PerDistance": 2245.5388888888883,
+      "PerSpeed": 210
+    },
+    {
+      "VerDistance": 2282.6716666666666,
+      "VerSpeed": 231,
+      "PerDistance": 2262.572222222221,
+      "PerSpeed": 219
+    },
+    {
+      "VerDistance": 2293.0272222222225,
+      "VerSpeed": 233,
+      "PerDistance": 2275.072222222221,
+      "PerSpeed": 225
+    },
+    {
+      "VerDistance": 2311.472222222222,
+      "VerSpeed": 238,
+      "PerDistance": 2285.2305555555545,
+      "PerSpeed": 230
+    },
+    {
+      "VerDistance": 2322.3611111111113,
+      "VerSpeed": 245,
+      "PerDistance": 2300.763888888888,
+      "PerSpeed": 233
+    },
+    {
+      "VerDistance": 2344.7611111111114,
+      "VerSpeed": 252,
+      "PerDistance": 2311.3861111111096,
+      "PerSpeed": 239
+    },
+    {
+      "VerDistance": 2364.7500000000005,
+      "VerSpeed": 257,
+      "PerDistance": 2327.5194444444433,
+      "PerSpeed": 242
+    },
+    {
+      "VerDistance": 2376.2611111111114,
+      "VerSpeed": 259,
+      "PerDistance": 2344.0527777777766,
+      "PerSpeed": 248
+    },
+    {
+      "VerDistance": 2399.727777777778,
+      "VerSpeed": 264,
+      "PerDistance": 2358.052777777776,
+      "PerSpeed": 252
+    },
+    {
+      "VerDistance": 2416.5277777777783,
+      "VerSpeed": 252,
+      "PerDistance": 2375.2527777777764,
+      "PerSpeed": 258
+    },
+    {
+      "VerDistance": 2437.9277777777784,
+      "VerSpeed": 214,
+      "PerDistance": 2389.7527777777764,
+      "PerSpeed": 261
+    },
+    {
+      "VerDistance": 2448.3722222222227,
+      "VerSpeed": 188,
+      "PerDistance": 2413.130555555554,
+      "PerSpeed": 263
+    },
+    {
+      "VerDistance": 2461.3500000000004,
+      "VerSpeed": 146,
+      "PerDistance": 2426.519444444443,
+      "PerSpeed": 241
+    },
+    {
+      "VerDistance": 2468.4611111111117,
+      "VerSpeed": 128,
+      "PerDistance": 2444.563888888887,
+      "PerSpeed": 203
+    },
+    {
+      "VerDistance": 2480.127777777778,
+      "VerSpeed": 105,
+      "PerDistance": 2460.0305555555537,
+      "PerSpeed": 174
+    },
+    {
+      "VerDistance": 2485.5436111111117,
+      "VerSpeed": 97,
+      "PerDistance": 2470.919444444443,
+      "PerSpeed": 140
+    },
+    {
+      "VerDistance": 2491.5186111111116,
+      "VerSpeed": 90,
+      "PerDistance": 2476.3416666666653,
+      "PerSpeed": 122
+    },
+    {
+      "VerDistance": 2495.2963888888894,
+      "VerSpeed": 85,
+      "PerDistance": 2485.674999999999,
+      "PerSpeed": 105
+    },
+    {
+      "VerDistance": 2499.8747222222228,
+      "VerSpeed": 82,
+      "PerDistance": 2491.008333333332,
+      "PerSpeed": 96
+    },
+    {
+      "VerDistance": 2503.408055555556,
+      "VerSpeed": 80,
+      "PerDistance": 2495.952777777776,
+      "PerSpeed": 89
+    },
+    {
+      "VerDistance": 2525.6413888888897,
+      "VerSpeed": 87,
+      "PerDistance": 2500.730555555554,
+      "PerSpeed": 86
+    },
+    {
+      "VerDistance": 2534.4688888888895,
+      "VerSpeed": 99,
+      "PerDistance": 2507.9530555555543,
+      "PerSpeed": 81
+    },
+    {
+      "VerDistance": 2541.535555555556,
+      "VerSpeed": 106,
+      "PerDistance": 2514.5988888888874,
+      "PerSpeed": 75
+    },
+    {
+      "VerDistance": 2549.3355555555563,
+      "VerSpeed": 117,
+      "PerDistance": 2521.7099999999987,
+      "PerSpeed": 80
+    },
+    {
+      "VerDistance": 2561.6911111111117,
+      "VerSpeed": 139,
+      "PerDistance": 2528.243333333332,
+      "PerSpeed": 84
+    },
+    {
+      "VerDistance": 2570.0244444444447,
+      "VerSpeed": 150,
+      "PerDistance": 2534.3352777777764,
+      "PerSpeed": 91
+    },
+    {
+      "VerDistance": 2580.6911111111117,
+      "VerSpeed": 160,
+      "PerDistance": 2539.7241666666655,
+      "PerSpeed": 97
+    },
+    {
+      "VerDistance": 2591.910833333334,
+      "VerSpeed": 169,
+      "PerDistance": 2549.6797222222212,
+      "PerSpeed": 112
+    },
+    {
+      "VerDistance": 2612.4663888888895,
+      "VerSpeed": 185,
+      "PerDistance": 2561.235277777777,
+      "PerSpeed": 130
+    },
+    {
+      "VerDistance": 2625.2663888888897,
+      "VerSpeed": 192,
+      "PerDistance": 2567.5019444444433,
+      "PerSpeed": 141
+    },
+    {
+      "VerDistance": 2643.488611111112,
+      "VerSpeed": 205,
+      "PerDistance": 2579.5919444444435,
+      "PerSpeed": 156
+    },
+    {
+      "VerDistance": 2657.6441666666674,
+      "VerSpeed": 182,
+      "PerDistance": 2586.747499999999,
+      "PerSpeed": 161
+    },
+    {
+      "VerDistance": 2668.510833333334,
+      "VerSpeed": 163,
+      "PerDistance": 2602.2141666666657,
+      "PerSpeed": 174
+    },
+    {
+      "VerDistance": 2676.6775000000007,
+      "VerSpeed": 147,
+      "PerDistance": 2616.6808333333324,
+      "PerSpeed": 186
+    },
+    {
+      "VerDistance": 2684.2330555555563,
+      "VerSpeed": 136,
+      "PerDistance": 2625.080833333332,
+      "PerSpeed": 189
+    },
+    {
+      "VerDistance": 2691.7886111111115,
+      "VerSpeed": 136,
+      "PerDistance": 2643.036388888888,
+      "PerSpeed": 202
+    },
+    {
+      "VerDistance": 2697.344166666667,
+      "VerSpeed": 125,
+      "PerDistance": 2656.836388888888,
+      "PerSpeed": 207
+    },
+    {
+      "VerDistance": 2702.810833333334,
+      "VerSpeed": 123,
+      "PerDistance": 2673.736388888888,
+      "PerSpeed": 169
+    },
+    {
+      "VerDistance": 2709.421944444445,
+      "VerSpeed": 119,
+      "PerDistance": 2682.014166666666,
+      "PerSpeed": 149
+    },
+    {
+      "VerDistance": 2716.088611111112,
+      "VerSpeed": 120,
+      "PerDistance": 2693.925277777777,
+      "PerSpeed": 134
+    },
+    {
+      "VerDistance": 2722.977500000001,
+      "VerSpeed": 124,
+      "PerDistance": 2700.925277777777,
+      "PerSpeed": 126
+    },
+    {
+      "VerDistance": 2735.6391666666677,
+      "VerSpeed": 142,
+      "PerDistance": 2714.3697222222213,
+      "PerSpeed": 121
+    },
+    {
+      "VerDistance": 2747.4191666666675,
+      "VerSpeed": 152,
+      "PerDistance": 2721.181388888888,
+      "PerSpeed": 122
+    },
+    {
+      "VerDistance": 2761.7191666666677,
+      "VerSpeed": 143,
+      "PerDistance": 2729.944722222221,
+      "PerSpeed": 132
+    },
+    {
+      "VerDistance": 2772.14138888889,
+      "VerSpeed": 134,
+      "PerDistance": 2736.0780555555543,
+      "PerSpeed": 138
+    },
+    {
+      "VerDistance": 2780.961666666668,
+      "VerSpeed": 113,
+      "PerDistance": 2744.2855555555543,
+      "PerSpeed": 147
+    },
+    {
+      "VerDistance": 2789.254166666668,
+      "VerSpeed": 107,
+      "PerDistance": 2750.9988888888874,
+      "PerSpeed": 152
+    },
+    {
+      "VerDistance": 2794.97638888889,
+      "VerSpeed": 103,
+      "PerDistance": 2778.854444444443,
+      "PerSpeed": 109
+    },
+    {
+      "VerDistance": 2803.6255555555567,
+      "VerSpeed": 97,
+      "PerDistance": 2787.7711111111093,
+      "PerSpeed": 100
+    },
+    {
+      "VerDistance": 2811.0922222222234,
+      "VerSpeed": 96,
+      "PerDistance": 2794.3044444444427,
+      "PerSpeed": 98
+    },
+    {
+      "VerDistance": 2820.15888888889,
+      "VerSpeed": 102,
+      "PerDistance": 2800.5711111111095,
+      "PerSpeed": 94
+    },
+    {
+      "VerDistance": 2828.4033333333346,
+      "VerSpeed": 106,
+      "PerDistance": 2809.015555555554,
+      "PerSpeed": 95
+    },
+    {
+      "VerDistance": 2833.514444444446,
+      "VerSpeed": 115,
+      "PerDistance": 2814.4044444444426,
+      "PerSpeed": 97
+    },
+    {
+      "VerDistance": 2842.7369444444457,
+      "VerSpeed": 119,
+      "PerDistance": 2821.071111111109,
+      "PerSpeed": 100
+    },
+    {
+      "VerDistance": 2847.936944444446,
+      "VerSpeed": 117,
+      "PerDistance": 2828.440277777776,
+      "PerSpeed": 111
+    },
+    {
+      "VerDistance": 2854.270277777779,
+      "VerSpeed": 114,
+      "PerDistance": 2841.440277777776,
+      "PerSpeed": 117
+    },
+    {
+      "VerDistance": 2859.2925000000014,
+      "VerSpeed": 113,
+      "PerDistance": 2848.973611111109,
+      "PerSpeed": 113
+    },
+    {
+      "VerDistance": 2867.6147222222235,
+      "VerSpeed": 107,
+      "PerDistance": 2858.573611111109,
+      "PerSpeed": 108
+    },
+    {
+      "VerDistance": 2872.414722222223,
+      "VerSpeed": 108,
+      "PerDistance": 2867.129166666665,
+      "PerSpeed": 110
+    },
+    {
+      "VerDistance": 2878.5258333333345,
+      "VerSpeed": 110,
+      "PerDistance": 2874.7291666666647,
+      "PerSpeed": 114
+    },
+    {
+      "VerDistance": 2886.2591666666676,
+      "VerSpeed": 116,
+      "PerDistance": 2881.340277777776,
+      "PerSpeed": 119
+    },
+    {
+      "VerDistance": 2896.5258333333345,
+      "VerSpeed": 132,
+      "PerDistance": 2888.340277777776,
+      "PerSpeed": 126
+    },
+    {
+      "VerDistance": 2904.4147222222236,
+      "VerSpeed": 142,
+      "PerDistance": 2895.6736111111095,
+      "PerSpeed": 132
+    },
+    {
+      "VerDistance": 2912.8036111111123,
+      "VerSpeed": 151,
+      "PerDistance": 2901.540277777776,
+      "PerSpeed": 132
+    },
+    {
+      "VerDistance": 2924.9369444444455,
+      "VerSpeed": 156,
+      "PerDistance": 2908.118055555554,
+      "PerSpeed": 148
+    },
+    {
+      "VerDistance": 2932.492500000001,
+      "VerSpeed": 170,
+      "PerDistance": 2916.840277777776,
+      "PerSpeed": 157
+    },
+    {
+      "VerDistance": 2942.4369444444455,
+      "VerSpeed": 179,
+      "PerDistance": 2926.118055555554,
+      "PerSpeed": 167
+    },
+    {
+      "VerDistance": 2952.8258333333347,
+      "VerSpeed": 187,
+      "PerDistance": 2935.840277777776,
+      "PerSpeed": 175
+    },
+    {
+      "VerDistance": 2965.759166666668,
+      "VerSpeed": 194,
+      "PerDistance": 2952.6036111111093,
+      "PerSpeed": 188
+    },
+    {
+      "VerDistance": 2981.703611111112,
+      "VerSpeed": 205,
+      "PerDistance": 2967.948611111109,
+      "PerSpeed": 198
+    },
+    {
+      "VerDistance": 2993.425833333334,
+      "VerSpeed": 211,
+      "PerDistance": 2989.148611111109,
+      "PerSpeed": 212
+    },
+    {
+      "VerDistance": 3018.314722222223,
+      "VerSpeed": 224,
+      "PerDistance": 3006.1041666666647,
+      "PerSpeed": 218
+    },
+    {
+      "VerDistance": 3036.3591666666675,
+      "VerSpeed": 232,
+      "PerDistance": 3023.588611111109,
+      "PerSpeed": 224
+    },
+    {
+      "VerDistance": 3060.4258333333346,
+      "VerSpeed": 240,
+      "PerDistance": 3041.723611111109,
+      "PerSpeed": 234
+    },
+    {
+      "VerDistance": 3071.1583333333347,
+      "VerSpeed": 243,
+      "PerDistance": 3055.001388888887,
+      "PerSpeed": 239
+    },
+    {
+      "VerDistance": 3090.5250000000015,
+      "VerSpeed": 249,
+      "PerDistance": 3076.8472222222204,
+      "PerSpeed": 245
+    },
+    {
+      "VerDistance": 3107.3950000000013,
+      "VerSpeed": 252,
+      "PerDistance": 3096.3694444444427,
+      "PerSpeed": 251
+    },
+    {
+      "VerDistance": 3118.8172222222233,
+      "VerSpeed": 257,
+      "PerDistance": 3119.213888888887,
+      "PerSpeed": 257
+    },
+    {
+      "VerDistance": 3148.1505555555564,
+      "VerSpeed": 264,
+      "PerDistance": 3139.5916666666644,
+      "PerSpeed": 262
+    },
+    {
+      "VerDistance": 3160.017222222223,
+      "VerSpeed": 267,
+      "PerDistance": 3151.3694444444423,
+      "PerSpeed": 265
+    },
+    {
+      "VerDistance": 3180.9394444444456,
+      "VerSpeed": 269,
+      "PerDistance": 3172.139444444442,
+      "PerSpeed": 268
+    },
+    {
+      "VerDistance": 3196.106111111112,
+      "VerSpeed": 273,
+      "PerDistance": 3184.2283333333307,
+      "PerSpeed": 272
+    },
+    {
+      "VerDistance": 3208.251944444445,
+      "VerSpeed": 275,
+      "PerDistance": 3199.339444444442,
+      "PerSpeed": 272
+    },
+    {
+      "VerDistance": 3232.8741666666674,
+      "VerSpeed": 277,
+      "PerDistance": 3211.561666666664,
+      "PerSpeed": 275
+    },
+    {
+      "VerDistance": 3257.6741666666676,
+      "VerSpeed": 279,
+      "PerDistance": 3233.106111111109,
+      "PerSpeed": 277
+    },
+    {
+      "VerDistance": 3276.4741666666678,
+      "VerSpeed": 282,
+      "PerDistance": 3245.5061111111086,
+      "PerSpeed": 279
+    },
+    {
+      "VerDistance": 3298.485277777779,
+      "VerSpeed": 283,
+      "PerDistance": 3261.0061111111086,
+      "PerSpeed": 279
+    },
+    {
+      "VerDistance": 3314.3186111111127,
+      "VerSpeed": 285,
+      "PerDistance": 3279.739444444442,
+      "PerSpeed": 281
+    },
+    {
+      "VerDistance": 3336.640833333335,
+      "VerSpeed": 287,
+      "PerDistance": 3301.8283333333306,
+      "PerSpeed": 284
+    },
+    {
+      "VerDistance": 3359.118611111113,
+      "VerSpeed": 289,
+      "PerDistance": 3317.6616666666646,
+      "PerSpeed": 285
+    },
+    {
+      "VerDistance": 3384.985277777779,
+      "VerSpeed": 291,
+      "PerDistance": 3333.5505555555524,
+      "PerSpeed": 286
+    },
+    {
+      "VerDistance": 3414.485277777779,
+      "VerSpeed": 295,
+      "PerDistance": 3356.02833333333,
+      "PerSpeed": 289
+    },
+    {
+      "VerDistance": 3437.5075000000015,
+      "VerSpeed": 296,
+      "PerDistance": 3369.0061111111077,
+      "PerSpeed": 292
+    },
+    {
+      "VerDistance": 3463.9963888888897,
+      "VerSpeed": 298,
+      "PerDistance": 3385.2838888888855,
+      "PerSpeed": 293
+    },
+    {
+      "VerDistance": 3483.863055555557,
+      "VerSpeed": 298,
+      "PerDistance": 3401.617222222219,
+      "PerSpeed": 294
+    },
+    {
+      "VerDistance": 3568.3075000000013,
+      "VerSpeed": 304,
+      "PerDistance": 3421.283888888885,
+      "PerSpeed": 295
+    },
+    {
+      "VerDistance": 3585.251944444446,
+      "VerSpeed": 305,
+      "PerDistance": 3444.383888888885,
+      "PerSpeed": 297
+    },
+    {
+      "VerDistance": 3598.6297222222233,
+      "VerSpeed": 301,
+      "PerDistance": 3460.9394444444406,
+      "PerSpeed": 298
+    },
+    {
+      "VerDistance": 3610.346944444446,
+      "VerSpeed": 262,
+      "PerDistance": 3494.2727777777745,
+      "PerSpeed": 300
+    },
+    {
+      "VerDistance": 3626.080277777779,
+      "VerSpeed": 236,
+      "PerDistance": 3517.7616666666636,
+      "PerSpeed": 302
+    },
+    {
+      "VerDistance": 3641.6358333333346,
+      "VerSpeed": 200,
+      "PerDistance": 3548.246111111107,
+      "PerSpeed": 304
+    },
+    {
+      "VerDistance": 3659.635833333335,
+      "VerSpeed": 162,
+      "PerDistance": 3561.7169444444407,
+      "PerSpeed": 305
+    },
+    {
+      "VerDistance": 3671.7247222222236,
+      "VerSpeed": 136,
+      "PerDistance": 3585.439166666663,
+      "PerSpeed": 305
+    },
+    {
+      "VerDistance": 3683.1247222222237,
+      "VerSpeed": 114,
+      "PerDistance": 3604.317499999996,
+      "PerSpeed": 282
+    },
+    {
+      "VerDistance": 3690.161944444446,
+      "VerSpeed": 106,
+      "PerDistance": 3616.139722222218,
+      "PerSpeed": 266
+    },
+    {
+      "VerDistance": 3699.1397222222236,
+      "VerSpeed": 101,
+      "PerDistance": 3638.0286111111072,
+      "PerSpeed": 197
+    },
+    {
+      "VerDistance": 3704.473055555557,
+      "VerSpeed": 96,
+      "PerDistance": 3646.2508333333294,
+      "PerSpeed": 185
+    },
+    {
+      "VerDistance": 3710.8730555555567,
+      "VerSpeed": 96,
+      "PerDistance": 3658.539722222218,
+      "PerSpeed": 158
+    },
+    {
+      "VerDistance": 3719.673055555557,
+      "VerSpeed": 99,
+      "PerDistance": 3666.2619444444404,
+      "PerSpeed": 139
+    },
+    {
+      "VerDistance": 3730.7730555555568,
+      "VerSpeed": 111,
+      "PerDistance": 3671.6944444444403,
+      "PerSpeed": 123
+    },
+    {
+      "VerDistance": 3737.5508333333346,
+      "VerSpeed": 122,
+      "PerDistance": 3681.2055555555517,
+      "PerSpeed": 107
+    },
+    {
+      "VerDistance": 3743.2397222222235,
+      "VerSpeed": 128,
+      "PerDistance": 3690.1833333333293,
+      "PerSpeed": 101
+    },
+    {
+      "VerDistance": 3752.9730555555566,
+      "VerSpeed": 146,
+      "PerDistance": 3696.649999999996,
+      "PerSpeed": 97
+    },
+    {
+      "VerDistance": 3761.084166666668,
+      "VerSpeed": 146,
+      "PerDistance": 3703.8833333333296,
+      "PerSpeed": 93
+    },
+    {
+      "VerDistance": 3778.684166666668,
+      "VerSpeed": 176,
+      "PerDistance": 3709.161111111107,
+      "PerSpeed": 95
+    },
+    {
+      "VerDistance": 3795.484166666668,
+      "VerSpeed": 189,
+      "PerDistance": 3716.8611111111068,
+      "PerSpeed": 99
+    },
+    {
+      "VerDistance": 3808.8841666666676,
+      "VerSpeed": 201,
+      "PerDistance": 3725.261111111107,
+      "PerSpeed": 108
+    },
+    {
+      "VerDistance": 3825.0619444444455,
+      "VerSpeed": 208,
+      "PerDistance": 3736.283333333329,
+      "PerSpeed": 124
+    },
+    {
+      "VerDistance": 3849.6175000000017,
+      "VerSpeed": 221,
+      "PerDistance": 3751.0833333333294,
+      "PerSpeed": 148
+    },
+    {
+      "VerDistance": 3862.2841666666677,
+      "VerSpeed": 228,
+      "PerDistance": 3763.449999999996,
+      "PerSpeed": 159
+    },
+    {
+      "VerDistance": 3875.2286111111125,
+      "VerSpeed": 233,
+      "PerDistance": 3779.2722222222183,
+      "PerSpeed": 178
+    },
+    {
+      "VerDistance": 3891.2952777777796,
+      "VerSpeed": 241,
+      "PerDistance": 3791.7388888888845,
+      "PerSpeed": 187
+    },
+    {
+      "VerDistance": 3902.0952777777793,
+      "VerSpeed": 243,
+      "PerDistance": 3853.683333333329,
+      "PerSpeed": 223
+    },
+    {
+      "VerDistance": 3918.764444444446,
+      "VerSpeed": 249,
+      "PerDistance": 3866.2388888888845,
+      "PerSpeed": 226
+    },
+    {
+      "VerDistance": 3929.9644444444457,
+      "VerSpeed": 252,
+      "PerDistance": 3876.59444444444,
+      "PerSpeed": 233
+    },
+    {
+      "VerDistance": 3949.9533333333347,
+      "VerSpeed": 257,
+      "PerDistance": 3887.1488888888844,
+      "PerSpeed": 236
+    },
+    {
+      "VerDistance": 3967.2866666666678,
+      "VerSpeed": 260,
+      "PerDistance": 3903.4155555555517,
+      "PerSpeed": 244
+    },
+    {
+      "VerDistance": 3993.0755555555575,
+      "VerSpeed": 211,
+      "PerDistance": 3922.7044444444405,
+      "PerSpeed": 248
+    },
+    {
+      "VerDistance": 4001.520000000002,
+      "VerSpeed": 190,
+      "PerDistance": 3950.926666666662,
+      "PerSpeed": 254
+    },
+    {
+      "VerDistance": 4009.564444444446,
+      "VerSpeed": 181,
+      "PerDistance": 3974.126666666663,
+      "PerSpeed": 261
+    },
+    {
+      "VerDistance": 4020.2530555555572,
+      "VerSpeed": 161,
+      "PerDistance": 3996.426666666663,
+      "PerSpeed": 223
+    },
+    {
+      "VerDistance": 4027.141944444446,
+      "VerSpeed": 155,
+      "PerDistance": 4008.642222222218,
+      "PerSpeed": 184
+    },
+    {
+      "VerDistance": 4039.8530555555567,
+      "VerSpeed": 143,
+      "PerDistance": 4022.9533333333297,
+      "PerSpeed": 161
+    },
+    {
+      "VerDistance": 4053.3530555555567,
+      "VerSpeed": 135,
+      "PerDistance": 4031.286666666663,
+      "PerSpeed": 150
+    },
+    {
+      "VerDistance": 4064.819722222224,
+      "VerSpeed": 129,
+      "PerDistance": 4040.886666666663,
+      "PerSpeed": 144
+    },
+    {
+      "VerDistance": 4076.8197222222234,
+      "VerSpeed": 135,
+      "PerDistance": 4052.975555555552,
+      "PerSpeed": 136
+    },
+    {
+      "VerDistance": 4086.353055555557,
+      "VerSpeed": 143,
+      "PerDistance": 4066.075555555552,
+      "PerSpeed": 131
+    },
+    {
+      "VerDistance": 4096.419722222224,
+      "VerSpeed": 151,
+      "PerDistance": 4073.3533333333294,
+      "PerSpeed": 131
+    },
+    {
+      "VerDistance": 4117.808611111112,
+      "VerSpeed": 175,
+      "PerDistance": 4079.264444444441,
+      "PerSpeed": 133
+    },
+    {
+      "VerDistance": 4128.030833333335,
+      "VerSpeed": 184,
+      "PerDistance": 4088.397777777774,
+      "PerSpeed": 137
+    },
+    {
+      "VerDistance": 4138.697500000002,
+      "VerSpeed": 192,
+      "PerDistance": 4096.175555555552,
+      "PerSpeed": 140
+    },
+    {
+      "VerDistance": 4161.253055555557,
+      "VerSpeed": 203,
+      "PerDistance": 4111.875555555552,
+      "PerSpeed": 157
+    },
+    {
+      "VerDistance": 4177.041944444446,
+      "VerSpeed": 203,
+      "PerDistance": 4127.608888888884,
+      "PerSpeed": 177
+    },
+    {
+      "VerDistance": 4194.153055555557,
+      "VerSpeed": 220,
+      "PerDistance": 4139.942222222218,
+      "PerSpeed": 185
+    },
+    {
+      "VerDistance": 4209.419722222225,
+      "VerSpeed": 229,
+      "PerDistance": 4155.26444444444,
+      "PerSpeed": 197
+    },
+    {
+      "VerDistance": 4219.730833333336,
+      "VerSpeed": 232,
+      "PerDistance": 4178.819999999995,
+      "PerSpeed": 212
+    },
+    {
+      "VerDistance": 4235.931388888891,
+      "VerSpeed": 242,
+      "PerDistance": 4190.986666666662,
+      "PerSpeed": 219
+    },
+    {
+      "VerDistance": 4246.708055555558,
+      "VerSpeed": 244,
+      "PerDistance": 4203.486666666662,
+      "PerSpeed": 225
+    },
+    {
+      "VerDistance": 4269.088888888891,
+      "VerSpeed": 251,
+      "PerDistance": 4218.819999999995,
+      "PerSpeed": 230
+    },
+    {
+      "VerDistance": 4280.333333333336,
+      "VerSpeed": 253,
+      "PerDistance": 4229.308888888884,
+      "PerSpeed": 236
+    },
+    {
+      "VerDistance": 4297.533333333336,
+      "VerSpeed": 258,
+      "PerDistance": 4245.375555555551,
+      "PerSpeed": 240
+    },
+    {
+      "VerDistance": 4312.088888888891,
+      "VerSpeed": 262,
+      "PerDistance": 4256.175555555552,
+      "PerSpeed": 243
+    },
+    {
+      "VerDistance": 4329.755555555557,
+      "VerSpeed": 265,
+      "PerDistance": 4275.697777777774,
+      "PerSpeed": 251
+    },
+    {
+      "VerDistance": 4341.666666666669,
+      "VerSpeed": 268,
+      "PerDistance": 4292.76444444444,
+      "PerSpeed": 256
+    },
+    {
+      "VerDistance": 4366.111111111113,
+      "VerSpeed": 275,
+      "PerDistance": 4324.908888888885,
+      "PerSpeed": 263
+    },
+    {
+      "VerDistance": 4397.222222222224,
+      "VerSpeed": 280,
+      "PerDistance": 4336.731111111107,
+      "PerSpeed": 266
+    },
+    {
+      "VerDistance": 4409.633055555557,
+      "VerSpeed": 281,
+      "PerDistance": 4348.686666666663,
+      "PerSpeed": 269
+    },
+    {
+      "VerDistance": 4425.299722222224,
+      "VerSpeed": 282,
+      "PerDistance": 4366.74444444444,
+      "PerSpeed": 272
+    },
+    {
+      "VerDistance": 4509.366388888891,
+      "VerSpeed": 291,
+      "PerDistance": 4378.966666666663,
+      "PerSpeed": 275
+    },
+    {
+      "VerDistance": 4532.077500000002,
+      "VerSpeed": 292,
+      "PerDistance": 4403.766666666662,
+      "PerSpeed": 279
+    },
+    {
+      "VerDistance": 4551.544166666668,
+      "VerSpeed": 292,
+      "PerDistance": 4432.1666666666615,
+      "PerSpeed": 284
+    },
+    {
+      "VerDistance": 4564.610833333335,
+      "VerSpeed": 294,
+      "PerDistance": 4457.588888888884,
+      "PerSpeed": 286
+    },
+    {
+      "VerDistance": 4587.710833333335,
+      "VerSpeed": 297,
+      "PerDistance": 4483.277777777772,
+      "PerSpeed": 289
+    },
+    {
+      "VerDistance": 4604.266388888891,
+      "VerSpeed": 298,
+      "PerDistance": 4502.611111111105,
+      "PerSpeed": 290
+    },
+    {
+      "VerDistance": 4624.1997222222235,
+      "VerSpeed": 299,
+      "PerDistance": 4522.0111111111055,
+      "PerSpeed": 291
+    },
+    {
+      "VerDistance": 4647.455277777779,
+      "VerSpeed": 299,
+      "PerDistance": 4557.822222222217,
+      "PerSpeed": 293
+    },
+    {
+      "VerDistance": 4660.788611111112,
+      "VerSpeed": 300,
+      "PerDistance": 4574.211111111105,
+      "PerSpeed": 295
+    },
+    {
+      "VerDistance": 4680.721944444446,
+      "VerSpeed": 299,
+      "PerDistance": 4590.766666666661,
+      "PerSpeed": 298
+    },
+    {
+      "VerDistance": 4700.788611111113,
+      "VerSpeed": 301,
+      "PerDistance": 4623.988888888883,
+      "PerSpeed": 299
+    },
+    {
+      "VerDistance": 4720.921944444447,
+      "VerSpeed": 302,
+      "PerDistance": 4647.166666666661,
+      "PerSpeed": 298
+    },
+    {
+      "VerDistance": 4737.6997222222235,
+      "VerSpeed": 302,
+      "PerDistance": 4670.3444444444385,
+      "PerSpeed": 298
+    },
+    {
+      "VerDistance": 4758.050833333335,
+      "VerSpeed": 304,
+      "PerDistance": 4690.277777777771,
+      "PerSpeed": 299
+    },
+    {
+      "VerDistance": 4792.161944444446,
+      "VerSpeed": 307,
+      "PerDistance": 4703.611111111105,
+      "PerSpeed": 300
+    },
+    {
+      "VerDistance": 4829.684166666668,
+      "VerSpeed": 307,
+      "PerDistance": 4723.694444444438,
+      "PerSpeed": 300
+    },
+    {
+      "VerDistance": 4843.461944444445,
+      "VerSpeed": 310,
+      "PerDistance": 4736.988611111104,
+      "PerSpeed": 301
+    },
+    {
+      "VerDistance": 4864.128611111113,
+      "VerSpeed": 310,
+      "PerDistance": 4764.006111111104,
+      "PerSpeed": 303
+    },
+    {
+      "VerDistance": 4898.795277777779,
+      "VerSpeed": 312,
+      "PerDistance": 4777.517222222215,
+      "PerSpeed": 304
+    },
+    {
+      "VerDistance": 4919.661944444447,
+      "VerSpeed": 313,
+      "PerDistance": 4797.850555555548,
+      "PerSpeed": 305
+    },
+    {
+      "VerDistance": 4937.050833333335,
+      "VerSpeed": 313,
+      "PerDistance": 4814.906111111104,
+      "PerSpeed": 307
+    },
+    {
+      "VerDistance": 4951.006388888891,
+      "VerSpeed": 314,
+      "PerDistance": 4835.439444444437,
+      "PerSpeed": 308
+    },
+    {
+      "VerDistance": 4978.918888888891,
+      "VerSpeed": 315,
+      "PerDistance": 4849.128333333326,
+      "PerSpeed": 308
+    },
+    {
+      "VerDistance": 4999.918888888891,
+      "VerSpeed": 315,
+      "PerDistance": 4876.683888888882,
+      "PerSpeed": 310
+    },
+    {
+      "VerDistance": 5028.00777777778,
+      "VerSpeed": 316,
+      "PerDistance": 4911.350555555548,
+      "PerSpeed": 312
+    },
+    {
+      "VerDistance": 5052.50777777778,
+      "VerSpeed": 315,
+      "PerDistance": 4925.130555555549,
+      "PerSpeed": 312
+    },
+    {
+      "VerDistance": 5070.118888888891,
+      "VerSpeed": 317,
+      "PerDistance": 4942.519444444438,
+      "PerSpeed": 313
+    },
+    {
+      "VerDistance": 5087.730000000002,
+      "VerSpeed": 317,
+      "PerDistance": 5033.808333333326,
+      "PerSpeed": 316
+    },
+    {
+      "VerDistance": 5108.8633333333355,
+      "VerSpeed": 317,
+      "PerDistance": 5058.308333333326,
+      "PerSpeed": 315
+    },
+    {
+      "VerDistance": 5122.996666666669,
+      "VerSpeed": 318,
+      "PerDistance": 5079.308333333327,
+      "PerSpeed": 315
+    },
+    {
+      "VerDistance": 5154.89666666667,
+      "VerSpeed": 319,
+      "PerDistance": 5093.3972222222155,
+      "PerSpeed": 317
+    },
+    {
+      "VerDistance": 5183.252222222225,
+      "VerSpeed": 319,
+      "PerDistance": 5118.052777777772,
+      "PerSpeed": 317
+    },
+    {
+      "VerDistance": 5200.974444444448,
+      "VerSpeed": 319,
+      "PerDistance": 5135.663888888883,
+      "PerSpeed": 317
+    },
+    {
+      "VerDistance": 5229.418611111114,
+      "VerSpeed": 319,
+      "PerDistance": 5156.863888888883,
+      "PerSpeed": 318
+    },
+    {
+      "VerDistance": 5247.140833333337,
+      "VerSpeed": 319,
+      "PerDistance": 5181.597222222216,
+      "PerSpeed": 318
+    },
+    {
+      "VerDistance": 5264.863055555559,
+      "VerSpeed": 319,
+      "PerDistance": 5195.774999999994,
+      "PerSpeed": 319
+    },
+    {
+      "VerDistance": 5289.6630555555585,
+      "VerSpeed": 320,
+      "PerDistance": 5217.041666666661,
+      "PerSpeed": 319
+    },
+    {
+      "VerDistance": 5314.47416666667,
+      "VerSpeed": 319,
+      "PerDistance": 5238.308333333328,
+      "PerSpeed": 319
+    },
+    {
+      "VerDistance": 5332.196388888892,
+      "VerSpeed": 319,
+      "PerDistance": 5259.574999999994,
+      "PerSpeed": 319
+    },
+    {
+      "VerDistance": 5357.163055555558,
+      "VerSpeed": 321,
+      "PerDistance": 5277.241666666661,
+      "PerSpeed": 318
+    },
+    {
+      "VerDistance": 5375.085555555558,
+      "VerSpeed": 321,
+      "PerDistance": 5298.529999999994,
+      "PerSpeed": 318
+    },
+    {
+      "VerDistance": 5392.863333333336,
+      "VerSpeed": 320,
+      "PerDistance": 5333.9744444444395,
+      "PerSpeed": 319
+    },
+    {
+      "VerDistance": 5410.69666666667,
+      "VerSpeed": 321,
+      "PerDistance": 5373.085555555551,
+      "PerSpeed": 320
+    },
+    {
+      "VerDistance": 5432.09666666667,
+      "VerSpeed": 321,
+      "PerDistance": 5387.307777777773,
+      "PerSpeed": 320
+    },
+    {
+      "VerDistance": 5467.874444444447,
+      "VerSpeed": 322,
+      "PerDistance": 5408.641111111106,
+      "PerSpeed": 320
+    },
+    {
+      "VerDistance": 5507.474444444449,
+      "VerSpeed": 324,
+      "PerDistance": 5444.196666666661,
+      "PerSpeed": 320
+    },
+    {
+      "VerDistance": 5521.874444444448,
+      "VerSpeed": 324,
+      "PerDistance": 5465.596666666661,
+      "PerSpeed": 321
+    },
+    {
+      "VerDistance": 5543.6744444444475,
+      "VerSpeed": 327,
+      "PerDistance": 5483.429999999995,
+      "PerSpeed": 321
+    },
+    {
+      "VerDistance": 5572.738888888892,
+      "VerSpeed": 328,
+      "PerDistance": 5497.741111111106,
+      "PerSpeed": 322
+    },
+    {
+      "VerDistance": 5591.01666666667,
+      "VerSpeed": 329,
+      "PerDistance": 5526.451111111106,
+      "PerSpeed": 324
+    },
+    {
+      "VerDistance": 5620.350000000003,
+      "VerSpeed": 330,
+      "PerDistance": 5548.051111111106,
+      "PerSpeed": 324
+    },
+    {
+      "VerDistance": 5657.238888888893,
+      "VerSpeed": 332,
+      "PerDistance": 5577.2066666666615,
+      "PerSpeed": 328
+    },
+    {
+      "VerDistance": 5683.138888888893,
+      "VerSpeed": 333,
+      "PerDistance": 5602.795555555551,
+      "PerSpeed": 329
+    },
+    {
+      "VerDistance": 5701.638888888893,
+      "VerSpeed": 333,
+      "PerDistance": 5621.073333333329,
+      "PerSpeed": 329
+    },
+    {
+      "VerDistance": 5720.194444444448,
+      "VerSpeed": 334,
+      "PerDistance": 5639.406666666663,
+      "PerSpeed": 330
+    },
+    {
+      "VerDistance": 5742.461111111115,
+      "VerSpeed": 334,
+      "PerDistance": 5661.539999999996,
+      "PerSpeed": 332
+    },
+    {
+      "VerDistance": 5772.421111111115,
+      "VerSpeed": 336,
+      "PerDistance": 5676.295555555552,
+      "PerSpeed": 332
+    },
+    {
+      "VerDistance": 5813.516388888893,
+      "VerSpeed": 337,
+      "PerDistance": 5709.695555555551,
+      "PerSpeed": 334
+    },
+    {
+      "VerDistance": 5847.4102777777825,
+      "VerSpeed": 338,
+      "PerDistance": 5739.47333333333,
+      "PerSpeed": 335
+    },
+    {
+      "VerDistance": 5866.188055555561,
+      "VerSpeed": 338,
+      "PerDistance": 5758.08444444444,
+      "PerSpeed": 335
+    },
+    {
+      "VerDistance": 5888.693888888894,
+      "VerSpeed": 339,
+      "PerDistance": 5787.955277777774,
+      "PerSpeed": 335
+    },
+    {
+      "VerDistance": 5907.527222222227,
+      "VerSpeed": 339,
+      "PerDistance": 5806.62194444444,
+      "PerSpeed": 336
+    },
+    {
+      "VerDistance": 5922.68805555556,
+      "VerSpeed": 339,
+      "PerDistance": 5825.288611111107,
+      "PerSpeed": 336
+    },
+    {
+      "VerDistance": 5941.5769444444495,
+      "VerSpeed": 340,
+      "PerDistance": 5851.406111111106,
+      "PerSpeed": 337
+    }
+  ],
+  "fastestLapData": [
+    {
+      "X": 1132,
+      "Y": -563,
+      "Z": -245,
+      "Speed": 338
+    },
+    {
+      "X": 1164,
+      "Y": -550,
+      "Z": -245,
+      "Speed": 338
+    },
+    {
+      "X": 1230,
+      "Y": -522,
+      "Z": -244,
+      "Speed": 339
+    },
+    {
+      "X": 1408,
+      "Y": -450,
+      "Z": -244,
+      "Speed": 339
+    },
+    {
+      "X": 1422,
+      "Y": -443,
+      "Z": -243,
+      "Speed": 340
+    },
+    {
+      "X": 1590,
+      "Y": -373,
+      "Z": -244,
+      "Speed": 340
+    },
+    {
+      "X": 1591,
+      "Y": -373,
+      "Z": -244,
+      "Speed": 340
+    },
+    {
+      "X": 1730,
+      "Y": -314,
+      "Z": -243,
+      "Speed": 340
+    },
+    {
+      "X": 1762,
+      "Y": -300,
+      "Z": -242,
+      "Speed": 341
+    },
+    {
+      "X": 1895,
+      "Y": -244,
+      "Z": -242,
+      "Speed": 341
+    },
+    {
+      "X": 1913,
+      "Y": -237,
+      "Z": -243,
+      "Speed": 341
+    },
+    {
+      "X": 2088,
+      "Y": -163,
+      "Z": -243,
+      "Speed": 341
+    },
+    {
+      "X": 2210,
+      "Y": -112,
+      "Z": -242,
+      "Speed": 341
+    },
+    {
+      "X": 2263,
+      "Y": -91,
+      "Z": -243,
+      "Speed": 341
+    },
+    {
+      "X": 2350,
+      "Y": -55,
+      "Z": -243,
+      "Speed": 341
+    },
+    {
+      "X": 2491,
+      "Y": 3,
+      "Z": -244,
+      "Speed": 341
+    },
+    {
+      "X": 2525,
+      "Y": 17,
+      "Z": -244,
+      "Speed": 342
+    },
+    {
+      "X": 2691,
+      "Y": 89,
+      "Z": -244,
+      "Speed": 322
+    },
+    {
+      "X": 2723,
+      "Y": 103,
+      "Z": -244,
+      "Speed": 303
+    },
+    {
+      "X": 2841,
+      "Y": 155,
+      "Z": -244,
+      "Speed": 288
+    },
+    {
+      "X": 2910,
+      "Y": 185,
+      "Z": -245,
+      "Speed": 267
+    },
+    {
+      "X": 3001,
+      "Y": 223,
+      "Z": -244,
+      "Speed": 246
+    },
+    {
+      "X": 3026,
+      "Y": 233,
+      "Z": -245,
+      "Speed": 239
+    },
+    {
+      "X": 3093,
+      "Y": 258,
+      "Z": -245,
+      "Speed": 233
+    },
+    {
+      "X": 3149,
+      "Y": 278,
+      "Z": -246,
+      "Speed": 220
+    },
+    {
+      "X": 3208,
+      "Y": 297,
+      "Z": -246,
+      "Speed": 207
+    },
+    {
+      "X": 3242,
+      "Y": 309,
+      "Z": -246,
+      "Speed": 201
+    },
+    {
+      "X": 3307,
+      "Y": 331,
+      "Z": -245,
+      "Speed": 195
+    },
+    {
+      "X": 3348,
+      "Y": 348,
+      "Z": -246,
+      "Speed": 184
+    },
+    {
+      "X": 3481,
+      "Y": 411,
+      "Z": -247,
+      "Speed": 173
+    },
+    {
+      "X": 3491,
+      "Y": 416,
+      "Z": -247,
+      "Speed": 162
+    },
+    {
+      "X": 3573,
+      "Y": 474,
+      "Z": -246,
+      "Speed": 145
+    },
+    {
+      "X": 3613,
+      "Y": 515,
+      "Z": -245,
+      "Speed": 143
+    },
+    {
+      "X": 3620,
+      "Y": 522,
+      "Z": -244,
+      "Speed": 142
+    },
+    {
+      "X": 3678,
+      "Y": 604,
+      "Z": -244,
+      "Speed": 136
+    },
+    {
+      "X": 3680,
+      "Y": 609,
+      "Z": -244,
+      "Speed": 130
+    },
+    {
+      "X": 3700,
+      "Y": 651,
+      "Z": -246,
+      "Speed": 127
+    },
+    {
+      "X": 3719,
+      "Y": 719,
+      "Z": -246,
+      "Speed": 125
+    },
+    {
+      "X": 3721,
+      "Y": 742,
+      "Z": -245,
+      "Speed": 123
+    },
+    {
+      "X": 3723,
+      "Y": 831,
+      "Z": -245,
+      "Speed": 126
+    },
+    {
+      "X": 3719,
+      "Y": 870,
+      "Z": -244,
+      "Speed": 130
+    },
+    {
+      "X": 3697,
+      "Y": 948,
+      "Z": -244,
+      "Speed": 134
+    },
+    {
+      "X": 3689,
+      "Y": 969,
+      "Z": -243,
+      "Speed": 138
+    },
+    {
+      "X": 3645,
+      "Y": 1084,
+      "Z": -244,
+      "Speed": 148
+    },
+    {
+      "X": 3594,
+      "Y": 1195,
+      "Z": -243,
+      "Speed": 159
+    },
+    {
+      "X": 3564,
+      "Y": 1259,
+      "Z": -243,
+      "Speed": 169
+    },
+    {
+      "X": 3517,
+      "Y": 1365,
+      "Z": -242,
+      "Speed": 182
+    },
+    {
+      "X": 3514,
+      "Y": 1374,
+      "Z": -242,
+      "Speed": 188
+    },
+    {
+      "X": 3469,
+      "Y": 1479,
+      "Z": -242,
+      "Speed": 194
+    },
+    {
+      "X": 3457,
+      "Y": 1509,
+      "Z": -242,
+      "Speed": 197
+    },
+    {
+      "X": 3413,
+      "Y": 1617,
+      "Z": -241,
+      "Speed": 201
+    },
+    {
+      "X": 3373,
+      "Y": 1712,
+      "Z": -241,
+      "Speed": 206
+    },
+    {
+      "X": 3355,
+      "Y": 1752,
+      "Z": -241,
+      "Speed": 212
+    },
+    {
+      "X": 3337,
+      "Y": 1793,
+      "Z": -241,
+      "Speed": 215
+    },
+    {
+      "X": 3295,
+      "Y": 1888,
+      "Z": -240,
+      "Speed": 218
+    },
+    {
+      "X": 3286,
+      "Y": 1909,
+      "Z": -240,
+      "Speed": 222
+    },
+    {
+      "X": 3238,
+      "Y": 2012,
+      "Z": -239,
+      "Speed": 227
+    },
+    {
+      "X": 3192,
+      "Y": 2114,
+      "Z": -239,
+      "Speed": 229
+    },
+    {
+      "X": 3164,
+      "Y": 2175,
+      "Z": -239,
+      "Speed": 232
+    },
+    {
+      "X": 3142,
+      "Y": 2226,
+      "Z": -239,
+      "Speed": 233
+    },
+    {
+      "X": 3088,
+      "Y": 2345,
+      "Z": -238,
+      "Speed": 234
+    },
+    {
+      "X": 3072,
+      "Y": 2383,
+      "Z": -238,
+      "Speed": 237
+    },
+    {
+      "X": 3056,
+      "Y": 2420,
+      "Z": -238,
+      "Speed": 240
+    },
+    {
+      "X": 3045,
+      "Y": 2443,
+      "Z": -238,
+      "Speed": 244
+    },
+    {
+      "X": 2991,
+      "Y": 2565,
+      "Z": -238,
+      "Speed": 248
+    },
+    {
+      "X": 2984,
+      "Y": 2583,
+      "Z": -238,
+      "Speed": 250
+    },
+    {
+      "X": 2875,
+      "Y": 2829,
+      "Z": -237,
+      "Speed": 252
+    },
+    {
+      "X": 2868,
+      "Y": 2844,
+      "Z": -236,
+      "Speed": 255
+    },
+    {
+      "X": 2812,
+      "Y": 2972,
+      "Z": -236,
+      "Speed": 240
+    },
+    {
+      "X": 2791,
+      "Y": 3017,
+      "Z": -235,
+      "Speed": 226
+    },
+    {
+      "X": 2764,
+      "Y": 3079,
+      "Z": -235,
+      "Speed": 215
+    },
+    {
+      "X": 2749,
+      "Y": 3112,
+      "Z": -234,
+      "Speed": 205
+    },
+    {
+      "X": 2719,
+      "Y": 3181,
+      "Z": -235,
+      "Speed": 199
+    },
+    {
+      "X": 2706,
+      "Y": 3208,
+      "Z": -234,
+      "Speed": 194
+    },
+    {
+      "X": 2667,
+      "Y": 3298,
+      "Z": -234,
+      "Speed": 166
+    },
+    {
+      "X": 2616,
+      "Y": 3412,
+      "Z": -233,
+      "Speed": 149
+    },
+    {
+      "X": 2606,
+      "Y": 3436,
+      "Z": -233,
+      "Speed": 142
+    },
+    {
+      "X": 2591,
+      "Y": 3468,
+      "Z": -232,
+      "Speed": 135
+    },
+    {
+      "X": 2562,
+      "Y": 3529,
+      "Z": -232,
+      "Speed": 130
+    },
+    {
+      "X": 2549,
+      "Y": 3552,
+      "Z": -231,
+      "Speed": 126
+    },
+    {
+      "X": 2533,
+      "Y": 3581,
+      "Z": -232,
+      "Speed": 120
+    },
+    {
+      "X": 2516,
+      "Y": 3605,
+      "Z": -232,
+      "Speed": 114
+    },
+    {
+      "X": 2499,
+      "Y": 3626,
+      "Z": -232,
+      "Speed": 110
+    },
+    {
+      "X": 2449,
+      "Y": 3665,
+      "Z": -230,
+      "Speed": 106
+    },
+    {
+      "X": 2421,
+      "Y": 3680,
+      "Z": -231,
+      "Speed": 104
+    },
+    {
+      "X": 2391,
+      "Y": 3687,
+      "Z": -233,
+      "Speed": 103
+    },
+    {
+      "X": 2381,
+      "Y": 3689,
+      "Z": -234,
+      "Speed": 103
+    },
+    {
+      "X": 2332,
+      "Y": 3691,
+      "Z": -233,
+      "Speed": 103
+    },
+    {
+      "X": 2297,
+      "Y": 3687,
+      "Z": -232,
+      "Speed": 104
+    },
+    {
+      "X": 2270,
+      "Y": 3682,
+      "Z": -232,
+      "Speed": 104
+    },
+    {
+      "X": 2252,
+      "Y": 3678,
+      "Z": -231,
+      "Speed": 104
+    },
+    {
+      "X": 2203,
+      "Y": 3665,
+      "Z": -230,
+      "Speed": 108
+    },
+    {
+      "X": 2173,
+      "Y": 3657,
+      "Z": -230,
+      "Speed": 110
+    },
+    {
+      "X": 2155,
+      "Y": 3651,
+      "Z": -229,
+      "Speed": 112
+    },
+    {
+      "X": 2109,
+      "Y": 3636,
+      "Z": -230,
+      "Speed": 116
+    },
+    {
+      "X": 2097,
+      "Y": 3631,
+      "Z": -230,
+      "Speed": 120
+    },
+    {
+      "X": 2063,
+      "Y": 3618,
+      "Z": -229,
+      "Speed": 125
+    },
+    {
+      "X": 2005,
+      "Y": 3597,
+      "Z": -230,
+      "Speed": 129
+    },
+    {
+      "X": 1881,
+      "Y": 3548,
+      "Z": -230,
+      "Speed": 138
+    },
+    {
+      "X": 1838,
+      "Y": 3531,
+      "Z": -231,
+      "Speed": 141
+    },
+    {
+      "X": 1805,
+      "Y": 3518,
+      "Z": -231,
+      "Speed": 144
+    },
+    {
+      "X": 1717,
+      "Y": 3484,
+      "Z": -231,
+      "Speed": 154
+    },
+    {
+      "X": 1693,
+      "Y": 3475,
+      "Z": -230,
+      "Speed": 165
+    },
+    {
+      "X": 1550,
+      "Y": 3422,
+      "Z": -230,
+      "Speed": 170
+    },
+    {
+      "X": 1523,
+      "Y": 3412,
+      "Z": -229,
+      "Speed": 175
+    },
+    {
+      "X": 1370,
+      "Y": 3356,
+      "Z": -230,
+      "Speed": 188
+    },
+    {
+      "X": 1319,
+      "Y": 3338,
+      "Z": -230,
+      "Speed": 194
+    },
+    {
+      "X": 1262,
+      "Y": 3317,
+      "Z": -229,
+      "Speed": 200
+    },
+    {
+      "X": 1178,
+      "Y": 3285,
+      "Z": -229,
+      "Speed": 204
+    },
+    {
+      "X": 1169,
+      "Y": 3282,
+      "Z": -229,
+      "Speed": 210
+    },
+    {
+      "X": 1075,
+      "Y": 3247,
+      "Z": -229,
+      "Speed": 216
+    },
+    {
+      "X": 1005,
+      "Y": 3220,
+      "Z": -229,
+      "Speed": 222
+    },
+    {
+      "X": 983,
+      "Y": 3212,
+      "Z": -229,
+      "Speed": 225
+    },
+    {
+      "X": 894,
+      "Y": 3179,
+      "Z": -228,
+      "Speed": 228
+    },
+    {
+      "X": 871,
+      "Y": 3171,
+      "Z": -228,
+      "Speed": 231
+    },
+    {
+      "X": 720,
+      "Y": 3114,
+      "Z": -227,
+      "Speed": 234
+    },
+    {
+      "X": 708,
+      "Y": 3110,
+      "Z": -228,
+      "Speed": 234
+    },
+    {
+      "X": 601,
+      "Y": 3070,
+      "Z": -228,
+      "Speed": 234
+    },
+    {
+      "X": 571,
+      "Y": 3059,
+      "Z": -228,
+      "Speed": 238
+    },
+    {
+      "X": 411,
+      "Y": 2999,
+      "Z": -228,
+      "Speed": 243
+    },
+    {
+      "X": 346,
+      "Y": 2975,
+      "Z": -228,
+      "Speed": 248
+    },
+    {
+      "X": 284,
+      "Y": 2951,
+      "Z": -227,
+      "Speed": 253
+    },
+    {
+      "X": 221,
+      "Y": 2927,
+      "Z": -228,
+      "Speed": 256
+    },
+    {
+      "X": 76,
+      "Y": 2872,
+      "Z": -228,
+      "Speed": 260
+    },
+    {
+      "X": -29,
+      "Y": 2833,
+      "Z": -229,
+      "Speed": 262
+    },
+    {
+      "X": -107,
+      "Y": 2803,
+      "Z": -229,
+      "Speed": 264
+    },
+    {
+      "X": -177,
+      "Y": 2778,
+      "Z": -229,
+      "Speed": 267
+    },
+    {
+      "X": -272,
+      "Y": 2743,
+      "Z": -230,
+      "Speed": 270
+    },
+    {
+      "X": -308,
+      "Y": 2729,
+      "Z": -230,
+      "Speed": 273
+    },
+    {
+      "X": -407,
+      "Y": 2692,
+      "Z": -230,
+      "Speed": 274
+    },
+    {
+      "X": -452,
+      "Y": 2674,
+      "Z": -229,
+      "Speed": 276
+    },
+    {
+      "X": -529,
+      "Y": 2646,
+      "Z": -230,
+      "Speed": 279
+    },
+    {
+      "X": -660,
+      "Y": 2594,
+      "Z": -230,
+      "Speed": 282
+    },
+    {
+      "X": -747,
+      "Y": 2560,
+      "Z": -231,
+      "Speed": 283
+    },
+    {
+      "X": -806,
+      "Y": 2536,
+      "Z": -231,
+      "Speed": 285
+    },
+    {
+      "X": -908,
+      "Y": 2495,
+      "Z": -232,
+      "Speed": 285
+    },
+    {
+      "X": -975,
+      "Y": 2466,
+      "Z": -232,
+      "Speed": 286
+    },
+    {
+      "X": -1004,
+      "Y": 2454,
+      "Z": -232,
+      "Speed": 288
+    },
+    {
+      "X": -1129,
+      "Y": 2400,
+      "Z": -232,
+      "Speed": 291
+    },
+    {
+      "X": -1294,
+      "Y": 2328,
+      "Z": -232,
+      "Speed": 293
+    },
+    {
+      "X": -1308,
+      "Y": 2321,
+      "Z": -231,
+      "Speed": 295
+    },
+    {
+      "X": -1437,
+      "Y": 2266,
+      "Z": -232,
+      "Speed": 296
+    },
+    {
+      "X": -1481,
+      "Y": 2246,
+      "Z": -232,
+      "Speed": 297
+    },
+    {
+      "X": -1634,
+      "Y": 2180,
+      "Z": -232,
+      "Speed": 300
+    },
+    {
+      "X": -1649,
+      "Y": 2174,
+      "Z": -233,
+      "Speed": 301
+    },
+    {
+      "X": -1748,
+      "Y": 2130,
+      "Z": -233,
+      "Speed": 302
+    },
+    {
+      "X": -1781,
+      "Y": 2117,
+      "Z": -233,
+      "Speed": 302
+    },
+    {
+      "X": -1894,
+      "Y": 2068,
+      "Z": -233,
+      "Speed": 302
+    },
+    {
+      "X": -2048,
+      "Y": 2002,
+      "Z": -233,
+      "Speed": 303
+    },
+    {
+      "X": -2148,
+      "Y": 1958,
+      "Z": -232,
+      "Speed": 305
+    },
+    {
+      "X": -2220,
+      "Y": 1928,
+      "Z": -232,
+      "Speed": 307
+    },
+    {
+      "X": -2297,
+      "Y": 1894,
+      "Z": -231,
+      "Speed": 309
+    },
+    {
+      "X": -2730,
+      "Y": 1708,
+      "Z": -230,
+      "Speed": 315
+    },
+    {
+      "X": -2856,
+      "Y": 1654,
+      "Z": -230,
+      "Speed": 315
+    },
+    {
+      "X": -3148,
+      "Y": 1528,
+      "Z": -230,
+      "Speed": 316
+    },
+    {
+      "X": -3269,
+      "Y": 1475,
+      "Z": -229,
+      "Speed": 317
+    },
+    {
+      "X": -3280,
+      "Y": 1470,
+      "Z": -228,
+      "Speed": 319
+    },
+    {
+      "X": -3439,
+      "Y": 1399,
+      "Z": -228,
+      "Speed": 321
+    },
+    {
+      "X": -3440,
+      "Y": 1399,
+      "Z": -228,
+      "Speed": 321
+    },
+    {
+      "X": -3603,
+      "Y": 1327,
+      "Z": -227,
+      "Speed": 322
+    },
+    {
+      "X": -3688,
+      "Y": 1288,
+      "Z": -226,
+      "Speed": 323
+    },
+    {
+      "X": -3742,
+      "Y": 1265,
+      "Z": -226,
+      "Speed": 323
+    },
+    {
+      "X": -3890,
+      "Y": 1198,
+      "Z": -225,
+      "Speed": 324
+    },
+    {
+      "X": -3989,
+      "Y": 1155,
+      "Z": -225,
+      "Speed": 324
+    },
+    {
+      "X": -4054,
+      "Y": 1125,
+      "Z": -225,
+      "Speed": 324
+    },
+    {
+      "X": -4137,
+      "Y": 1089,
+      "Z": -225,
+      "Speed": 325
+    },
+    {
+      "X": -4185,
+      "Y": 1067,
+      "Z": -224,
+      "Speed": 326
+    },
+    {
+      "X": -4270,
+      "Y": 1031,
+      "Z": -224,
+      "Speed": 327
+    },
+    {
+      "X": -4594,
+      "Y": 886,
+      "Z": -223,
+      "Speed": 328
+    },
+    {
+      "X": -4627,
+      "Y": 872,
+      "Z": -224,
+      "Speed": 311
+    },
+    {
+      "X": -4703,
+      "Y": 837,
+      "Z": -224,
+      "Speed": 294
+    },
+    {
+      "X": -4797,
+      "Y": 796,
+      "Z": -224,
+      "Speed": 278
+    },
+    {
+      "X": -4808,
+      "Y": 791,
+      "Z": -223,
+      "Speed": 263
+    },
+    {
+      "X": -4956,
+      "Y": 724,
+      "Z": -224,
+      "Speed": 235
+    },
+    {
+      "X": -4980,
+      "Y": 714,
+      "Z": -224,
+      "Speed": 226
+    },
+    {
+      "X": -5076,
+      "Y": 671,
+      "Z": -224,
+      "Speed": 217
+    },
+    {
+      "X": -5111,
+      "Y": 655,
+      "Z": -224,
+      "Speed": 208
+    },
+    {
+      "X": -5209,
+      "Y": 612,
+      "Z": -225,
+      "Speed": 187
+    },
+    {
+      "X": -5246,
+      "Y": 595,
+      "Z": -225,
+      "Speed": 166
+    },
+    {
+      "X": -5326,
+      "Y": 558,
+      "Z": -225,
+      "Speed": 148
+    },
+    {
+      "X": -5352,
+      "Y": 545,
+      "Z": -225,
+      "Speed": 142
+    },
+    {
+      "X": -5409,
+      "Y": 515,
+      "Z": -225,
+      "Speed": 136
+    },
+    {
+      "X": -5420,
+      "Y": 508,
+      "Z": -225,
+      "Speed": 131
+    },
+    {
+      "X": -5458,
+      "Y": 484,
+      "Z": -226,
+      "Speed": 125
+    },
+    {
+      "X": -5534,
+      "Y": 420,
+      "Z": -226,
+      "Speed": 119
+    },
+    {
+      "X": -5547,
+      "Y": 406,
+      "Z": -225,
+      "Speed": 114
+    },
+    {
+      "X": -5578,
+      "Y": 354,
+      "Z": -226,
+      "Speed": 109
+    },
+    {
+      "X": -5585,
+      "Y": 316,
+      "Z": -226,
+      "Speed": 106
+    },
+    {
+      "X": -5587,
+      "Y": 290,
+      "Z": -225,
+      "Speed": 103
+    },
+    {
+      "X": -5584,
+      "Y": 257,
+      "Z": -225,
+      "Speed": 102
+    },
+    {
+      "X": -5583,
+      "Y": 252,
+      "Z": -225,
+      "Speed": 102
+    },
+    {
+      "X": -5568,
+      "Y": 193,
+      "Z": -225,
+      "Speed": 103
+    },
+    {
+      "X": -5565,
+      "Y": 182,
+      "Z": -226,
+      "Speed": 105
+    },
+    {
+      "X": -5552,
+      "Y": 149,
+      "Z": -226,
+      "Speed": 107
+    },
+    {
+      "X": -5536,
+      "Y": 113,
+      "Z": -226,
+      "Speed": 113
+    },
+    {
+      "X": -5489,
+      "Y": 17,
+      "Z": -226,
+      "Speed": 119
+    },
+    {
+      "X": -5448,
+      "Y": -61,
+      "Z": -226,
+      "Speed": 132
+    },
+    {
+      "X": -5443,
+      "Y": -73,
+      "Z": -227,
+      "Speed": 139
+    },
+    {
+      "X": -5414,
+      "Y": -133,
+      "Z": -227,
+      "Speed": 146
+    },
+    {
+      "X": -5403,
+      "Y": -155,
+      "Z": -226,
+      "Speed": 153
+    },
+    {
+      "X": -5383,
+      "Y": -203,
+      "Z": -227,
+      "Speed": 157
+    },
+    {
+      "X": -5356,
+      "Y": -274,
+      "Z": -228,
+      "Speed": 161
+    },
+    {
+      "X": -5349,
+      "Y": -291,
+      "Z": -228,
+      "Speed": 166
+    },
+    {
+      "X": -5322,
+      "Y": -376,
+      "Z": -228,
+      "Speed": 168
+    },
+    {
+      "X": -5316,
+      "Y": -394,
+      "Z": -228,
+      "Speed": 170
+    },
+    {
+      "X": -5283,
+      "Y": -497,
+      "Z": -228,
+      "Speed": 183
+    },
+    {
+      "X": -5264,
+      "Y": -560,
+      "Z": -229,
+      "Speed": 187
+    },
+    {
+      "X": -5251,
+      "Y": -598,
+      "Z": -228,
+      "Speed": 191
+    },
+    {
+      "X": -5236,
+      "Y": -641,
+      "Z": -229,
+      "Speed": 194
+    },
+    {
+      "X": -5192,
+      "Y": -750,
+      "Z": -230,
+      "Speed": 197
+    },
+    {
+      "X": -5179,
+      "Y": -780,
+      "Z": -230,
+      "Speed": 200
+    },
+    {
+      "X": -5159,
+      "Y": -828,
+      "Z": -230,
+      "Speed": 203
+    },
+    {
+      "X": -5137,
+      "Y": -876,
+      "Z": -230,
+      "Speed": 207
+    },
+    {
+      "X": -5098,
+      "Y": -959,
+      "Z": -230,
+      "Speed": 213
+    },
+    {
+      "X": -5084,
+      "Y": -991,
+      "Z": -231,
+      "Speed": 213
+    },
+    {
+      "X": -5059,
+      "Y": -1042,
+      "Z": -231,
+      "Speed": 213
+    },
+    {
+      "X": -5036,
+      "Y": -1094,
+      "Z": -232,
+      "Speed": 209
+    },
+    {
+      "X": -5003,
+      "Y": -1163,
+      "Z": -232,
+      "Speed": 206
+    },
+    {
+      "X": -4964,
+      "Y": -1248,
+      "Z": -233,
+      "Speed": 190
+    },
+    {
+      "X": -4939,
+      "Y": -1305,
+      "Z": -233,
+      "Speed": 174
+    },
+    {
+      "X": -4932,
+      "Y": -1325,
+      "Z": -233,
+      "Speed": 165
+    },
+    {
+      "X": -4924,
+      "Y": -1344,
+      "Z": -232,
+      "Speed": 156
+    },
+    {
+      "X": -4899,
+      "Y": -1409,
+      "Z": -233,
+      "Speed": 147
+    },
+    {
+      "X": -4880,
+      "Y": -1465,
+      "Z": -234,
+      "Speed": 139
+    },
+    {
+      "X": -4879,
+      "Y": -1465,
+      "Z": -234,
+      "Speed": 131
+    },
+    {
+      "X": -4856,
+      "Y": -1555,
+      "Z": -234,
+      "Speed": 121
+    },
+    {
+      "X": -4852,
+      "Y": -1580,
+      "Z": -233,
+      "Speed": 112
+    },
+    {
+      "X": -4848,
+      "Y": -1626,
+      "Z": -234,
+      "Speed": 109
+    },
+    {
+      "X": -4848,
+      "Y": -1656,
+      "Z": -234,
+      "Speed": 106
+    },
+    {
+      "X": -4849,
+      "Y": -1667,
+      "Z": -233,
+      "Speed": 103
+    },
+    {
+      "X": -4866,
+      "Y": -1732,
+      "Z": -233,
+      "Speed": 100
+    },
+    {
+      "X": -4881,
+      "Y": -1764,
+      "Z": -234,
+      "Speed": 97
+    },
+    {
+      "X": -4928,
+      "Y": -1819,
+      "Z": -234,
+      "Speed": 95
+    },
+    {
+      "X": -4989,
+      "Y": -1863,
+      "Z": -235,
+      "Speed": 96
+    },
+    {
+      "X": -4999,
+      "Y": -1869,
+      "Z": -235,
+      "Speed": 98
+    },
+    {
+      "X": -5035,
+      "Y": -1888,
+      "Z": -235,
+      "Speed": 105
+    },
+    {
+      "X": -5052,
+      "Y": -1897,
+      "Z": -235,
+      "Speed": 106
+    },
+    {
+      "X": -5072,
+      "Y": -1906,
+      "Z": -234,
+      "Speed": 108
+    },
+    {
+      "X": -5095,
+      "Y": -1917,
+      "Z": -235,
+      "Speed": 114
+    },
+    {
+      "X": -5163,
+      "Y": -1945,
+      "Z": -236,
+      "Speed": 120
+    },
+    {
+      "X": -5169,
+      "Y": -1947,
+      "Z": -236,
+      "Speed": 126
+    },
+    {
+      "X": -5248,
+      "Y": -1978,
+      "Z": -236,
+      "Speed": 132
+    },
+    {
+      "X": -5268,
+      "Y": -1985,
+      "Z": -235,
+      "Speed": 138
+    },
+    {
+      "X": -5315,
+      "Y": -2002,
+      "Z": -236,
+      "Speed": 143
+    },
+    {
+      "X": -5336,
+      "Y": -2009,
+      "Z": -236,
+      "Speed": 149
+    },
+    {
+      "X": -5496,
+      "Y": -2070,
+      "Z": -237,
+      "Speed": 156
+    },
+    {
+      "X": -5514,
+      "Y": -2077,
+      "Z": -237,
+      "Speed": 164
+    },
+    {
+      "X": -5596,
+      "Y": -2111,
+      "Z": -236,
+      "Speed": 177
+    },
+    {
+      "X": -5612,
+      "Y": -2118,
+      "Z": -237,
+      "Speed": 181
+    },
+    {
+      "X": -5690,
+      "Y": -2152,
+      "Z": -237,
+      "Speed": 186
+    },
+    {
+      "X": -5700,
+      "Y": -2157,
+      "Z": -238,
+      "Speed": 189
+    },
+    {
+      "X": -5783,
+      "Y": -2195,
+      "Z": -238,
+      "Speed": 193
+    },
+    {
+      "X": -5863,
+      "Y": -2230,
+      "Z": -238,
+      "Speed": 198
+    },
+    {
+      "X": -5924,
+      "Y": -2256,
+      "Z": -238,
+      "Speed": 204
+    },
+    {
+      "X": -5966,
+      "Y": -2274,
+      "Z": -239,
+      "Speed": 205
+    },
+    {
+      "X": -6007,
+      "Y": -2291,
+      "Z": -239,
+      "Speed": 207
+    },
+    {
+      "X": -6136,
+      "Y": -2343,
+      "Z": -239,
+      "Speed": 217
+    },
+    {
+      "X": -6172,
+      "Y": -2359,
+      "Z": -240,
+      "Speed": 219
+    },
+    {
+      "X": -6272,
+      "Y": -2403,
+      "Z": -240,
+      "Speed": 221
+    },
+    {
+      "X": -6316,
+      "Y": -2424,
+      "Z": -240,
+      "Speed": 223
+    },
+    {
+      "X": -6348,
+      "Y": -2440,
+      "Z": -239,
+      "Speed": 225
+    },
+    {
+      "X": -6429,
+      "Y": -2482,
+      "Z": -240,
+      "Speed": 229
+    },
+    {
+      "X": -6484,
+      "Y": -2511,
+      "Z": -240,
+      "Speed": 233
+    },
+    {
+      "X": -6615,
+      "Y": -2587,
+      "Z": -241,
+      "Speed": 238
+    },
+    {
+      "X": -6639,
+      "Y": -2601,
+      "Z": -241,
+      "Speed": 241
+    },
+    {
+      "X": -6753,
+      "Y": -2670,
+      "Z": -240,
+      "Speed": 244
+    },
+    {
+      "X": -6766,
+      "Y": -2678,
+      "Z": -240,
+      "Speed": 245
+    },
+    {
+      "X": -6845,
+      "Y": -2726,
+      "Z": -240,
+      "Speed": 246
+    },
+    {
+      "X": -6871,
+      "Y": -2742,
+      "Z": -240,
+      "Speed": 243
+    },
+    {
+      "X": -7049,
+      "Y": -2847,
+      "Z": -239,
+      "Speed": 240
+    },
+    {
+      "X": -7121,
+      "Y": -2887,
+      "Z": -238,
+      "Speed": 237
+    },
+    {
+      "X": -7201,
+      "Y": -2931,
+      "Z": -238,
+      "Speed": 225
+    },
+    {
+      "X": -7215,
+      "Y": -2939,
+      "Z": -239,
+      "Speed": 225
+    },
+    {
+      "X": -7358,
+      "Y": -3018,
+      "Z": -239,
+      "Speed": 225
+    },
+    {
+      "X": -7416,
+      "Y": -3051,
+      "Z": -240,
+      "Speed": 199
+    },
+    {
+      "X": -7500,
+      "Y": -3103,
+      "Z": -240,
+      "Speed": 173
+    },
+    {
+      "X": -7572,
+      "Y": -3162,
+      "Z": -240,
+      "Speed": 160
+    },
+    {
+      "X": -7580,
+      "Y": -3169,
+      "Z": -240,
+      "Speed": 153
+    },
+    {
+      "X": -7609,
+      "Y": -3195,
+      "Z": -239,
+      "Speed": 146
+    },
+    {
+      "X": -7625,
+      "Y": -3211,
+      "Z": -240,
+      "Speed": 140
+    },
+    {
+      "X": -7642,
+      "Y": -3229,
+      "Z": -240,
+      "Speed": 135
+    },
+    {
+      "X": -7692,
+      "Y": -3293,
+      "Z": -241,
+      "Speed": 130
+    },
+    {
+      "X": -7695,
+      "Y": -3298,
+      "Z": -241,
+      "Speed": 126
+    },
+    {
+      "X": -7720,
+      "Y": -3345,
+      "Z": -241,
+      "Speed": 121
+    },
+    {
+      "X": -7732,
+      "Y": -3374,
+      "Z": -241,
+      "Speed": 119
+    },
+    {
+      "X": -7741,
+      "Y": -3413,
+      "Z": -240,
+      "Speed": 117
+    },
+    {
+      "X": -7744,
+      "Y": -3430,
+      "Z": -241,
+      "Speed": 112
+    },
+    {
+      "X": -7745,
+      "Y": -3486,
+      "Z": -242,
+      "Speed": 108
+    },
+    {
+      "X": -7720,
+      "Y": -3576,
+      "Z": -242,
+      "Speed": 103
+    },
+    {
+      "X": -7718,
+      "Y": -3584,
+      "Z": -242,
+      "Speed": 102
+    },
+    {
+      "X": -7700,
+      "Y": -3625,
+      "Z": -241,
+      "Speed": 102
+    },
+    {
+      "X": -7687,
+      "Y": -3649,
+      "Z": -242,
+      "Speed": 103
+    },
+    {
+      "X": -7682,
+      "Y": -3658,
+      "Z": -241,
+      "Speed": 104
+    },
+    {
+      "X": -7653,
+      "Y": -3716,
+      "Z": -242,
+      "Speed": 106
+    },
+    {
+      "X": -7637,
+      "Y": -3746,
+      "Z": -242,
+      "Speed": 109
+    },
+    {
+      "X": -7623,
+      "Y": -3787,
+      "Z": -242,
+      "Speed": 106
+    },
+    {
+      "X": -7617,
+      "Y": -3809,
+      "Z": -241,
+      "Speed": 104
+    },
+    {
+      "X": -7607,
+      "Y": -3872,
+      "Z": -241,
+      "Speed": 99
+    },
+    {
+      "X": -7605,
+      "Y": -3903,
+      "Z": -240,
+      "Speed": 94
+    },
+    {
+      "X": -7616,
+      "Y": -3927,
+      "Z": -241,
+      "Speed": 93
+    },
+    {
+      "X": -7631,
+      "Y": -3958,
+      "Z": -241,
+      "Speed": 93
+    },
+    {
+      "X": -7640,
+      "Y": -3972,
+      "Z": -241,
+      "Speed": 94
+    },
+    {
+      "X": -7674,
+      "Y": -4011,
+      "Z": -241,
+      "Speed": 95
+    },
+    {
+      "X": -7677,
+      "Y": -4014,
+      "Z": -241,
+      "Speed": 97
+    },
+    {
+      "X": -7711,
+      "Y": -4045,
+      "Z": -241,
+      "Speed": 98
+    },
+    {
+      "X": -7782,
+      "Y": -4097,
+      "Z": -240,
+      "Speed": 102
+    },
+    {
+      "X": -7787,
+      "Y": -4100,
+      "Z": -239,
+      "Speed": 107
+    },
+    {
+      "X": -7838,
+      "Y": -4134,
+      "Z": -240,
+      "Speed": 111
+    },
+    {
+      "X": -7845,
+      "Y": -4138,
+      "Z": -239,
+      "Speed": 116
+    },
+    {
+      "X": -7929,
+      "Y": -4189,
+      "Z": -239,
+      "Speed": 125
+    },
+    {
+      "X": -7944,
+      "Y": -4199,
+      "Z": -239,
+      "Speed": 128
+    },
+    {
+      "X": -7987,
+      "Y": -4225,
+      "Z": -239,
+      "Speed": 132
+    },
+    {
+      "X": -8026,
+      "Y": -4250,
+      "Z": -239,
+      "Speed": 145
+    },
+    {
+      "X": -8077,
+      "Y": -4284,
+      "Z": -238,
+      "Speed": 159
+    },
+    {
+      "X": -8106,
+      "Y": -4305,
+      "Z": -238,
+      "Speed": 163
+    },
+    {
+      "X": -8188,
+      "Y": -4366,
+      "Z": -238,
+      "Speed": 168
+    },
+    {
+      "X": -8195,
+      "Y": -4371,
+      "Z": -238,
+      "Speed": 173
+    },
+    {
+      "X": -8281,
+      "Y": -4439,
+      "Z": -238,
+      "Speed": 179
+    },
+    {
+      "X": -8320,
+      "Y": -4471,
+      "Z": -238,
+      "Speed": 186
+    },
+    {
+      "X": -8361,
+      "Y": -4504,
+      "Z": -238,
+      "Speed": 192
+    },
+    {
+      "X": -8434,
+      "Y": -4561,
+      "Z": -237,
+      "Speed": 198
+    },
+    {
+      "X": -8508,
+      "Y": -4619,
+      "Z": -237,
+      "Speed": 199
+    },
+    {
+      "X": -8545,
+      "Y": -4647,
+      "Z": -237,
+      "Speed": 201
+    },
+    {
+      "X": -8591,
+      "Y": -4681,
+      "Z": -237,
+      "Speed": 206
+    },
+    {
+      "X": -8638,
+      "Y": -4716,
+      "Z": -236,
+      "Speed": 211
+    },
+    {
+      "X": -8734,
+      "Y": -4788,
+      "Z": -237,
+      "Speed": 215
+    },
+    {
+      "X": -8790,
+      "Y": -4830,
+      "Z": -237,
+      "Speed": 220
+    },
+    {
+      "X": -8818,
+      "Y": -4851,
+      "Z": -237,
+      "Speed": 225
+    },
+    {
+      "X": -8948,
+      "Y": -4950,
+      "Z": -236,
+      "Speed": 231
+    },
+    {
+      "X": -8979,
+      "Y": -4974,
+      "Z": -237,
+      "Speed": 232
+    },
+    {
+      "X": -9031,
+      "Y": -5013,
+      "Z": -237,
+      "Speed": 233
+    },
+    {
+      "X": -9067,
+      "Y": -5041,
+      "Z": -237,
+      "Speed": 235
+    },
+    {
+      "X": -9230,
+      "Y": -5165,
+      "Z": -236,
+      "Speed": 238
+    },
+    {
+      "X": -9302,
+      "Y": -5220,
+      "Z": -235,
+      "Speed": 245
+    },
+    {
+      "X": -9366,
+      "Y": -5269,
+      "Z": -236,
+      "Speed": 248
+    },
+    {
+      "X": -9440,
+      "Y": -5325,
+      "Z": -236,
+      "Speed": 252
+    },
+    {
+      "X": -9499,
+      "Y": -5370,
+      "Z": -236,
+      "Speed": 254
+    },
+    {
+      "X": -9600,
+      "Y": -5447,
+      "Z": -235,
+      "Speed": 257
+    },
+    {
+      "X": -9623,
+      "Y": -5465,
+      "Z": -235,
+      "Speed": 258
+    },
+    {
+      "X": -9688,
+      "Y": -5515,
+      "Z": -234,
+      "Speed": 259
+    },
+    {
+      "X": -9798,
+      "Y": -5598,
+      "Z": -235,
+      "Speed": 261
+    },
+    {
+      "X": -9953,
+      "Y": -5715,
+      "Z": -235,
+      "Speed": 264
+    },
+    {
+      "X": -9985,
+      "Y": -5739,
+      "Z": -235,
+      "Speed": 258
+    },
+    {
+      "X": -10055,
+      "Y": -5790,
+      "Z": -234,
+      "Speed": 252
+    },
+    {
+      "X": -10080,
+      "Y": -5809,
+      "Z": -235,
+      "Speed": 233
+    },
+    {
+      "X": -10197,
+      "Y": -5898,
+      "Z": -236,
+      "Speed": 214
+    },
+    {
+      "X": -10248,
+      "Y": -5938,
+      "Z": -236,
+      "Speed": 201
+    },
+    {
+      "X": -10332,
+      "Y": -6006,
+      "Z": -234,
+      "Speed": 188
+    },
+    {
+      "X": -10358,
+      "Y": -6027,
+      "Z": -234,
+      "Speed": 167
+    },
+    {
+      "X": -10453,
+      "Y": -6104,
+      "Z": -235,
+      "Speed": 146
+    },
+    {
+      "X": -10496,
+      "Y": -6136,
+      "Z": -237,
+      "Speed": 128
+    },
+    {
+      "X": -10604,
+      "Y": -6205,
+      "Z": -237,
+      "Speed": 116
+    },
+    {
+      "X": -10614,
+      "Y": -6210,
+      "Z": -236,
+      "Speed": 105
+    },
+    {
+      "X": -10655,
+      "Y": -6228,
+      "Z": -236,
+      "Speed": 97
+    },
+    {
+      "X": -10694,
+      "Y": -6237,
+      "Z": -236,
+      "Speed": 90
+    },
+    {
+      "X": -10698,
+      "Y": -6238,
+      "Z": -236,
+      "Speed": 87
+    },
+    {
+      "X": -10721,
+      "Y": -6239,
+      "Z": -235,
+      "Speed": 85
+    },
+    {
+      "X": -10758,
+      "Y": -6235,
+      "Z": -234,
+      "Speed": 82
+    },
+    {
+      "X": -10787,
+      "Y": -6221,
+      "Z": -233,
+      "Speed": 80
+    },
+    {
+      "X": -10788,
+      "Y": -6221,
+      "Z": -234,
+      "Speed": 83
+    },
+    {
+      "X": -10906,
+      "Y": -6054,
+      "Z": -232,
+      "Speed": 87
+    },
+    {
+      "X": -10913,
+      "Y": -6040,
+      "Z": -232,
+      "Speed": 91
+    },
+    {
+      "X": -10931,
+      "Y": -5996,
+      "Z": -231,
+      "Speed": 95
+    },
+    {
+      "X": -10938,
+      "Y": -5976,
+      "Z": -230,
+      "Speed": 99
+    },
+    {
+      "X": -10948,
+      "Y": -5950,
+      "Z": -231,
+      "Speed": 102
+    },
+    {
+      "X": -10964,
+      "Y": -5899,
+      "Z": -231,
+      "Speed": 106
+    },
+    {
+      "X": -10989,
+      "Y": -5826,
+      "Z": -231,
+      "Speed": 111
+    },
+    {
+      "X": -10992,
+      "Y": -5814,
+      "Z": -230,
+      "Speed": 117
+    },
+    {
+      "X": -11016,
+      "Y": -5741,
+      "Z": -230,
+      "Speed": 128
+    },
+    {
+      "X": -11018,
+      "Y": -5732,
+      "Z": -229,
+      "Speed": 139
+    },
+    {
+      "X": -11049,
+      "Y": -5627,
+      "Z": -229,
+      "Speed": 150
+    },
+    {
+      "X": -11058,
+      "Y": -5600,
+      "Z": -229,
+      "Speed": 155
+    },
+    {
+      "X": -11075,
+      "Y": -5540,
+      "Z": -228,
+      "Speed": 160
+    },
+    {
+      "X": -11099,
+      "Y": -5457,
+      "Z": -228,
+      "Speed": 169
+    },
+    {
+      "X": -11129,
+      "Y": -5356,
+      "Z": -227,
+      "Speed": 174
+    },
+    {
+      "X": -11148,
+      "Y": -5294,
+      "Z": -227,
+      "Speed": 179
+    },
+    {
+      "X": -11170,
+      "Y": -5220,
+      "Z": -226,
+      "Speed": 185
+    },
+    {
+      "X": -11187,
+      "Y": -5165,
+      "Z": -226,
+      "Speed": 188
+    },
+    {
+      "X": -11203,
+      "Y": -5113,
+      "Z": -225,
+      "Speed": 192
+    },
+    {
+      "X": -11237,
+      "Y": -5004,
+      "Z": -224,
+      "Speed": 198
+    },
+    {
+      "X": -11268,
+      "Y": -4897,
+      "Z": -223,
+      "Speed": 205
+    },
+    {
+      "X": -11287,
+      "Y": -4834,
+      "Z": -223,
+      "Speed": 193
+    },
+    {
+      "X": -11307,
+      "Y": -4767,
+      "Z": -222,
+      "Speed": 182
+    },
+    {
+      "X": -11316,
+      "Y": -4738,
+      "Z": -222,
+      "Speed": 172
+    },
+    {
+      "X": -11330,
+      "Y": -4687,
+      "Z": -221,
+      "Speed": 163
+    },
+    {
+      "X": -11347,
+      "Y": -4632,
+      "Z": -221,
+      "Speed": 155
+    },
+    {
+      "X": -11356,
+      "Y": -4599,
+      "Z": -220,
+      "Speed": 147
+    },
+    {
+      "X": -11375,
+      "Y": -4541,
+      "Z": -220,
+      "Speed": 141
+    },
+    {
+      "X": -11379,
+      "Y": -4526,
+      "Z": -219,
+      "Speed": 136
+    },
+    {
+      "X": -11402,
+      "Y": -4455,
+      "Z": -218,
+      "Speed": 136
+    },
+    {
+      "X": -11412,
+      "Y": -4426,
+      "Z": -218,
+      "Speed": 130
+    },
+    {
+      "X": -11424,
+      "Y": -4406,
+      "Z": -217,
+      "Speed": 125
+    },
+    {
+      "X": -11479,
+      "Y": -4348,
+      "Z": -214,
+      "Speed": 123
+    },
+    {
+      "X": -11497,
+      "Y": -4333,
+      "Z": -214,
+      "Speed": 121
+    },
+    {
+      "X": -11523,
+      "Y": -4316,
+      "Z": -212,
+      "Speed": 119
+    },
+    {
+      "X": -11551,
+      "Y": -4309,
+      "Z": -211,
+      "Speed": 119
+    },
+    {
+      "X": -11561,
+      "Y": -4305,
+      "Z": -210,
+      "Speed": 120
+    },
+    {
+      "X": -11627,
+      "Y": -4275,
+      "Z": -204,
+      "Speed": 124
+    },
+    {
+      "X": -11642,
+      "Y": -4270,
+      "Z": -203,
+      "Speed": 130
+    },
+    {
+      "X": -11714,
+      "Y": -4244,
+      "Z": -198,
+      "Speed": 136
+    },
+    {
+      "X": -11741,
+      "Y": -4234,
+      "Z": -195,
+      "Speed": 142
+    },
+    {
+      "X": -11769,
+      "Y": -4226,
+      "Z": -193,
+      "Speed": 147
+    },
+    {
+      "X": -11853,
+      "Y": -4204,
+      "Z": -182,
+      "Speed": 152
+    },
+    {
+      "X": -11865,
+      "Y": -4202,
+      "Z": -181,
+      "Speed": 149
+    },
+    {
+      "X": -12029,
+      "Y": -4183,
+      "Z": -162,
+      "Speed": 146
+    },
+    {
+      "X": -12062,
+      "Y": -4180,
+      "Z": -157,
+      "Speed": 143
+    },
+    {
+      "X": -12111,
+      "Y": -4177,
+      "Z": -150,
+      "Speed": 134
+    },
+    {
+      "X": -12149,
+      "Y": -4174,
+      "Z": -147,
+      "Speed": 123
+    },
+    {
+      "X": -12226,
+      "Y": -4164,
+      "Z": -142,
+      "Speed": 113
+    },
+    {
+      "X": -12250,
+      "Y": -4161,
+      "Z": -141,
+      "Speed": 110
+    },
+    {
+      "X": -12285,
+      "Y": -4152,
+      "Z": -139,
+      "Speed": 107
+    },
+    {
+      "X": -12289,
+      "Y": -4151,
+      "Z": -140,
+      "Speed": 105
+    },
+    {
+      "X": -12334,
+      "Y": -4137,
+      "Z": -140,
+      "Speed": 103
+    },
+    {
+      "X": -12353,
+      "Y": -4130,
+      "Z": -141,
+      "Speed": 100
+    },
+    {
+      "X": -12440,
+      "Y": -4078,
+      "Z": -141,
+      "Speed": 97
+    },
+    {
+      "X": -12450,
+      "Y": -4072,
+      "Z": -142,
+      "Speed": 96
+    },
+    {
+      "X": -12475,
+      "Y": -4046,
+      "Z": -142,
+      "Speed": 96
+    },
+    {
+      "X": -12481,
+      "Y": -4039,
+      "Z": -143,
+      "Speed": 99
+    },
+    {
+      "X": -12512,
+      "Y": -3981,
+      "Z": -144,
+      "Speed": 102
+    },
+    {
+      "X": -12522,
+      "Y": -3954,
+      "Z": -146,
+      "Speed": 103
+    },
+    {
+      "X": -12530,
+      "Y": -3898,
+      "Z": -150,
+      "Speed": 104
+    },
+    {
+      "X": -12530,
+      "Y": -3897,
+      "Z": -150,
+      "Speed": 106
+    },
+    {
+      "X": -12533,
+      "Y": -3846,
+      "Z": -153,
+      "Speed": 110
+    },
+    {
+      "X": -12533,
+      "Y": -3845,
+      "Z": -153,
+      "Speed": 115
+    },
+    {
+      "X": -12534,
+      "Y": -3780,
+      "Z": -157,
+      "Speed": 117
+    },
+    {
+      "X": -12535,
+      "Y": -3753,
+      "Z": -158,
+      "Speed": 119
+    },
+    {
+      "X": -12545,
+      "Y": -3702,
+      "Z": -159,
+      "Speed": 117
+    },
+    {
+      "X": -12547,
+      "Y": -3697,
+      "Z": -160,
+      "Speed": 115
+    },
+    {
+      "X": -12573,
+      "Y": -3648,
+      "Z": -161,
+      "Speed": 114
+    },
+    {
+      "X": -12577,
+      "Y": -3644,
+      "Z": -161,
+      "Speed": 113
+    },
+    {
+      "X": -12609,
+      "Y": -3617,
+      "Z": -160,
+      "Speed": 113
+    },
+    {
+      "X": -12615,
+      "Y": -3615,
+      "Z": -160,
+      "Speed": 110
+    },
+    {
+      "X": -12691,
+      "Y": -3591,
+      "Z": -158,
+      "Speed": 107
+    },
+    {
+      "X": -12697,
+      "Y": -3591,
+      "Z": -158,
+      "Speed": 107
+    },
+    {
+      "X": -12737,
+      "Y": -3586,
+      "Z": -157,
+      "Speed": 108
+    },
+    {
+      "X": -12744,
+      "Y": -3586,
+      "Z": -157,
+      "Speed": 109
+    },
+    {
+      "X": -12818,
+      "Y": -3586,
+      "Z": -152,
+      "Speed": 110
+    },
+    {
+      "X": -12873,
+      "Y": -3589,
+      "Z": -148,
+      "Speed": 113
+    },
+    {
+      "X": -12901,
+      "Y": -3590,
+      "Z": -145,
+      "Speed": 116
+    },
+    {
+      "X": -12980,
+      "Y": -3600,
+      "Z": -140,
+      "Speed": 132
+    },
+    {
+      "X": -13098,
+      "Y": -3620,
+      "Z": -131,
+      "Speed": 142
+    },
+    {
+      "X": -13116,
+      "Y": -3624,
+      "Z": -130,
+      "Speed": 146
+    },
+    {
+      "X": -13148,
+      "Y": -3630,
+      "Z": -127,
+      "Speed": 151
+    },
+    {
+      "X": -13178,
+      "Y": -3639,
+      "Z": -125,
+      "Speed": 153
+    },
+    {
+      "X": -13269,
+      "Y": -3668,
+      "Z": -118,
+      "Speed": 156
+    },
+    {
+      "X": -13383,
+      "Y": -3706,
+      "Z": -110,
+      "Speed": 170
+    },
+    {
+      "X": -13411,
+      "Y": -3718,
+      "Z": -108,
+      "Speed": 173
+    },
+    {
+      "X": -13432,
+      "Y": -3728,
+      "Z": -106,
+      "Speed": 176
+    },
+    {
+      "X": -13463,
+      "Y": -3742,
+      "Z": -103,
+      "Speed": 179
+    },
+    {
+      "X": -13548,
+      "Y": -3782,
+      "Z": -97,
+      "Speed": 183
+    },
+    {
+      "X": -13558,
+      "Y": -3786,
+      "Z": -96,
+      "Speed": 187
+    },
+    {
+      "X": -13659,
+      "Y": -3833,
+      "Z": -89,
+      "Speed": 190
+    },
+    {
+      "X": -13677,
+      "Y": -3841,
+      "Z": -87,
+      "Speed": 194
+    },
+    {
+      "X": -13744,
+      "Y": -3871,
+      "Z": -84,
+      "Speed": 199
+    },
+    {
+      "X": -13835,
+      "Y": -3909,
+      "Z": -77,
+      "Speed": 205
+    },
+    {
+      "X": -13977,
+      "Y": -3967,
+      "Z": -67,
+      "Speed": 211
+    },
+    {
+      "X": -13990,
+      "Y": -3973,
+      "Z": -67,
+      "Speed": 217
+    },
+    {
+      "X": -14147,
+      "Y": -4043,
+      "Z": -57,
+      "Speed": 224
+    },
+    {
+      "X": -14168,
+      "Y": -4053,
+      "Z": -56,
+      "Speed": 226
+    },
+    {
+      "X": -14288,
+      "Y": -4112,
+      "Z": -48,
+      "Speed": 229
+    },
+    {
+      "X": -14310,
+      "Y": -4123,
+      "Z": -46,
+      "Speed": 232
+    },
+    {
+      "X": -14391,
+      "Y": -4166,
+      "Z": -43,
+      "Speed": 234
+    },
+    {
+      "X": -14508,
+      "Y": -4227,
+      "Z": -37,
+      "Speed": 237
+    },
+    {
+      "X": -14520,
+      "Y": -4233,
+      "Z": -36,
+      "Speed": 240
+    },
+    {
+      "X": -14615,
+      "Y": -4281,
+      "Z": -32,
+      "Speed": 243
+    },
+    {
+      "X": -14628,
+      "Y": -4288,
+      "Z": -32,
+      "Speed": 245
+    },
+    {
+      "X": -14726,
+      "Y": -4336,
+      "Z": -29,
+      "Speed": 247
+    },
+    {
+      "X": -14785,
+      "Y": -4365,
+      "Z": -27,
+      "Speed": 249
+    },
+    {
+      "X": -14920,
+      "Y": -4432,
+      "Z": -23,
+      "Speed": 250
+    },
+    {
+      "X": -14933,
+      "Y": -4438,
+      "Z": -22,
+      "Speed": 252
+    },
+    {
+      "X": -15027,
+      "Y": -4487,
+      "Z": -20,
+      "Speed": 254
+    },
+    {
+      "X": -15040,
+      "Y": -4494,
+      "Z": -19,
+      "Speed": 257
+    },
+    {
+      "X": -15128,
+      "Y": -4541,
+      "Z": -18,
+      "Speed": 259
+    },
+    {
+      "X": -15274,
+      "Y": -4623,
+      "Z": -14,
+      "Speed": 261
+    },
+    {
+      "X": -15290,
+      "Y": -4632,
+      "Z": -13,
+      "Speed": 264
+    },
+    {
+      "X": -15440,
+      "Y": -4719,
+      "Z": -8,
+      "Speed": 267
+    },
+    {
+      "X": -15536,
+      "Y": -4776,
+      "Z": -6,
+      "Speed": 268
+    },
+    {
+      "X": -15606,
+      "Y": -4817,
+      "Z": -3,
+      "Speed": 269
+    },
+    {
+      "X": -15663,
+      "Y": -4850,
+      "Z": -2,
+      "Speed": 271
+    },
+    {
+      "X": -15699,
+      "Y": -4870,
+      "Z": 0,
+      "Speed": 273
+    },
+    {
+      "X": -15782,
+      "Y": -4917,
+      "Z": 2,
+      "Speed": 274
+    },
+    {
+      "X": -15809,
+      "Y": -4931,
+      "Z": 2,
+      "Speed": 275
+    },
+    {
+      "X": -15945,
+      "Y": -5003,
+      "Z": 7,
+      "Speed": 276
+    },
+    {
+      "X": -16025,
+      "Y": -5048,
+      "Z": 11,
+      "Speed": 277
+    },
+    {
+      "X": -16063,
+      "Y": -5072,
+      "Z": 14,
+      "Speed": 277
+    },
+    {
+      "X": -16192,
+      "Y": -5177,
+      "Z": 19,
+      "Speed": 278
+    },
+    {
+      "X": -16201,
+      "Y": -5187,
+      "Z": 19,
+      "Speed": 279
+    },
+    {
+      "X": -16311,
+      "Y": -5345,
+      "Z": 20,
+      "Speed": 282
+    },
+    {
+      "X": -16342,
+      "Y": -5404,
+      "Z": 21,
+      "Speed": 282
+    },
+    {
+      "X": -16356,
+      "Y": -5434,
+      "Z": 21,
+      "Speed": 282
+    },
+    {
+      "X": -16405,
+      "Y": -5555,
+      "Z": 20,
+      "Speed": 283
+    },
+    {
+      "X": -16433,
+      "Y": -5630,
+      "Z": 20,
+      "Speed": 284
+    },
+    {
+      "X": -16457,
+      "Y": -5701,
+      "Z": 19,
+      "Speed": 285
+    },
+    {
+      "X": -16476,
+      "Y": -5759,
+      "Z": 19,
+      "Speed": 285
+    },
+    {
+      "X": -16517,
+      "Y": -5897,
+      "Z": 19,
+      "Speed": 286
+    },
+    {
+      "X": -16521,
+      "Y": -5912,
+      "Z": 18,
+      "Speed": 287
+    },
+    {
+      "X": -16585,
+      "Y": -6128,
+      "Z": 17,
+      "Speed": 289
+    },
+    {
+      "X": -16620,
+      "Y": -6243,
+      "Z": 17,
+      "Speed": 290
+    },
+    {
+      "X": -16675,
+      "Y": -6419,
+      "Z": 16,
+      "Speed": 291
+    },
+    {
+      "X": -16722,
+      "Y": -6560,
+      "Z": 15,
+      "Speed": 293
+    },
+    {
+      "X": -16758,
+      "Y": -6665,
+      "Z": 14,
+      "Speed": 295
+    },
+    {
+      "X": -16778,
+      "Y": -6731,
+      "Z": 14,
+      "Speed": 295
+    },
+    {
+      "X": -16827,
+      "Y": -6916,
+      "Z": 13,
+      "Speed": 296
+    },
+    {
+      "X": -16867,
+      "Y": -7080,
+      "Z": 12,
+      "Speed": 297
+    },
+    {
+      "X": -16885,
+      "Y": -7179,
+      "Z": 10,
+      "Speed": 298
+    },
+    {
+      "X": -16892,
+      "Y": -7243,
+      "Z": 10,
+      "Speed": 298
+    },
+    {
+      "X": -16896,
+      "Y": -7315,
+      "Z": 9,
+      "Speed": 298
+    },
+    {
+      "X": -16877,
+      "Y": -8106,
+      "Z": 2,
+      "Speed": 301
+    },
+    {
+      "X": -16872,
+      "Y": -8173,
+      "Z": 1,
+      "Speed": 304
+    },
+    {
+      "X": -16860,
+      "Y": -8342,
+      "Z": 0,
+      "Speed": 305
+    },
+    {
+      "X": -16856,
+      "Y": -8392,
+      "Z": 0,
+      "Speed": 303
+    },
+    {
+      "X": -16848,
+      "Y": -8474,
+      "Z": 0,
+      "Speed": 301
+    },
+    {
+      "X": -16844,
+      "Y": -8523,
+      "Z": -1,
+      "Speed": 281
+    },
+    {
+      "X": -16837,
+      "Y": -8599,
+      "Z": -2,
+      "Speed": 262
+    },
+    {
+      "X": -16835,
+      "Y": -8641,
+      "Z": -3,
+      "Speed": 249
+    },
+    {
+      "X": -16830,
+      "Y": -8759,
+      "Z": -5,
+      "Speed": 236
+    },
+    {
+      "X": -16831,
+      "Y": -8774,
+      "Z": -6,
+      "Speed": 224
+    },
+    {
+      "X": -16840,
+      "Y": -8972,
+      "Z": -12,
+      "Speed": 212
+    },
+    {
+      "X": -16841,
+      "Y": -8999,
+      "Z": -12,
+      "Speed": 200
+    },
+    {
+      "X": -16853,
+      "Y": -9113,
+      "Z": -17,
+      "Speed": 181
+    },
+    {
+      "X": -16853,
+      "Y": -9120,
+      "Z": -17,
+      "Speed": 162
+    },
+    {
+      "X": -16863,
+      "Y": -9215,
+      "Z": -21,
+      "Speed": 149
+    },
+    {
+      "X": -16865,
+      "Y": -9248,
+      "Z": -22,
+      "Speed": 136
+    },
+    {
+      "X": -16867,
+      "Y": -9271,
+      "Z": -23,
+      "Speed": 128
+    },
+    {
+      "X": -16872,
+      "Y": -9401,
+      "Z": -26,
+      "Speed": 121
+    },
+    {
+      "X": -16872,
+      "Y": -9414,
+      "Z": -26,
+      "Speed": 114
+    },
+    {
+      "X": -16869,
+      "Y": -9448,
+      "Z": -27,
+      "Speed": 106
+    },
+    {
+      "X": -16869,
+      "Y": -9456,
+      "Z": -28,
+      "Speed": 104
+    },
+    {
+      "X": -16860,
+      "Y": -9516,
+      "Z": -29,
+      "Speed": 102
+    },
+    {
+      "X": -16856,
+      "Y": -9531,
+      "Z": -29,
+      "Speed": 101
+    },
+    {
+      "X": -16836,
+      "Y": -9574,
+      "Z": -32,
+      "Speed": 96
+    },
+    {
+      "X": -16825,
+      "Y": -9591,
+      "Z": -34,
+      "Speed": 96
+    },
+    {
+      "X": -16794,
+      "Y": -9622,
+      "Z": -37,
+      "Speed": 96
+    },
+    {
+      "X": -16737,
+      "Y": -9656,
+      "Z": -42,
+      "Speed": 97
+    },
+    {
+      "X": -16717,
+      "Y": -9665,
+      "Z": -43,
+      "Speed": 99
+    },
+    {
+      "X": -16697,
+      "Y": -9675,
+      "Z": -46,
+      "Speed": 103
+    },
+    {
+      "X": -16649,
+      "Y": -9697,
+      "Z": -51,
+      "Speed": 107
+    },
+    {
+      "X": -16599,
+      "Y": -9721,
+      "Z": -56,
+      "Speed": 111
+    },
+    {
+      "X": -16583,
+      "Y": -9730,
+      "Z": -58,
+      "Speed": 116
+    },
+    {
+      "X": -16529,
+      "Y": -9757,
+      "Z": -64,
+      "Speed": 122
+    },
+    {
+      "X": -16482,
+      "Y": -9782,
+      "Z": -69,
+      "Speed": 128
+    },
+    {
+      "X": -16431,
+      "Y": -9809,
+      "Z": -73,
+      "Speed": 137
+    },
+    {
+      "X": -16403,
+      "Y": -9823,
+      "Z": -75,
+      "Speed": 146
+    },
+    {
+      "X": -16338,
+      "Y": -9858,
+      "Z": -82,
+      "Speed": 146
+    },
+    {
+      "X": -16330,
+      "Y": -9861,
+      "Z": -82,
+      "Speed": 146
+    },
+    {
+      "X": -16299,
+      "Y": -9878,
+      "Z": -87,
+      "Speed": 156
+    },
+    {
+      "X": -16198,
+      "Y": -9930,
+      "Z": -99,
+      "Speed": 166
+    },
+    {
+      "X": -16181,
+      "Y": -9938,
+      "Z": -100,
+      "Speed": 176
+    },
+    {
+      "X": -16082,
+      "Y": -9989,
+      "Z": -110,
+      "Speed": 182
+    },
+    {
+      "X": -16025,
+      "Y": -10016,
+      "Z": -115,
+      "Speed": 189
+    },
+    {
+      "X": -15928,
+      "Y": -10064,
+      "Z": -126,
+      "Speed": 195
+    },
+    {
+      "X": -15882,
+      "Y": -10086,
+      "Z": -130,
+      "Speed": 201
+    },
+    {
+      "X": -15740,
+      "Y": -10157,
+      "Z": -144,
+      "Speed": 208
+    },
+    {
+      "X": -15713,
+      "Y": -10171,
+      "Z": -147,
+      "Speed": 212
+    },
+    {
+      "X": -15600,
+      "Y": -10229,
+      "Z": -160,
+      "Speed": 216
+    },
+    {
+      "X": -15559,
+      "Y": -10250,
+      "Z": -164,
+      "Speed": 221
+    },
+    {
+      "X": -15458,
+      "Y": -10307,
+      "Z": -174,
+      "Speed": 224
+    },
+    {
+      "X": -15447,
+      "Y": -10312,
+      "Z": -174,
+      "Speed": 228
+    },
+    {
+      "X": -15335,
+      "Y": -10375,
+      "Z": -183,
+      "Speed": 233
+    },
+    {
+      "X": -15324,
+      "Y": -10382,
+      "Z": -184,
+      "Speed": 235
+    },
+    {
+      "X": -15256,
+      "Y": -10423,
+      "Z": -190,
+      "Speed": 238
+    },
+    {
+      "X": -15198,
+      "Y": -10457,
+      "Z": -194,
+      "Speed": 241
+    },
+    {
+      "X": -15106,
+      "Y": -10511,
+      "Z": -199,
+      "Speed": 243
+    },
+    {
+      "X": -15059,
+      "Y": -10539,
+      "Z": -201,
+      "Speed": 246
+    },
+    {
+      "X": -14962,
+      "Y": -10594,
+      "Z": -204,
+      "Speed": 249
+    },
+    {
+      "X": -14939,
+      "Y": -10608,
+      "Z": -205,
+      "Speed": 250
+    },
+    {
+      "X": -14864,
+      "Y": -10647,
+      "Z": -206,
+      "Speed": 252
+    },
+    {
+      "X": -14815,
+      "Y": -10673,
+      "Z": -208,
+      "Speed": 254
+    },
+    {
+      "X": -14678,
+      "Y": -10741,
+      "Z": -212,
+      "Speed": 257
+    },
+    {
+      "X": -14665,
+      "Y": -10749,
+      "Z": -213,
+      "Speed": 258
+    },
+    {
+      "X": -14496,
+      "Y": -10840,
+      "Z": -217,
+      "Speed": 260
+    },
+    {
+      "X": -14482,
+      "Y": -10848,
+      "Z": -218,
+      "Speed": 243
+    },
+    {
+      "X": -14328,
+      "Y": -10939,
+      "Z": -221,
+      "Speed": 227
+    },
+    {
+      "X": -14265,
+      "Y": -10975,
+      "Z": -223,
+      "Speed": 211
+    },
+    {
+      "X": -14217,
+      "Y": -11001,
+      "Z": -225,
+      "Speed": 200
+    },
+    {
+      "X": -14216,
+      "Y": -11001,
+      "Z": -225,
+      "Speed": 190
+    },
+    {
+      "X": -14158,
+      "Y": -11032,
+      "Z": -227,
+      "Speed": 185
+    },
+    {
+      "X": -14148,
+      "Y": -11036,
+      "Z": -227,
+      "Speed": 181
+    },
+    {
+      "X": -14045,
+      "Y": -11081,
+      "Z": -229,
+      "Speed": 161
+    },
+    {
+      "X": -14038,
+      "Y": -11085,
+      "Z": -230,
+      "Speed": 158
+    },
+    {
+      "X": -13989,
+      "Y": -11104,
+      "Z": -230,
+      "Speed": 155
+    },
+    {
+      "X": -13918,
+      "Y": -11123,
+      "Z": -232,
+      "Speed": 149
+    },
+    {
+      "X": -13807,
+      "Y": -11136,
+      "Z": -234,
+      "Speed": 143
+    },
+    {
+      "X": -13787,
+      "Y": -11138,
+      "Z": -235,
+      "Speed": 140
+    },
+    {
+      "X": -13741,
+      "Y": -11134,
+      "Z": -236,
+      "Speed": 137
+    },
+    {
+      "X": -13731,
+      "Y": -11131,
+      "Z": -235,
+      "Speed": 135
+    },
+    {
+      "X": -13672,
+      "Y": -11115,
+      "Z": -236,
+      "Speed": 132
+    },
+    {
+      "X": -13599,
+      "Y": -11065,
+      "Z": -236,
+      "Speed": 129
+    },
+    {
+      "X": -13555,
+      "Y": -11027,
+      "Z": -237,
+      "Speed": 132
+    },
+    {
+      "X": -13524,
+      "Y": -10993,
+      "Z": -237,
+      "Speed": 135
+    },
+    {
+      "X": -13507,
+      "Y": -10964,
+      "Z": -238,
+      "Speed": 139
+    },
+    {
+      "X": -13485,
+      "Y": -10929,
+      "Z": -238,
+      "Speed": 143
+    },
+    {
+      "X": -13458,
+      "Y": -10883,
+      "Z": -238,
+      "Speed": 147
+    },
+    {
+      "X": -13436,
+      "Y": -10844,
+      "Z": -238,
+      "Speed": 151
+    },
+    {
+      "X": -13400,
+      "Y": -10771,
+      "Z": -239,
+      "Speed": 159
+    },
+    {
+      "X": -13330,
+      "Y": -10628,
+      "Z": -240,
+      "Speed": 167
+    },
+    {
+      "X": -13314,
+      "Y": -10597,
+      "Z": -240,
+      "Speed": 175
+    },
+    {
+      "X": -13291,
+      "Y": -10550,
+      "Z": -240,
+      "Speed": 184
+    },
+    {
+      "X": -13276,
+      "Y": -10520,
+      "Z": -241,
+      "Speed": 188
+    },
+    {
+      "X": -13261,
+      "Y": -10491,
+      "Z": -241,
+      "Speed": 192
+    },
+    {
+      "X": -13214,
+      "Y": -10395,
+      "Z": -242,
+      "Speed": 197
+    },
+    {
+      "X": -13126,
+      "Y": -10213,
+      "Z": -242,
+      "Speed": 203
+    },
+    {
+      "X": -13126,
+      "Y": -10213,
+      "Z": -242,
+      "Speed": 203
+    },
+    {
+      "X": -13042,
+      "Y": -10041,
+      "Z": -241,
+      "Speed": 203
+    },
+    {
+      "X": -13015,
+      "Y": -9985,
+      "Z": -242,
+      "Speed": 211
+    },
+    {
+      "X": -12995,
+      "Y": -9947,
+      "Z": -242,
+      "Speed": 220
+    },
+    {
+      "X": -12970,
+      "Y": -9899,
+      "Z": -242,
+      "Speed": 224
+    },
+    {
+      "X": -12949,
+      "Y": -9861,
+      "Z": -241,
+      "Speed": 229
+    },
+    {
+      "X": -12895,
+      "Y": -9766,
+      "Z": -241,
+      "Speed": 232
+    },
+    {
+      "X": -12881,
+      "Y": -9742,
+      "Z": -241,
+      "Speed": 237
+    },
+    {
+      "X": -12811,
+      "Y": -9628,
+      "Z": -241,
+      "Speed": 242
+    },
+    {
+      "X": -12797,
+      "Y": -9606,
+      "Z": -241,
+      "Speed": 243
+    },
+    {
+      "X": -12751,
+      "Y": -9536,
+      "Z": -240,
+      "Speed": 244
+    },
+    {
+      "X": -12682,
+      "Y": -9436,
+      "Z": -240,
+      "Speed": 246
+    },
+    {
+      "X": -12649,
+      "Y": -9392,
+      "Z": -240,
+      "Speed": 248
+    },
+    {
+      "X": -12613,
+      "Y": -9347,
+      "Z": -240,
+      "Speed": 251
+    },
+    {
+      "X": -12492,
+      "Y": -9203,
+      "Z": -240,
+      "Speed": 253
+    },
+    {
+      "X": -12469,
+      "Y": -9176,
+      "Z": -240,
+      "Speed": 255
+    },
+    {
+      "X": -12399,
+      "Y": -9101,
+      "Z": -239,
+      "Speed": 258
+    },
+    {
+      "X": -12346,
+      "Y": -9053,
+      "Z": -239,
+      "Speed": 260
+    },
+    {
+      "X": -12336,
+      "Y": -9044,
+      "Z": -238,
+      "Speed": 262
+    },
+    {
+      "X": -12248,
+      "Y": -8964,
+      "Z": -239,
+      "Speed": 263
+    },
+    {
+      "X": -12202,
+      "Y": -8923,
+      "Z": -239,
+      "Speed": 265
+    },
+    {
+      "X": -12126,
+      "Y": -8856,
+      "Z": -239,
+      "Speed": 266
+    },
+    {
+      "X": -12114,
+      "Y": -8845,
+      "Z": -239,
+      "Speed": 268
+    },
+    {
+      "X": -11966,
+      "Y": -8719,
+      "Z": -239,
+      "Speed": 271
+    },
+    {
+      "X": -11930,
+      "Y": -8688,
+      "Z": -238,
+      "Speed": 275
+    },
+    {
+      "X": -11817,
+      "Y": -8588,
+      "Z": -239,
+      "Speed": 276
+    },
+    {
+      "X": -11705,
+      "Y": -8482,
+      "Z": -240,
+      "Speed": 278
+    },
+    {
+      "X": -11704,
+      "Y": -8481,
+      "Z": -240,
+      "Speed": 280
+    },
+    {
+      "X": -11552,
+      "Y": -8320,
+      "Z": -240,
+      "Speed": 281
+    },
+    {
+      "X": -11533,
+      "Y": -8300,
+      "Z": -240,
+      "Speed": 281
+    },
+    {
+      "X": -11376,
+      "Y": -8136,
+      "Z": -239,
+      "Speed": 282
+    },
+    {
+      "X": -10932,
+      "Y": -7628,
+      "Z": -237,
+      "Speed": 286
+    },
+    {
+      "X": -10919,
+      "Y": -7602,
+      "Z": -236,
+      "Speed": 291
+    },
+    {
+      "X": -10861,
+      "Y": -7461,
+      "Z": -237,
+      "Speed": 291
+    },
+    {
+      "X": -10822,
+      "Y": -7342,
+      "Z": -237,
+      "Speed": 292
+    },
+    {
+      "X": -10760,
+      "Y": -7124,
+      "Z": -237,
+      "Speed": 292
+    },
+    {
+      "X": -10748,
+      "Y": -7079,
+      "Z": -236,
+      "Speed": 292
+    },
+    {
+      "X": -10737,
+      "Y": -7026,
+      "Z": -236,
+      "Speed": 294
+    },
+    {
+      "X": -10723,
+      "Y": -6955,
+      "Z": -237,
+      "Speed": 295
+    },
+    {
+      "X": -10690,
+      "Y": -6813,
+      "Z": -237,
+      "Speed": 297
+    },
+    {
+      "X": -10634,
+      "Y": -6586,
+      "Z": -238,
+      "Speed": 298
+    },
+    {
+      "X": -10631,
+      "Y": -6572,
+      "Z": -238,
+      "Speed": 298
+    },
+    {
+      "X": -10598,
+      "Y": -6482,
+      "Z": -237,
+      "Speed": 299
+    },
+    {
+      "X": -10594,
+      "Y": -6474,
+      "Z": -237,
+      "Speed": 299
+    },
+    {
+      "X": -10487,
+      "Y": -6294,
+      "Z": -237,
+      "Speed": 299
+    },
+    {
+      "X": -10434,
+      "Y": -6223,
+      "Z": -237,
+      "Speed": 299
+    },
+    {
+      "X": -10400,
+      "Y": -6185,
+      "Z": -236,
+      "Speed": 300
+    },
+    {
+      "X": -10306,
+      "Y": -6097,
+      "Z": -236,
+      "Speed": 299
+    },
+    {
+      "X": -10211,
+      "Y": -6021,
+      "Z": -235,
+      "Speed": 299
+    },
+    {
+      "X": -10118,
+      "Y": -5949,
+      "Z": -236,
+      "Speed": 300
+    },
+    {
+      "X": -10036,
+      "Y": -5889,
+      "Z": -236,
+      "Speed": 301
+    },
+    {
+      "X": -9960,
+      "Y": -5838,
+      "Z": -236,
+      "Speed": 301
+    },
+    {
+      "X": -9940,
+      "Y": -5824,
+      "Z": -235,
+      "Speed": 302
+    },
+    {
+      "X": -9815,
+      "Y": -5734,
+      "Z": -235,
+      "Speed": 302
+    },
+    {
+      "X": -9743,
+      "Y": -5679,
+      "Z": -235,
+      "Speed": 303
+    },
+    {
+      "X": -9564,
+      "Y": -5539,
+      "Z": -234,
+      "Speed": 304
+    },
+    {
+      "X": -9530,
+      "Y": -5513,
+      "Z": -235,
+      "Speed": 305
+    },
+    {
+      "X": -9410,
+      "Y": -5420,
+      "Z": -236,
+      "Speed": 306
+    },
+    {
+      "X": -9366,
+      "Y": -5386,
+      "Z": -236,
+      "Speed": 307
+    },
+    {
+      "X": -9165,
+      "Y": -5234,
+      "Z": -237,
+      "Speed": 307
+    },
+    {
+      "X": -9061,
+      "Y": -5154,
+      "Z": -237,
+      "Speed": 307
+    },
+    {
+      "X": -9023,
+      "Y": -5125,
+      "Z": -237,
+      "Speed": 308
+    },
+    {
+      "X": -8974,
+      "Y": -5087,
+      "Z": -236,
+      "Speed": 310
+    },
+    {
+      "X": -8852,
+      "Y": -4995,
+      "Z": -237,
+      "Speed": 310
+    },
+    {
+      "X": -8777,
+      "Y": -4938,
+      "Z": -236,
+      "Speed": 310
+    },
+    {
+      "X": -8563,
+      "Y": -4776,
+      "Z": -237,
+      "Speed": 311
+    },
+    {
+      "X": -8495,
+      "Y": -4725,
+      "Z": -237,
+      "Speed": 312
+    },
+    {
+      "X": -8459,
+      "Y": -4697,
+      "Z": -238,
+      "Speed": 312
+    },
+    {
+      "X": -8385,
+      "Y": -4639,
+      "Z": -238,
+      "Speed": 313
+    },
+    {
+      "X": -8226,
+      "Y": -4516,
+      "Z": -239,
+      "Speed": 313
+    },
+    {
+      "X": -8224,
+      "Y": -4515,
+      "Z": -239,
+      "Speed": 313
+    },
+    {
+      "X": -8048,
+      "Y": -4382,
+      "Z": -239,
+      "Speed": 314
+    },
+    {
+      "X": -8032,
+      "Y": -4370,
+      "Z": -239,
+      "Speed": 314
+    },
+    {
+      "X": -7888,
+      "Y": -4275,
+      "Z": -239,
+      "Speed": 315
+    },
+    {
+      "X": -7685,
+      "Y": -4164,
+      "Z": -240,
+      "Speed": 315
+    },
+    {
+      "X": -7565,
+      "Y": -4106,
+      "Z": -241,
+      "Speed": 315
+    },
+    {
+      "X": -7525,
+      "Y": -4088,
+      "Z": -241,
+      "Speed": 315
+    },
+    {
+      "X": -7396,
+      "Y": -4033,
+      "Z": -241,
+      "Speed": 316
+    },
+    {
+      "X": -7337,
+      "Y": -4010,
+      "Z": -241,
+      "Speed": 315
+    },
+    {
+      "X": -7173,
+      "Y": -3945,
+      "Z": -240,
+      "Speed": 315
+    },
+    {
+      "X": -7009,
+      "Y": -3881,
+      "Z": -240,
+      "Speed": 317
+    },
+    {
+      "X": -6976,
+      "Y": -3868,
+      "Z": -241,
+      "Speed": 317
+    },
+    {
+      "X": -6845,
+      "Y": -3815,
+      "Z": -241,
+      "Speed": 317
+    },
+    {
+      "X": -6661,
+      "Y": -3740,
+      "Z": -240,
+      "Speed": 317
+    },
+    {
+      "X": -6617,
+      "Y": -3723,
+      "Z": -241,
+      "Speed": 317
+    },
+    {
+      "X": -6448,
+      "Y": -3654,
+      "Z": -242,
+      "Speed": 318
+    },
+    {
+      "X": -6314,
+      "Y": -3600,
+      "Z": -243,
+      "Speed": 318
+    },
+    {
+      "X": -6157,
+      "Y": -3536,
+      "Z": -242,
+      "Speed": 319
+    },
+    {
+      "X": -6101,
+      "Y": -3513,
+      "Z": -242,
+      "Speed": 319
+    },
+    {
+      "X": -5995,
+      "Y": -3470,
+      "Z": -241,
+      "Speed": 319
+    },
+    {
+      "X": -5926,
+      "Y": -3442,
+      "Z": -241,
+      "Speed": 319
+    },
+    {
+      "X": -5850,
+      "Y": -3410,
+      "Z": -240,
+      "Speed": 319
+    },
+    {
+      "X": -5787,
+      "Y": -3384,
+      "Z": -240,
+      "Speed": 319
+    },
+    {
+      "X": -5607,
+      "Y": -3309,
+      "Z": -239,
+      "Speed": 319
+    },
+    {
+      "X": -5559,
+      "Y": -3289,
+      "Z": -238,
+      "Speed": 319
+    },
+    {
+      "X": -5313,
+      "Y": -3187,
+      "Z": -238,
+      "Speed": 319
+    },
+    {
+      "X": -5231,
+      "Y": -3153,
+      "Z": -237,
+      "Speed": 319
+    },
+    {
+      "X": -5214,
+      "Y": -3146,
+      "Z": -237,
+      "Speed": 319
+    },
+    {
+      "X": -5029,
+      "Y": -3069,
+      "Z": -236,
+      "Speed": 320
+    },
+    {
+      "X": -4977,
+      "Y": -3048,
+      "Z": -237,
+      "Speed": 319
+    },
+    {
+      "X": -4846,
+      "Y": -2993,
+      "Z": -237,
+      "Speed": 319
+    },
+    {
+      "X": -4797,
+      "Y": -2972,
+      "Z": -237,
+      "Speed": 319
+    },
+    {
+      "X": -4682,
+      "Y": -2924,
+      "Z": -238,
+      "Speed": 319
+    },
+    {
+      "X": -4631,
+      "Y": -2902,
+      "Z": -238,
+      "Speed": 319
+    },
+    {
+      "X": -4470,
+      "Y": -2833,
+      "Z": -238,
+      "Speed": 320
+    },
+    {
+      "X": -4412,
+      "Y": -2808,
+      "Z": -238,
+      "Speed": 321
+    },
+    {
+      "X": -4241,
+      "Y": -2736,
+      "Z": -238,
+      "Speed": 321
+    },
+    {
+      "X": -4239,
+      "Y": -2735,
+      "Z": -237,
+      "Speed": 321
+    },
+    {
+      "X": -3962,
+      "Y": -2619,
+      "Z": -237,
+      "Speed": 320
+    },
+    {
+      "X": -3961,
+      "Y": -2618,
+      "Z": -236,
+      "Speed": 320
+    },
+    {
+      "X": -3878,
+      "Y": -2583,
+      "Z": -236,
+      "Speed": 321
+    },
+    {
+      "X": -3847,
+      "Y": -2570,
+      "Z": -236,
+      "Speed": 321
+    },
+    {
+      "X": -3718,
+      "Y": -2515,
+      "Z": -235,
+      "Speed": 321
+    },
+    {
+      "X": -3518,
+      "Y": -2431,
+      "Z": -234,
+      "Speed": 321
+    },
+    {
+      "X": -3376,
+      "Y": -2371,
+      "Z": -232,
+      "Speed": 322
+    },
+    {
+      "X": -3272,
+      "Y": -2327,
+      "Z": -232,
+      "Speed": 322
+    },
+    {
+      "X": -2999,
+      "Y": -2211,
+      "Z": -233,
+      "Speed": 323
+    },
+    {
+      "X": -2981,
+      "Y": -2203,
+      "Z": -233,
+      "Speed": 324
+    },
+    {
+      "X": -2866,
+      "Y": -2155,
+      "Z": -233,
+      "Speed": 324
+    },
+    {
+      "X": -2716,
+      "Y": -2092,
+      "Z": -234,
+      "Speed": 325
+    },
+    {
+      "X": -2698,
+      "Y": -2084,
+      "Z": -233,
+      "Speed": 327
+    },
+    {
+      "X": -2574,
+      "Y": -2031,
+      "Z": -234,
+      "Speed": 327
+    },
+    {
+      "X": -2440,
+      "Y": -1974,
+      "Z": -235,
+      "Speed": 327
+    },
+    {
+      "X": -2424,
+      "Y": -1967,
+      "Z": -235,
+      "Speed": 328
+    },
+    {
+      "X": -2298,
+      "Y": -1914,
+      "Z": -235,
+      "Speed": 328
+    },
+    {
+      "X": -2264,
+      "Y": -1899,
+      "Z": -235,
+      "Speed": 329
+    },
+    {
+      "X": -1974,
+      "Y": -1781,
+      "Z": -237,
+      "Speed": 330
+    },
+    {
+      "X": -1804,
+      "Y": -1713,
+      "Z": -238,
+      "Speed": 331
+    },
+    {
+      "X": -1614,
+      "Y": -1641,
+      "Z": -238,
+      "Speed": 332
+    },
+    {
+      "X": -1597,
+      "Y": -1635,
+      "Z": -239,
+      "Speed": 332
+    },
+    {
+      "X": -1387,
+      "Y": -1558,
+      "Z": -239,
+      "Speed": 333
+    },
+    {
+      "X": -1371,
+      "Y": -1552,
+      "Z": -240,
+      "Speed": 333
+    },
+    {
+      "X": -1207,
+      "Y": -1491,
+      "Z": -240,
+      "Speed": 333
+    },
+    {
+      "X": -1154,
+      "Y": -1471,
+      "Z": -241,
+      "Speed": 333
+    },
+    {
+      "X": -1036,
+      "Y": -1426,
+      "Z": -241,
+      "Speed": 334
+    },
+    {
+      "X": -885,
+      "Y": -1370,
+      "Z": -242,
+      "Speed": 334
+    },
+    {
+      "X": -830,
+      "Y": -1349,
+      "Z": -242,
+      "Speed": 334
+    },
+    {
+      "X": -720,
+      "Y": -1308,
+      "Z": -243,
+      "Speed": 334
+    },
+    {
+      "X": -589,
+      "Y": -1259,
+      "Z": -243,
+      "Speed": 335
+    },
+    {
+      "X": -554,
+      "Y": -1245,
+      "Z": -243,
+      "Speed": 336
+    },
+    {
+      "X": -432,
+      "Y": -1200,
+      "Z": -244,
+      "Speed": 336
+    },
+    {
+      "X": -291,
+      "Y": -1149,
+      "Z": -244,
+      "Speed": 336
+    },
+    {
+      "X": -156,
+      "Y": -1098,
+      "Z": -244,
+      "Speed": 337
+    },
+    {
+      "X": -64,
+      "Y": -1063,
+      "Z": -245,
+      "Speed": 337
+    },
+    {
+      "X": 127,
+      "Y": -987,
+      "Z": -246,
+      "Speed": 337
+    },
+    {
+      "X": 174,
+      "Y": -966,
+      "Z": -246,
+      "Speed": 338
+    },
+    {
+      "X": 446,
+      "Y": -851,
+      "Z": -247,
+      "Speed": 338
+    },
+    {
+      "X": 598,
+      "Y": -786,
+      "Z": -246,
+      "Speed": 339
+    },
+    {
+      "X": 691,
+      "Y": -747,
+      "Z": -246,
+      "Speed": 339
+    },
+    {
+      "X": 706,
+      "Y": -741,
+      "Z": -246,
+      "Speed": 339
+    },
+    {
+      "X": 826,
+      "Y": -690,
+      "Z": -245,
+      "Speed": 339
+    },
+    {
+      "X": 843,
+      "Y": -683,
+      "Z": -246,
+      "Speed": 339
+    },
+    {
+      "X": 999,
+      "Y": -618,
+      "Z": -246,
+      "Speed": 339
+    },
+    {
+      "X": 999,
+      "Y": -617,
+      "Z": -245,
+      "Speed": 340
+    },
+    {
+      "X": 1021,
+      "Y": -557,
+      "Z": -194,
+      "Speed": 340
+    }
+  ]
+}

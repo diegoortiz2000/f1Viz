@@ -1,0 +1,1210 @@
+{
+  "event": "Australian Grand Prix",
+  "year": 2023,
+  "fastestLap": {
+    "driver": "PER"
+  },
+  "lapTimes": {
+    "VER": "76.732",
+    "PER": "nan"
+  },
+  "lapsSpeed": [
+    {
+      "VerDistance": 5.999166666666667,
+      "VerSpeed": 313
+    },
+    {
+      "VerDistance": 23.499166666666667,
+      "VerSpeed": 315
+    },
+    {
+      "VerDistance": 51.676944444444445,
+      "VerSpeed": 317
+    },
+    {
+      "VerDistance": 83.57694444444445,
+      "VerSpeed": 319
+    },
+    {
+      "VerDistance": 97.75472222222223,
+      "VerSpeed": 319
+    },
+    {
+      "VerDistance": 115.58805555555556,
+      "VerSpeed": 321
+    },
+    {
+      "VerDistance": 129.85472222222222,
+      "VerSpeed": 321
+    },
+    {
+      "VerDistance": 154.97694444444446,
+      "VerSpeed": 323
+    },
+    {
+      "VerDistance": 180.17694444444444,
+      "VerSpeed": 324
+    },
+    {
+      "VerDistance": 212.67694444444442,
+      "VerSpeed": 325
+    },
+    {
+      "VerDistance": 234.41027777777776,
+      "VerSpeed": 326
+    },
+    {
+      "VerDistance": 248.89916666666667,
+      "VerSpeed": 326
+    },
+    {
+      "VerDistance": 265.89916666666664,
+      "VerSpeed": 306
+    },
+    {
+      "VerDistance": 278.1658333333333,
+      "VerSpeed": 276
+    },
+    {
+      "VerDistance": 301.79999999999995,
+      "VerSpeed": 237
+    },
+    {
+      "VerDistance": 313.9111111111111,
+      "VerSpeed": 218
+    },
+    {
+      "VerDistance": 331.68888888888887,
+      "VerSpeed": 200
+    },
+    {
+      "VerDistance": 342.4111111111111,
+      "VerSpeed": 193
+    },
+    {
+      "VerDistance": 352.9111111111111,
+      "VerSpeed": 189
+    },
+    {
+      "VerDistance": 363.4111111111111,
+      "VerSpeed": 189
+    },
+    {
+      "VerDistance": 378.34444444444443,
+      "VerSpeed": 192
+    },
+    {
+      "VerDistance": 394.0336111111111,
+      "VerSpeed": 201
+    },
+    {
+      "VerDistance": 416.81138888888887,
+      "VerSpeed": 205
+    },
+    {
+      "VerDistance": 428.75583333333327,
+      "VerSpeed": 215
+    },
+    {
+      "VerDistance": 441.1447222222222,
+      "VerSpeed": 223
+    },
+    {
+      "VerDistance": 456.2780555555555,
+      "VerSpeed": 227
+    },
+    {
+      "VerDistance": 466.54472222222216,
+      "VerSpeed": 231
+    },
+    {
+      "VerDistance": 482.3447222222221,
+      "VerSpeed": 237
+    },
+    {
+      "VerDistance": 492.9224999999999,
+      "VerSpeed": 238
+    },
+    {
+      "VerDistance": 503.6780555555555,
+      "VerSpeed": 242
+    },
+    {
+      "VerDistance": 519.8780555555555,
+      "VerSpeed": 243
+    },
+    {
+      "VerDistance": 536.4113888888888,
+      "VerSpeed": 248
+    },
+    {
+      "VerDistance": 550.4113888888888,
+      "VerSpeed": 252
+    },
+    {
+      "VerDistance": 576.1113888888889,
+      "VerSpeed": 257
+    },
+    {
+      "VerDistance": 590.6113888888889,
+      "VerSpeed": 261
+    },
+    {
+      "VerDistance": 620.5002777777778,
+      "VerSpeed": 269
+    },
+    {
+      "VerDistance": 638.7669444444444,
+      "VerSpeed": 274
+    },
+    {
+      "VerDistance": 651.0336111111111,
+      "VerSpeed": 276
+    },
+    {
+      "VerDistance": 663.433611111111,
+      "VerSpeed": 279
+    },
+    {
+      "VerDistance": 685.5224999999999,
+      "VerSpeed": 284
+    },
+    {
+      "VerDistance": 701.4113888888887,
+      "VerSpeed": 286
+    },
+    {
+      "VerDistance": 720.6780555555554,
+      "VerSpeed": 289
+    },
+    {
+      "VerDistance": 739.9308333333332,
+      "VerSpeed": 290
+    },
+    {
+      "VerDistance": 756.2086111111109,
+      "VerSpeed": 293
+    },
+    {
+      "VerDistance": 772.5974999999997,
+      "VerSpeed": 295
+    },
+    {
+      "VerDistance": 792.5308333333331,
+      "VerSpeed": 299
+    },
+    {
+      "VerDistance": 809.2530555555554,
+      "VerSpeed": 301
+    },
+    {
+      "VerDistance": 829.4530555555555,
+      "VerSpeed": 303
+    },
+    {
+      "VerDistance": 853.2530555555554,
+      "VerSpeed": 306
+    },
+    {
+      "VerDistance": 866.8974999999999,
+      "VerSpeed": 307
+    },
+    {
+      "VerDistance": 897.9836111111111,
+      "VerSpeed": 310
+    },
+    {
+      "VerDistance": 932.6502777777777,
+      "VerSpeed": 312
+    },
+    {
+      "VerDistance": 950.0391666666667,
+      "VerSpeed": 313
+    },
+    {
+      "VerDistance": 969.1058333333334,
+      "VerSpeed": 286
+    },
+    {
+      "VerDistance": 990.1836111111112,
+      "VerSpeed": 271
+    },
+    {
+      "VerDistance": 1004.5836111111112,
+      "VerSpeed": 216
+    },
+    {
+      "VerDistance": 1015.9169444444444,
+      "VerSpeed": 204
+    },
+    {
+      "VerDistance": 1027.6502777777778,
+      "VerSpeed": 176
+    },
+    {
+      "VerDistance": 1044.7613888888889,
+      "VerSpeed": 154
+    },
+    {
+      "VerDistance": 1053.6947222222223,
+      "VerSpeed": 134
+    },
+    {
+      "VerDistance": 1068.361388888889,
+      "VerSpeed": 120
+    },
+    {
+      "VerDistance": 1077.1502777777778,
+      "VerSpeed": 113
+    },
+    {
+      "VerDistance": 1087.8502777777778,
+      "VerSpeed": 107
+    },
+    {
+      "VerDistance": 1096.0947222222223,
+      "VerSpeed": 106
+    },
+    {
+      "VerDistance": 1105.7836111111112,
+      "VerSpeed": 109
+    },
+    {
+      "VerDistance": 1110.7169444444444,
+      "VerSpeed": 111
+    },
+    {
+      "VerDistance": 1120.1280555555554,
+      "VerSpeed": 121
+    },
+    {
+      "VerDistance": 1125.604722222222,
+      "VerSpeed": 124
+    },
+    {
+      "VerDistance": 1144.9380555555554,
+      "VerSpeed": 145
+    },
+    {
+      "VerDistance": 1163.2713888888889,
+      "VerSpeed": 165
+    },
+    {
+      "VerDistance": 1172.604722222222,
+      "VerSpeed": 168
+    },
+    {
+      "VerDistance": 1183.8713888888888,
+      "VerSpeed": 169
+    },
+    {
+      "VerDistance": 1191.204722222222,
+      "VerSpeed": 165
+    },
+    {
+      "VerDistance": 1200.249722222222,
+      "VerSpeed": 162
+    },
+    {
+      "VerDistance": 1214.4719444444443,
+      "VerSpeed": 160
+    },
+    {
+      "VerDistance": 1225.2052777777776,
+      "VerSpeed": 161
+    },
+    {
+      "VerDistance": 1234.3163888888887,
+      "VerSpeed": 164
+    },
+    {
+      "VerDistance": 1247.5386111111109,
+      "VerSpeed": 170
+    },
+    {
+      "VerDistance": 1261.149722222222,
+      "VerSpeed": 175
+    },
+    {
+      "VerDistance": 1273.549722222222,
+      "VerSpeed": 186
+    },
+    {
+      "VerDistance": 1284.2719444444442,
+      "VerSpeed": 193
+    },
+    {
+      "VerDistance": 1295.3274999999996,
+      "VerSpeed": 199
+    },
+    {
+      "VerDistance": 1306.8274999999996,
+      "VerSpeed": 207
+    },
+    {
+      "VerDistance": 1320.8274999999999,
+      "VerSpeed": 210
+    },
+    {
+      "VerDistance": 1332.9941666666664,
+      "VerSpeed": 219
+    },
+    {
+      "VerDistance": 1350.4941666666662,
+      "VerSpeed": 225
+    },
+    {
+      "VerDistance": 1371.383055555555,
+      "VerSpeed": 235
+    },
+    {
+      "VerDistance": 1401.2052777777774,
+      "VerSpeed": 244
+    },
+    {
+      "VerDistance": 1414.8163888888885,
+      "VerSpeed": 245
+    },
+    {
+      "VerDistance": 1439.7163888888883,
+      "VerSpeed": 249
+    },
+    {
+      "VerDistance": 1462.1163888888884,
+      "VerSpeed": 252
+    },
+    {
+      "VerDistance": 1479.0497222222218,
+      "VerSpeed": 254
+    },
+    {
+      "VerDistance": 1493.271944444444,
+      "VerSpeed": 256
+    },
+    {
+      "VerDistance": 1504.666944444444,
+      "VerSpeed": 258
+    },
+    {
+      "VerDistance": 1521.9336111111108,
+      "VerSpeed": 259
+    },
+    {
+      "VerDistance": 1548.2336111111108,
+      "VerSpeed": 263
+    },
+    {
+      "VerDistance": 1563.0113888888886,
+      "VerSpeed": 266
+    },
+    {
+      "VerDistance": 1574.9224999999997,
+      "VerSpeed": 268
+    },
+    {
+      "VerDistance": 1599.1002777777774,
+      "VerSpeed": 272
+    },
+    {
+      "VerDistance": 1623.6211111111108,
+      "VerSpeed": 275
+    },
+    {
+      "VerDistance": 1642.1544444444442,
+      "VerSpeed": 278
+    },
+    {
+      "VerDistance": 1670.1544444444442,
+      "VerSpeed": 280
+    },
+    {
+      "VerDistance": 1689.021111111111,
+      "VerSpeed": 283
+    },
+    {
+      "VerDistance": 1720.6877777777775,
+      "VerSpeed": 285
+    },
+    {
+      "VerDistance": 1736.5766666666664,
+      "VerSpeed": 286
+    },
+    {
+      "VerDistance": 1749.2877777777776,
+      "VerSpeed": 286
+    },
+    {
+      "VerDistance": 1768.4877777777779,
+      "VerSpeed": 288
+    },
+    {
+      "VerDistance": 1781.2877777777778,
+      "VerSpeed": 288
+    },
+    {
+      "VerDistance": 1797.0655555555556,
+      "VerSpeed": 284
+    },
+    {
+      "VerDistance": 1811.6766666666667,
+      "VerSpeed": 263
+    },
+    {
+      "VerDistance": 1828.21,
+      "VerSpeed": 248
+    },
+    {
+      "VerDistance": 1856.198888888889,
+      "VerSpeed": 229
+    },
+    {
+      "VerDistance": 1874.087777777778,
+      "VerSpeed": 230
+    },
+    {
+      "VerDistance": 1892.2877777777778,
+      "VerSpeed": 234
+    },
+    {
+      "VerDistance": 1910.8766666666668,
+      "VerSpeed": 239
+    },
+    {
+      "VerDistance": 1929.8544444444447,
+      "VerSpeed": 244
+    },
+    {
+      "VerDistance": 1940.787777777778,
+      "VerSpeed": 246
+    },
+    {
+      "VerDistance": 1957.2544444444445,
+      "VerSpeed": 247
+    },
+    {
+      "VerDistance": 1971.2544444444445,
+      "VerSpeed": 252
+    },
+    {
+      "VerDistance": 1982.498888888889,
+      "VerSpeed": 253
+    },
+    {
+      "VerDistance": 2011.2047222222225,
+      "VerSpeed": 259
+    },
+    {
+      "VerDistance": 2028.671388888889,
+      "VerSpeed": 262
+    },
+    {
+      "VerDistance": 2046.3380555555557,
+      "VerSpeed": 265
+    },
+    {
+      "VerDistance": 2070.249166666667,
+      "VerSpeed": 269
+    },
+    {
+      "VerDistance": 2085.38,
+      "VerSpeed": 271
+    },
+    {
+      "VerDistance": 2100.4355555555558,
+      "VerSpeed": 271
+    },
+    {
+      "VerDistance": 2118.6355555555556,
+      "VerSpeed": 273
+    },
+    {
+      "VerDistance": 2143.168888888889,
+      "VerSpeed": 276
+    },
+    {
+      "VerDistance": 2167.88,
+      "VerSpeed": 278
+    },
+    {
+      "VerDistance": 2186.4800000000005,
+      "VerSpeed": 279
+    },
+    {
+      "VerDistance": 2202.0355555555557,
+      "VerSpeed": 280
+    },
+    {
+      "VerDistance": 2220.835555555556,
+      "VerSpeed": 282
+    },
+    {
+      "VerDistance": 2252.3911111111115,
+      "VerSpeed": 284
+    },
+    {
+      "VerDistance": 2274.4800000000005,
+      "VerSpeed": 284
+    },
+    {
+      "VerDistance": 2296.6466666666674,
+      "VerSpeed": 285
+    },
+    {
+      "VerDistance": 2318.96888888889,
+      "VerSpeed": 287
+    },
+    {
+      "VerDistance": 2331.7688888888897,
+      "VerSpeed": 288
+    },
+    {
+      "VerDistance": 2357.4577777777786,
+      "VerSpeed": 289
+    },
+    {
+      "VerDistance": 2370.3022222222235,
+      "VerSpeed": 289
+    },
+    {
+      "VerDistance": 2386.4133333333343,
+      "VerSpeed": 290
+    },
+    {
+      "VerDistance": 2405.8133333333344,
+      "VerSpeed": 291
+    },
+    {
+      "VerDistance": 2444.7466666666683,
+      "VerSpeed": 292
+    },
+    {
+      "VerDistance": 2457.724444444446,
+      "VerSpeed": 292
+    },
+    {
+      "VerDistance": 2483.76888888889,
+      "VerSpeed": 293
+    },
+    {
+      "VerDistance": 2506.635555555557,
+      "VerSpeed": 294
+    },
+    {
+      "VerDistance": 2536.2530555555572,
+      "VerSpeed": 297
+    },
+    {
+      "VerDistance": 2559.5863888888903,
+      "VerSpeed": 300
+    },
+    {
+      "VerDistance": 2593.3641666666686,
+      "VerSpeed": 304
+    },
+    {
+      "VerDistance": 2607.0044444444457,
+      "VerSpeed": 305
+    },
+    {
+      "VerDistance": 2624.004444444446,
+      "VerSpeed": 306
+    },
+    {
+      "VerDistance": 2637.6933333333345,
+      "VerSpeed": 308
+    },
+    {
+      "VerDistance": 2658.226666666668,
+      "VerSpeed": 308
+    },
+    {
+      "VerDistance": 2678.9600000000014,
+      "VerSpeed": 311
+    },
+    {
+      "VerDistance": 2696.293333333335,
+      "VerSpeed": 312
+    },
+    {
+      "VerDistance": 2720.560000000001,
+      "VerSpeed": 312
+    },
+    {
+      "VerDistance": 2738.0044444444457,
+      "VerSpeed": 314
+    },
+    {
+      "VerDistance": 2751.960000000001,
+      "VerSpeed": 314
+    },
+    {
+      "VerDistance": 2776.537777777779,
+      "VerSpeed": 316
+    },
+    {
+      "VerDistance": 2794.1488888888903,
+      "VerSpeed": 317
+    },
+    {
+      "VerDistance": 2829.4822222222233,
+      "VerSpeed": 318
+    },
+    {
+      "VerDistance": 2857.8377777777787,
+      "VerSpeed": 319
+    },
+    {
+      "VerDistance": 2889.8377777777787,
+      "VerSpeed": 320
+    },
+    {
+      "VerDistance": 2907.6155555555565,
+      "VerSpeed": 320
+    },
+    {
+      "VerDistance": 2925.4488888888895,
+      "VerSpeed": 321
+    },
+    {
+      "VerDistance": 2939.7155555555564,
+      "VerSpeed": 321
+    },
+    {
+      "VerDistance": 2957.604444444445,
+      "VerSpeed": 322
+    },
+    {
+      "VerDistance": 2996.960000000001,
+      "VerSpeed": 322
+    },
+    {
+      "VerDistance": 3018.493333333334,
+      "VerSpeed": 323
+    },
+    {
+      "VerDistance": 3036.4377777777786,
+      "VerSpeed": 323
+    },
+    {
+      "VerDistance": 3054.3822222222234,
+      "VerSpeed": 323
+    },
+    {
+      "VerDistance": 3147.8922222222227,
+      "VerSpeed": 324
+    },
+    {
+      "VerDistance": 3165.892222222223,
+      "VerSpeed": 324
+    },
+    {
+      "VerDistance": 3180.2922222222237,
+      "VerSpeed": 324
+    },
+    {
+      "VerDistance": 3201.9822222222238,
+      "VerSpeed": 324
+    },
+    {
+      "VerDistance": 3222.9155555555567,
+      "VerSpeed": 314
+    },
+    {
+      "VerDistance": 3242.5822222222237,
+      "VerSpeed": 295
+    },
+    {
+      "VerDistance": 3275.337777777779,
+      "VerSpeed": 268
+    },
+    {
+      "VerDistance": 3287.115555555557,
+      "VerSpeed": 265
+    },
+    {
+      "VerDistance": 3301.6155555555565,
+      "VerSpeed": 261
+    },
+    {
+      "VerDistance": 3324.371111111112,
+      "VerSpeed": 256
+    },
+    {
+      "VerDistance": 3341.5711111111123,
+      "VerSpeed": 258
+    },
+    {
+      "VerDistance": 3358.9044444444457,
+      "VerSpeed": 260
+    },
+    {
+      "VerDistance": 3376.104444444446,
+      "VerSpeed": 258
+    },
+    {
+      "VerDistance": 3398.860000000001,
+      "VerSpeed": 256
+    },
+    {
+      "VerDistance": 3421.437777777779,
+      "VerSpeed": 254
+    },
+    {
+      "VerDistance": 3447.1377777777793,
+      "VerSpeed": 257
+    },
+    {
+      "VerDistance": 3467.04888888889,
+      "VerSpeed": 256
+    },
+    {
+      "VerDistance": 3478.6488888888903,
+      "VerSpeed": 261
+    },
+    {
+      "VerDistance": 3490.2044444444455,
+      "VerSpeed": 260
+    },
+    {
+      "VerDistance": 3504.7044444444455,
+      "VerSpeed": 261
+    },
+    {
+      "VerDistance": 3525.237777777779,
+      "VerSpeed": 264
+    },
+    {
+      "VerDistance": 3555.460000000001,
+      "VerSpeed": 272
+    },
+    {
+      "VerDistance": 3567.7266666666674,
+      "VerSpeed": 276
+    },
+    {
+      "VerDistance": 3583.171111111112,
+      "VerSpeed": 278
+    },
+    {
+      "VerDistance": 3601.9044444444457,
+      "VerSpeed": 281
+    },
+    {
+      "VerDistance": 3614.447777777779,
+      "VerSpeed": 284
+    },
+    {
+      "VerDistance": 3646.5588888888897,
+      "VerSpeed": 289
+    },
+    {
+      "VerDistance": 3659.4922222222235,
+      "VerSpeed": 291
+    },
+    {
+      "VerDistance": 3678.9588888888898,
+      "VerSpeed": 292
+    },
+    {
+      "VerDistance": 3698.6405555555566,
+      "VerSpeed": 294
+    },
+    {
+      "VerDistance": 3711.751666666668,
+      "VerSpeed": 295
+    },
+    {
+      "VerDistance": 3735.0072222222234,
+      "VerSpeed": 299
+    },
+    {
+      "VerDistance": 3755.007222222223,
+      "VerSpeed": 300
+    },
+    {
+      "VerDistance": 3785.3072222222227,
+      "VerSpeed": 303
+    },
+    {
+      "VerDistance": 3805.640555555556,
+      "VerSpeed": 305
+    },
+    {
+      "VerDistance": 3888.8405555555564,
+      "VerSpeed": 312
+    },
+    {
+      "VerDistance": 3906.17388888889,
+      "VerSpeed": 312
+    },
+    {
+      "VerDistance": 3937.57388888889,
+      "VerSpeed": 314
+    },
+    {
+      "VerDistance": 3965.662777777779,
+      "VerSpeed": 316
+    },
+    {
+      "VerDistance": 3993.3961111111125,
+      "VerSpeed": 312
+    },
+    {
+      "VerDistance": 4006.6850000000013,
+      "VerSpeed": 299
+    },
+    {
+      "VerDistance": 4023.2183333333346,
+      "VerSpeed": 248
+    },
+    {
+      "VerDistance": 4033.57388888889,
+      "VerSpeed": 233
+    },
+    {
+      "VerDistance": 4050.5516666666676,
+      "VerSpeed": 191
+    },
+    {
+      "VerDistance": 4061.4183333333344,
+      "VerSpeed": 163
+    },
+    {
+      "VerDistance": 4072.6961111111123,
+      "VerSpeed": 145
+    },
+    {
+      "VerDistance": 4080.2516666666675,
+      "VerSpeed": 136
+    },
+    {
+      "VerDistance": 4089.1183333333342,
+      "VerSpeed": 133
+    },
+    {
+      "VerDistance": 4097.185000000001,
+      "VerSpeed": 121
+    },
+    {
+      "VerDistance": 4106.407500000001,
+      "VerSpeed": 119
+    },
+    {
+      "VerDistance": 4114.474166666668,
+      "VerSpeed": 121
+    },
+    {
+      "VerDistance": 4119.89638888889,
+      "VerSpeed": 122
+    },
+    {
+      "VerDistance": 4129.965555555556,
+      "VerSpeed": 129
+    },
+    {
+      "VerDistance": 4137.6322222222225,
+      "VerSpeed": 138
+    },
+    {
+      "VerDistance": 4149.532222222222,
+      "VerSpeed": 153
+    },
+    {
+      "VerDistance": 4158.587777777778,
+      "VerSpeed": 163
+    },
+    {
+      "VerDistance": 4174.143333333333,
+      "VerSpeed": 175
+    },
+    {
+      "VerDistance": 4190.765555555556,
+      "VerSpeed": 187
+    },
+    {
+      "VerDistance": 4210.865555555556,
+      "VerSpeed": 201
+    },
+    {
+      "VerDistance": 4220.065555555556,
+      "VerSpeed": 207
+    },
+    {
+      "VerDistance": 4231.732222222223,
+      "VerSpeed": 210
+    },
+    {
+      "VerDistance": 4251.465555555556,
+      "VerSpeed": 222
+    },
+    {
+      "VerDistance": 4261.421111111112,
+      "VerSpeed": 224
+    },
+    {
+      "VerDistance": 4271.59888888889,
+      "VerSpeed": 229
+    },
+    {
+      "VerDistance": 4281.954444444445,
+      "VerSpeed": 233
+    },
+    {
+      "VerDistance": 4297.821111111111,
+      "VerSpeed": 238
+    },
+    {
+      "VerDistance": 4311.21,
+      "VerSpeed": 241
+    },
+    {
+      "VerDistance": 4334.81,
+      "VerSpeed": 236
+    },
+    {
+      "VerDistance": 4355.610000000001,
+      "VerSpeed": 234
+    },
+    {
+      "VerDistance": 4376.232222222223,
+      "VerSpeed": 232
+    },
+    {
+      "VerDistance": 4386.587777777778,
+      "VerSpeed": 233
+    },
+    {
+      "VerDistance": 4396.898888888889,
+      "VerSpeed": 232
+    },
+    {
+      "VerDistance": 4414.943333333333,
+      "VerSpeed": 232
+    },
+    {
+      "VerDistance": 4427.943333333333,
+      "VerSpeed": 234
+    },
+    {
+      "VerDistance": 4438.432222222222,
+      "VerSpeed": 236
+    },
+    {
+      "VerDistance": 4451.765555555555,
+      "VerSpeed": 240
+    },
+    {
+      "VerDistance": 4467.965555555555,
+      "VerSpeed": 243
+    },
+    {
+      "VerDistance": 4487.263055555554,
+      "VerSpeed": 249
+    },
+    {
+      "VerDistance": 4498.41861111111,
+      "VerSpeed": 251
+    },
+    {
+      "VerDistance": 4509.663055555555,
+      "VerSpeed": 253
+    },
+    {
+      "VerDistance": 4526.991388888889,
+      "VerSpeed": 222
+    },
+    {
+      "VerDistance": 4536.413611111111,
+      "VerSpeed": 212
+    },
+    {
+      "VerDistance": 4550.413611111111,
+      "VerSpeed": 180
+    },
+    {
+      "VerDistance": 4565.213611111111,
+      "VerSpeed": 148
+    },
+    {
+      "VerDistance": 4572.824722222223,
+      "VerSpeed": 137
+    },
+    {
+      "VerDistance": 4579.880277777778,
+      "VerSpeed": 127
+    },
+    {
+      "VerDistance": 4585.302500000001,
+      "VerSpeed": 122
+    },
+    {
+      "VerDistance": 4594.0136111111115,
+      "VerSpeed": 112
+    },
+    {
+      "VerDistance": 4602.1025,
+      "VerSpeed": 104
+    },
+    {
+      "VerDistance": 4607.769166666666,
+      "VerSpeed": 102
+    },
+    {
+      "VerDistance": 4615.313611111111,
+      "VerSpeed": 97
+    },
+    {
+      "VerDistance": 4624.291388888889,
+      "VerSpeed": 101
+    },
+    {
+      "VerDistance": 4628.913611111111,
+      "VerSpeed": 104
+    },
+    {
+      "VerDistance": 4634.913611111111,
+      "VerSpeed": 108
+    },
+    {
+      "VerDistance": 4643.780277777778,
+      "VerSpeed": 114
+    },
+    {
+      "VerDistance": 4652.1802777777775,
+      "VerSpeed": 126
+    },
+    {
+      "VerDistance": 4668.735833333333,
+      "VerSpeed": 149
+    },
+    {
+      "VerDistance": 4685.135833333333,
+      "VerSpeed": 164
+    },
+    {
+      "VerDistance": 4696.535833333332,
+      "VerSpeed": 171
+    },
+    {
+      "VerDistance": 4706.202499999999,
+      "VerSpeed": 174
+    },
+    {
+      "VerDistance": 4722.11361111111,
+      "VerSpeed": 179
+    },
+    {
+      "VerDistance": 4738.202499999999,
+      "VerSpeed": 181
+    },
+    {
+      "VerDistance": 4754.646944444444,
+      "VerSpeed": 185
+    },
+    {
+      "VerDistance": 4765.146944444444,
+      "VerSpeed": 189
+    },
+    {
+      "VerDistance": 4778.225555555555,
+      "VerSpeed": 197
+    },
+    {
+      "VerDistance": 4787.1144444444435,
+      "VerSpeed": 200
+    },
+    {
+      "VerDistance": 4800.904999999999,
+      "VerSpeed": 206
+    },
+    {
+      "VerDistance": 4815.104999999999,
+      "VerSpeed": 213
+    },
+    {
+      "VerDistance": 4827.21611111111,
+      "VerSpeed": 218
+    },
+    {
+      "VerDistance": 4839.604999999999,
+      "VerSpeed": 223
+    },
+    {
+      "VerDistance": 4852.327222222221,
+      "VerSpeed": 229
+    },
+    {
+      "VerDistance": 4865.327222222221,
+      "VerSpeed": 234
+    },
+    {
+      "VerDistance": 4889.727222222221,
+      "VerSpeed": 244
+    },
+    {
+      "VerDistance": 4903.560555555555,
+      "VerSpeed": 249
+    },
+    {
+      "VerDistance": 4926.31611111111,
+      "VerSpeed": 256
+    },
+    {
+      "VerDistance": 4946.693888888888,
+      "VerSpeed": 262
+    },
+    {
+      "VerDistance": 4964.427222222221,
+      "VerSpeed": 266
+    },
+    {
+      "VerDistance": 4985.582777777777,
+      "VerSpeed": 272
+    },
+    {
+      "VerDistance": 5000.860555555555,
+      "VerSpeed": 275
+    },
+    {
+      "VerDistance": 5013.260555555555,
+      "VerSpeed": 279
+    },
+    {
+      "VerDistance": 5032.060555555556,
+      "VerSpeed": 282
+    },
+    {
+      "VerDistance": 5044.682777777778,
+      "VerSpeed": 284
+    },
+    {
+      "VerDistance": 5063.816111111111,
+      "VerSpeed": 287
+    },
+    {
+      "VerDistance": 5083.149444444445,
+      "VerSpeed": 290
+    },
+    {
+      "VerDistance": 5106.016111111111,
+      "VerSpeed": 294
+    },
+    {
+      "VerDistance": 5122.460555555555,
+      "VerSpeed": 296
+    },
+    {
+      "VerDistance": 5152.560555555556,
+      "VerSpeed": 301
+    },
+    {
+      "VerDistance": 5189.838333333333,
+      "VerSpeed": 305
+    },
+    {
+      "VerDistance": 5217.216111111112,
+      "VerSpeed": 308
+    }
+  ],
+  "fastestLapData": []
+}

@@ -1,50 +1,84 @@
 // Page that shows the fastest lap of the Red Bull Racing team in all the current gps of the season if the gp hasn't been run we use the fastest lap of the last year
 //
-import React, {useState, useEffect} from "react";
+import React, {useEffect, useState} from "react";
 import FastestLapsSim from "./FastestLapsSim";
-import {Box, Typography, Grid, Select, MenuItem, Card, useTheme} from "@mui/material";
+import {Box, FormControl, Grid, InputLabel, MenuItem, Select, Typography} from "@mui/material";
 import CardWithBlueTitle from "./CardWithBlueTitle";
+import LapTable from "./LapTable";
 
-
+const circuits = ['Bahrain Grand Prix', 'Saudi Arabian Grand Prix', 'Australian Grand Prix', 'Azerbaijan Grand Prix', 'Miami Grand Prix', 'Monaco Grand Prix', 'Spanish Grand Prix', 'Canadian Grand Prix', 'Austrian Grand Prix', 'British Grand Prix', 'Hungarian Grand Prix', 'Belgian Grand Prix', 'Dutch Grand Prix', 'Italian Grand Prix', 'Singapore Grand Prix', 'Japanese Grand Prix', 'Qatar Grand Prix', 'United States Grand Prix', 'Mexico City Grand Prix', 'São Paulo Grand Prix', 'Las Vegas Grand Prix', 'Abu Dhabi Grand Prix']
 export default function FastestLapPage() {
-    const [data, setData] = useState([]); // Create state variable 'data' and set it to an empty array
-
+    const [eventData, setEventData] = useState([]);
+    const [fastestLapData, setFastestLapData] = useState([]);
+    const [eventNames, setEventNames] = useState([]);
+    const[selectedEvent, setSelectedEvent] = useState('');
+    const[lapTimes, setLapTimes] = useState([]);
 
     useEffect(() => {
-        fetch('FastestLaps/62023.json')
-            .then(response => response.json())
-            .then(data => {
-                // Grab the values from the JSON response and scale them
-                setData(data)
-            })
-            .catch(error => {
-                console.log('Error:', error);
-            });
+        const fetchData = async () => {
+            try {
+                const dataPromises = circuits.map(async (circuit) => {
+                    const response = await fetch(`events/${circuit}.json`);
+                    return response.json();
+                });
+
+                const grandPrixData = await Promise.all(dataPromises);
+                setEventData(grandPrixData);
+            } catch (error) {
+                console.error('Error fetching data:', error);
+                // Handle error if necessary
+            }
+        };
+
+        fetchData();
     }, []);
+
+    useEffect(() => {
+        setEventNames(eventData.map(gp => gp.event));
+    }, [eventData]);
+
+    useEffect(() => {
+        const selectedEventDetails = eventData.find(gp => gp.event === selectedEvent);
+        if (selectedEventDetails) {
+            setFastestLapData(selectedEventDetails.fastestLapData);
+            setLapTimes(selectedEventDetails.lapTimes);
+        }
+    }, [selectedEvent]);
+
+
 
     return (<Box sx={{p: 4, height: '100vh'}}>
         <Grid spacing={4} container sx={{height: '100%'}}>
             <Grid item xs={6}>
                 <CardWithBlueTitle text="Fastest Lap Visualizer">
                     <Box sx={{pb: 2}}>
-                        {data && <FastestLapsSim data={data}/>}
+                        {fastestLapData && <FastestLapsSim data={fastestLapData}/>}
                     </Box>
                 </CardWithBlueTitle>
             </Grid>
-            <Grid item xs={6} container direction="column" spacing={4} >
+            <Grid item xs={6} container direction="column" spacing={4}>
                 <Grid item>
-                    <Select>
-                        <MenuItem value={1}>Option 1</MenuItem>
-                        <MenuItem value={2}>Option 2</MenuItem>
-                        <MenuItem value={3}>Option 3</MenuItem>
-                    </Select>
+
+                    <FormControl fullWidth sx={{height: '100%'}}>
+                        <InputLabel id={'gp-selection'}>Select GP</InputLabel>
+                        <Select value={selectedEvent} label="Select GP" labelId="gp-selection" sx={{
+                            borderRadius: '40px', color: 'primary.main', '& .MuiOutlinedInput-notchedOutline': {
+                                borderColor: 'primary.main'
+                            }, '& .MuiSvgIcon-root': {
+                                color: 'primary.main'
+                            }
+                        }}
+                                onChange={(event) => setSelectedEvent(event.target.value)}>
+                            {eventNames.map((circuit, index) => (<MenuItem key={index} value={circuit}>
+                                {circuit}
+                            </MenuItem>))}
+                        </Select>
+                    </FormControl>
                 </Grid>
                 <Grid item sx={{flexGrow: 1}}>
                     <CardWithBlueTitle text="Fastest Lap Comparison">
                         <Box sx={{pb: 2}}>
-                            <Typography variant="h5" align="center" sx={{p: 3, color: 'white', fontWeight: 'bold'}}>
-                                TBD
-                            </Typography>
+                            {lapTimes && <LapTable data={lapTimes}></LapTable>}
                         </Box>
                     </CardWithBlueTitle>
                 </Grid>

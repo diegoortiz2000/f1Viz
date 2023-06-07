@@ -60,16 +60,17 @@ const TrackComponent = ({ points }) => {
     return (
         <>
             <mesh geometry={leftEdgesLeftDownGeometry}>
-                <meshStandardMaterial color="red" side={DoubleSide} />
+                <meshBasicMaterial color="red" side={DoubleSide}  />
             </mesh>
             <mesh geometry={rightEdgesRightDownGeometry}>
-                <meshStandardMaterial color="red" side={DoubleSide} />
+                <meshBasicMaterial color="#141E30" />
             </mesh>
             <mesh geometry={leftRightGeometry}>
-                <meshStandardMaterial color="grey" side={DoubleSide} />
+                <meshBasicMaterial color="DimGray" />
+
             </mesh>
             <mesh geometry={leftDownRightDownGeometry}>
-                <meshStandardMaterial color="red" side={DoubleSide} />
+                <meshBasicMaterial color="red" side={DoubleSide} />
             </mesh>
             <Line points={leftEdges} color={'white'} lineWidth={2}  />
             <Line points={rightEdges} color={'white'} lineWidth={2}  />
