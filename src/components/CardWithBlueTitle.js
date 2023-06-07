@@ -8,7 +8,7 @@ const CardWithBlueTitle = ({ text = 'Title', children, customBg }) => {
     return (
         <Paper elevation={3} sx={{
             borderRadius: '40px',
-            height: '100%',
+            height: '95%',
             bgcolor: customBg ? customBg : 'white',
         }}
         >

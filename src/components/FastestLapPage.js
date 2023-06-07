@@ -49,42 +49,54 @@ export default function FastestLapPage() {
     }, [selectedEvent]);
 
 
-    return (<Box sx={{p: 4, height: '100vh'}}>
-        <Grid spacing={4} container sx={{height: '100%'}}>
-            <Grid item xs={6}>
-                <CardWithBlueTitle text="Fastest Lap Visualizer" customBg={'black'}>
-
-                        {fastestLapData && <FastestLapsSim data={fastestLapData}/>}
-
-                </CardWithBlueTitle>
-            </Grid>
-            <Grid item xs={6} container direction="column" spacing={4}>
-                <Grid item>
-
-                    <FormControl fullWidth sx={{height: '100%'}}>
-                        <InputLabel id={'gp-selection'}>Select GP</InputLabel>
-                        <Select value={selectedEvent} label="Select GP" labelId="gp-selection" sx={{
-                            borderRadius: '40px', color: 'primary.main', '& .MuiOutlinedInput-notchedOutline': {
-                                borderColor: 'primary.main'
-                            }, '& .MuiSvgIcon-root': {
-                                color: 'primary.main'
-                            }
-                        }}
-                                onChange={(event) => setSelectedEvent(event.target.value)}>
-                            {eventNames.map((circuit, index) => (<MenuItem key={index} value={circuit}>
-                                {circuit}
-                            </MenuItem>))}
-                        </Select>
-                    </FormControl>
-                </Grid>
-                <Grid item sx={{flexGrow: 1}}>
-                    <CardWithBlueTitle text="Fastest Lap Comparison">
-                        {lapTimes && <LapTable data={lapTimes}></LapTable>}
-                        {lapSpeeds && <DualSpeedGraph data={lapSpeeds}/>}
+    return (
+        <Box sx={{ p: 4, height: '95vh' }}>
+            <Grid spacing={4} container sx={{ height: '100%' }}>
+                <Grid item xs={12} sm={6}>
+                    <CardWithBlueTitle text="Fastest Lap Visualizer" customBg={'black'}>
+                        {fastestLapData && <FastestLapsSim data={fastestLapData} />}
                     </CardWithBlueTitle>
                 </Grid>
+                <Grid item xs={12} sm={6}>
+                    <Grid container direction="column" spacing={4}>
+                        <Grid item>
+                            <FormControl fullWidth sx={{ height: '100%' }}>
+                                <InputLabel id={'gp-selection'}>Select GP</InputLabel>
+                                <Select
+                                    value={selectedEvent}
+                                    label="Select GP"
+                                    labelId="gp-selection"
+                                    sx={{
+                                        borderRadius: '40px',
+                                        color: 'primary.main',
+                                        '& .MuiOutlinedInput-notchedOutline': {
+                                            borderColor: 'primary.main',
+                                        },
+                                        '& .MuiSvgIcon-root': {
+                                            color: 'primary.main',
+                                        },
+                                    }}
+                                    onChange={(event) => setSelectedEvent(event.target.value)}
+                                >
+                                    {eventNames.map((circuit, index) => (
+                                        <MenuItem key={index} value={circuit}>
+                                            {circuit}
+                                        </MenuItem>
+                                    ))}
+                                </Select>
+                            </FormControl>
+                        </Grid>
+                        <Grid item>
+                            <CardWithBlueTitle text="Fastest Lap Comparison">
+                                {lapTimes && <LapTable data={lapTimes}></LapTable>}
+                                {lapSpeeds && <DualSpeedGraph data={lapSpeeds} />}
+                            </CardWithBlueTitle>
+                        </Grid>
+                    </Grid>
+                </Grid>
             </Grid>
-        </Grid>
-    </Box>);
+        </Box>
+    );
+
 
 }

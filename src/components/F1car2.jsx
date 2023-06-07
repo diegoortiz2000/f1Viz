@@ -7,21 +7,20 @@ import React, {useRef} from 'react'
 import {useGLTF} from '@react-three/drei'
 import {useFrame} from "@react-three/fiber";
 
-export function Model(props) {
+export function Model({ speed = 250, ...props }) {
     const frontTiresRef = useRef();
     const backTiresRef = useRef();
     const rimFrontRef = useRef();
     const rimBckRef = useRef();
 
-    useFrame(({clock}) => {
-        const speedKmph = 250;
+    useFrame(({ clock }) => {
+        const speedKmph = speed;
         const circumferenceInches = 18;
         // Convert speed from km/h to m/min
         const speedMpm = speedKmph * 1000 / 60;
 
         // Convert circumference from inches to meters
         const circumferenceMeters = circumferenceInches * 0.0254;
-
 
         // Calculate RPM
         const rpm = speedMpm / circumferenceMeters;

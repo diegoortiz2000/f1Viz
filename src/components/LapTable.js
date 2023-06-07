@@ -11,11 +11,9 @@ function LapTimeTableRow({time, driver, imageSource}) {
         sx={{p: 1, display: "flex", flexDirection: "row", justifyContent: "space-between", alignItems: "center"}}>
         <CardMedia component={'img'} image={imageSource} alt={'Driver image'} sx={{ width: 151 }}></CardMedia>
         <Typography variant="h5" sx={{p:3,fontWeight: 'bold', color:primaryColor }}>
-            {driver}
+            {driver + ': ' + (time ?? 'N/A')}
         </Typography>
-        <Typography variant="h5" sx={{p:3,fontWeight: 'bold'}}>
-            {time ?? 'N/A'}
-        </Typography>
+
     </Box>;
 }
 
